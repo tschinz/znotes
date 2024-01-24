@@ -29,7 +29,7 @@ jobs:
         sudo apt-get install -y build-essential
         echo "Install git"
         sudo apt-get install -y git
-        just create-venv
+        just venv-create
     - name: Build sphinx 🔧
       run: |
         just build
