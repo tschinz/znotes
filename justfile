@@ -89,11 +89,13 @@ env-source:
 
 # Build HTML static site
 @build: venv-create
+  #!/usr/bin/env bash
   {{sourceVenv}} && \
   {{BUILDER}} build
 
 # Build HTML static site and serve it locally
 @serve: venv-create
+  #!/usr/bin/env bash
   {{sourceVenv}} && \
   {{BUILDER}} serve
 

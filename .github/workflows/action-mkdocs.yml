@@ -24,6 +24,7 @@ jobs:
         python-version: '3.10'
     - run: bash
     - name: Install dependencies 💻
+      shell: bash
       run: |
 
         sudo apt-get update
@@ -32,13 +33,12 @@ jobs:
         echo "Install git"
         sudo apt-get install -y git
         just venv-create
-      shell: bash
     - name: Build mkdocs material 🔧
+      shell: bash
       run: |
         just build
         ls -la
         ls -la site
-      shell: bash
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.4.3
       with:
