@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#ffd578;}.cls-1,.cls-2,.cls-3,.cls-5{stroke:#54596e;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#ff927d;}.cls-3{fill:#ffffff;}.cls-4{fill:#54596e;}.cls-5{fill:none;}</style>
+</defs>
+<title>heart-hand</title>
+<g id="heart-hand">
+<path class="cls-1" d="M54.93,38.1,50.68,16.55a2.5,2.5,0,0,0-2.84-2.11h0a2.5,2.5,0,0,0-2.1,2.84l2.87,19.29Z"/>
+<path class="cls-1" d="M57.93,33.1,53.68,11.55a2.5,2.5,0,0,0-2.84-2.11h0a2.5,2.5,0,0,0-2.1,2.84l2.87,19.29Z"/>
+<path class="cls-1" d="M9.31,38.1l4.25-21.55a2.5,2.5,0,0,1,2.84-2.11h0a2.5,2.5,0,0,1,2.1,2.84L15.63,36.57Z"/>
+<path class="cls-1" d="M6.31,33.1l4.25-21.55A2.5,2.5,0,0,1,13.4,9.44h0a2.5,2.5,0,0,1,2.1,2.84L12.63,31.57Z"/>
+<path class="cls-2" d="M48.24,14a9.42,9.42,0,0,0-13.32,0l-2.61,2.6L29.7,14A9.42,9.42,0,0,0,16.38,27.27L19,29.88h0L32.31,43.2,45.63,29.88h0l2.61-2.61A9.42,9.42,0,0,0,48.24,14Z"/>
+<path class="cls-1" d="M55.35,5.12a2.52,2.52,0,0,0-2.52,2.49L55,26,45.06,41.12l-3.41-4.74,1.59-3.67a5,5,0,0,0-2.62-6.57l-4.75,11L40,55.29,51.47,51.5,56.87,44l3-7a18.28,18.28,0,0,0,.84-12h0L57.83,7.64A2.5,2.5,0,0,0,55.35,5.12Z"/>
+<rect class="cls-3" x="37" y="51" width="17" height="8"/>
+<circle class="cls-4" cx="49.72" cy="54.97" r="2"/>
+<path class="cls-1" d="M8.89,5.12a2.52,2.52,0,0,1,2.52,2.49L9,26,19.18,41.12l3.41-4.74L21,32.71a5,5,0,0,1,2.62-6.57l4.75,11L24.2,55.29,12.77,51.5,7.37,44l-3-7a18.28,18.28,0,0,1-.84-12h0L6.41,7.64A2.5,2.5,0,0,1,8.89,5.12Z"/>
+<rect class="cls-3" x="10.24" y="51" width="17" height="8" transform="translate(37.48 110) rotate(-180)"/>
+<circle class="cls-4" cx="14.52" cy="54.97" r="2"/>
+<path class="cls-5" d="M26.86,24.07A7,7,0,0,0,32,26a7,7,0,0,0,5.1-1.9"/>
+<circle class="cls-4" cx="23" cy="19" r="2"/>
+<circle class="cls-4" cx="41" cy="19" r="2"/>
+</g>
+</svg>
