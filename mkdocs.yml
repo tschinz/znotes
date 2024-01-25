@@ -156,6 +156,3 @@ nav:
       - License: about/license.md
       - Tags: about/tags.md
   - Blog: blog/index.md
-
-pages:
-- condaenv.yml
