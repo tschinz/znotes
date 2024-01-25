@@ -1,8 +1,22 @@
+---
+tags:
+    - about
+    - how to
+    - mkdocs
+---
 # How to use MKDocs Material Documentation
 The method below allows you to write and preview the doc easily thanks to **VSCode** and the [Dev Container](https://containers.dev) technology.
 
+[condaenv.yml](./../condaenv.yml){:download="condaenv.yml"}
+[condaenv.yml](../condaenv.yml){:download="condaenv.yml"}
+[condaenv.yml](../../static/condaenv.yml){:download="condaenv.yml"}
+
+<a href="../condaenv.yml" download>condaenv.yml</a>
+<a href="/condaenv.yml" download>condaenv.yml</a>
+<a href="/docs/condaenv.yml" download>condaenv.yml</a>
+
 !!! info
-    We do not provide support for other installation methods. A [condaenv.yml](../../condaenv.yml){:download} file is available at the root of the documentation one can consult the content of the `.devcontainer` folder to install the required programs and tools to build the documentation on its own.
+    We do not provide support for other installation methods. A [condaenv.yml](./../condaenv.yml){:download} file is available at the root of the documentation one can consult the content of the `.devcontainer` folder to install the required programs and tools to build the documentation on its own.
 
 ## Requirements
 -   [Visual Studio Code](https://code.visualstudio.com/download)
@@ -29,13 +43,15 @@ This documentation comes with a `justfile` (Makefile replacement). Use
 `just -l` to see the availabe recipes:
 
 ``` bash
-$ just -l
-
+$ just --list
 Available recipes:
-  clean      # Delete build folder(s)
-  html       # Build HTML static site
-  livehtml   # Build and serve static HTML pages
-  publichtml # Build and copy HTML in public folder (gitlab deployment)
+    build        # Build HTML static site
+    clean        # Delete build folder(s)
+    conda-create # Create the build environment
+    env-export   # Export the build environment
+    info         # Information about the environment
+    serve        # Build HTML static site and serve it locally
+    venv-create  # Create and source the python environment
 ```
 
 # Commit your changes
@@ -43,22 +59,16 @@ Available recipes:
 Before performing a commit the following steps are required:
 
 -   Verify the build of the documentation locally:
-
-    ::: prompt
-    bash
-
-    just clean && just html
-    :::
-
+    ```bash
+    just clean && just build
+    ```
 -   Solve important build `Warnings` and `Errors` (if any) in the
     output.
-
 -   Commit and push your changes
 
 ## Continuous Integration (CI)
 
-The CI is done with Github Actions with the file
-`action-sphinx.yml </../.github/workflows/action-sphinx.yml>`{.interpreted-text
+The CI is done with Github Actions with the file `action-mkdocs.yml </../.github/workflows/action-sphinx.yml>`{.interpreted-text
 role="download"} will run on each `master` commit and create a `_build/`
 folder which will be pushed onto the branch gh-pages and consequently be
 used by github to displayed static html pages.

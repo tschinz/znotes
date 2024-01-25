@@ -1,5 +1,5 @@
 # Project information
-site_name: Z-Notes
+site_name: Personal Knowledge Base
 site_url: https://github.com/tschinz/znotes
 site_author: tschinz
 site_description: >-
@@ -10,17 +10,19 @@ repo_name: tschinz/znotes
 repo_url: https://github.com/tschinz/znotes
 
 # Copyright
-copyright: >
-  Copyright &copy; 2004 - 2024 tschinz –
-  <a href="#__consent">Change cookie settings</a>
+#copyright: >
+#  Copyright &copy; 2004 - 2024 tschinz –
+#  <a href="#__consent">Change cookie settings</a>
+copyright: Copyright &copy; 2004 - 2024 tschinz
 
 # Configuration
 theme:
   name: material
-  logo: img/logo-light.svg
+  logo: img/logo-dark.svg
   icon:
     logo: logo
-  favicon: img/favicon.png
+  favicon: img/z-icon.svg
+  #favicon: img/favicon.png
   font:
     text: Fira Sans
     code: Fira Code
@@ -72,13 +74,13 @@ extra:
   #    link: /de/
   #    lang: de
   homepage: https://tschinz.github.io/znotes/
-  consent:
-    title: Cookie consent
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+  #consent:
+  #  title: Cookie consent
+  #  description: >-
+  #    We use cookies to recognize your repeated visits and preferences, as well
+  #    as to measure the effectiveness of our documentation and whether users
+  #    find what they're searching for. With your consent, you're helping us to
+  #    make our documentation better.
   social:
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/tschinz
@@ -151,4 +153,9 @@ nav:
       - Getting started: about/getting_started.md
       - Hack this site: about/howtodocument.md
       - Credits: about/credits.md
+      - License: about/license.md
+      - Tags: about/tags.md
   - Blog: blog/index.md
+
+pages:
+- condaenv.yml

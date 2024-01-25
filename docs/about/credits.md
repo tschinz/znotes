@@ -1,3 +1,8 @@
+---
+tags:
+    - about
+    - credits
+---
 ![Credits logo](img/credits.svg){ align=right width="30%" }
 # Credits
 On this website information, images and documents are used. Hereafter these credits are all listed.

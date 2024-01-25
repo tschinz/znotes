@@ -1,10 +1,10 @@
 ---
-title: License
 tags:
+    - about
     - license
 ---
-
-![](img/license.*){.align-right width="150px"}
+![](img/license.svg){ align=right width="30%"}
+# License
 
 Copyright (c) 2024, tschinz All rights reserved.
 

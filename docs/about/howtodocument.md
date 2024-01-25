@@ -1,5 +1,6 @@
 ---
 tags:
+- about
   - how to
   - mkdocs
 ---
@@ -7,7 +8,7 @@ tags:
 # HACK this documentation
 If you want to add your page to this documentation you need to add your source file `*.md` in the appropriate section. Every main section has its own folder structure and its own `img/` folder containing all images for this section.
 
-This documentation uses a a main `yml`-file [mkdocs.yml](../static/mkdocs.yml){:download="mkdocs.yml"} that tell mkdocs which file, and in what order put it in the documentation tree.
+This documentation uses a a main `yml`-file <!--[mkdocs.yml](../static/mkdocs.yml){:download="mkdocs.yml"}--> that tell mkdocs which file, and in what order put it in the documentation tree.
 
 ```yaml
 - Home: index.md

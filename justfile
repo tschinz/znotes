@@ -80,12 +80,10 @@ _default:
 
 # Export the build environment
 @env-export:
+  #!/usr/bin/env bash
+  {{sourceVenv}} && \
   {{ENV_TOOL}} env export > {{ENV_FILE}}
   pip freeze > requirements.txt
-
-# Source the build environment
-env-source:
-  {{ENV_TOOL}} activate {{ENV_NAME}}
 
 # Build HTML static site
 @build: venv-create

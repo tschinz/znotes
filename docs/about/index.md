@@ -1,3 +1,7 @@
+---
+tags:
+    - about
+---
 ![About logo](img/logo.svg){align=right width="150"}
 # About
 
