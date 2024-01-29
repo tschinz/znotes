@@ -2,8 +2,8 @@
 tags:
   - about
 ---
-![](img/tags.svg){ align=right width="30%"}
 # Tags
+![](img/tags.svg){.center width="20%"}
 
 Following is a list of relevant tags:
 

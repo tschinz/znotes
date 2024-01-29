@@ -3,8 +3,8 @@ tags:
     - about
     - license
 ---
-![](img/license.svg){ align=right width="30%"}
 # License
+![](img/license.svg){.center width="20%"}
 
 Copyright (c) 2024, tschinz All rights reserved.
 

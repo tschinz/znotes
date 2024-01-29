@@ -1,5 +1,5 @@
 # Project information
-site_name: Personal Knowledge Base
+site_name: Braindump
 site_url: https://github.com/tschinz/znotes
 site_author: tschinz
 site_description: >-
@@ -107,8 +107,11 @@ plugins:
       categories:
         - categories
         - tags
+  - caption
   - glightbox
   - offline
+  #- markdownwavedrom
+
 markdown_extensions:
   - admonition                 # admonition boxes
   - attr_list                  # buttons, annotations, grids, etc.
@@ -140,19 +143,32 @@ markdown_extensions:
   - pymdownx.arithmatex:       # mathjax
       generic: true
   - abbr                       # tooltips
+  #- plantuml_markdown
 
 extra_javascript:
-  - javascripts/mathjax.js    # mathjax
+  - _extra/js/mathjax.js    # mathjax
   - https://polyfill.io/v3/polyfill.min.js?features=es6 # polyfill for mathjax
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # mathjax
-
+  #- _extra/js/wavedrom.unpkg.js
+  #- _extra/js/skin-default.js
+  - https://cdn.jsdelivr.net/npm/wavedrom@2.1.2/wavedrom.unpkg.js
+  - https://wavedrom.com/skins/default.js
+extra_css:
+    - _extra/css/extra.css
 nav:
   - Home: index.md
+  - Multimedia:
+      - multimedia/index.md
+      - Writing:
+        - multimedia/writing/index.md
+        - MKDocs:
+          - multimedia/writing/mkdocs/index.md
+          - CheatSheet: multimedia/writing/mkdocs/cheatsheet.md
   - About:
       - about/index.md
+      - Credits: about/credits.md
       - Getting started: about/getting_started.md
       - Hack this site: about/howtodocument.md
-      - Credits: about/credits.md
       - License: about/license.md
       - Tags: about/tags.md
   - Blog: blog/index.md

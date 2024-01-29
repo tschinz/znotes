@@ -2,8 +2,8 @@
 tags:
     - about
 ---
-![About logo](img/logo.svg){align=right width="150"}
 # About
+![](img/logo.svg){.center width="20%"}
 
 [tschinz - Github Profile](https://github.com/tschinz)
 

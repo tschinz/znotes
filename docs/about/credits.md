@@ -3,8 +3,8 @@ tags:
     - about
     - credits
 ---
-![Credits logo](img/credits.svg){ align=right width="30%" }
 # Credits
+![Credits logo](img/credits.svg){.center width="20%"}
 On this website information, images and documents are used. Hereafter these credits are all listed.
 
 Many icons on this pages are from [Flaticon](https://www.flaticon.com/)

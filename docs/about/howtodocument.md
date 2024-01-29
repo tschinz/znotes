@@ -4,11 +4,11 @@ tags:
   - how to
   - mkdocs
 ---
-![](img/hack.svg){align=right width="150px"}
 # HACK this documentation
+![](img/hack.svg){.center width="20%"}
 If you want to add your page to this documentation you need to add your source file `*.md` in the appropriate section. Every main section has its own folder structure and its own `img/` folder containing all images for this section.
 
-This documentation uses a a main `yml`-file <!--[mkdocs.yml](../static/mkdocs.yml){:download="mkdocs.yml"}--> that tell mkdocs which file, and in what order put it in the documentation tree.
+This documentation uses a a main `yml`-file [mkdocs.yml](https://github.com/tschinz/znotes-mkdocs/blob/main/mkdocs.yml) that tell mkdocs which file, and in what order put it in the documentation tree.
 
 ```yaml
 - Home: index.md
@@ -18,7 +18,7 @@ This documentation uses a a main `yml`-file <!--[mkdocs.yml](../static/mkdocs.ym
   - Blog: blog/index.md
 ```
 
-If you don't have enough knowledge about Markdown then you can also use the [pandoc translator](https://pandoc.org/try/) or use the internal [Cheatsheet](../multimedia/writing/mkdocs/cheatsheet)
+If you don't have enough knowledge about Markdown then you can also use the [pandoc translator](https://pandoc.org/try/) or use the internal [Cheatsheet](../multimedia/writing/mkdocs/cheatsheet.md)
 
 ## New Section
 A new section of subsection typically starts with an `index.md` file.
