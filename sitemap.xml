@@ -41,6 +41,26 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/tschinz/znotes/multimedia/index.html</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/tschinz/znotes/multimedia/writing/index.html</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/tschinz/znotes/multimedia/writing/mkdocs/index.html</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/tschinz/znotes/multimedia/writing/mkdocs/cheatsheet.html</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/tschinz/znotes/about/tags.html</loc>
          <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
