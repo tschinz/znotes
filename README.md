@@ -8,7 +8,7 @@
 
 This is the static sphinx documentation for myself
 
-![Github Pages Deploy](https://github.com/tschinz/znotes/actions/workflows/action-sphinx.yml/badge.svg)
+![Github Pages Deploy](https://github.com/tschinz/znotes/actions/workflows/action-mkdocs.yml/badge.svg)
 
 # How to use the MKCods Materials Documentation Platform
 ## MKDocs Materials Requirements
