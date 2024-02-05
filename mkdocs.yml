@@ -8,6 +8,7 @@ site_description: >-
 # Repository
 repo_name: tschinz/znotes
 repo_url: https://github.com/tschinz/znotes
+edit_uri: edit/main/docs/
 
 # Copyright
 #copyright: >
