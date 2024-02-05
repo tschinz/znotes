@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.377084mm"
+   height="19.314583mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="bram.svg"
+   inkscape:export-filename="C:\Documents and Settings\zas\Desktop\bram.png"
+   inkscape:export-xdpi="149.99924"
+   inkscape:export-ydpi="149.99924"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-25.013903"
+     inkscape:cy="31.02431"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1800"
+     inkscape:window-height="1069"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-198.5"
+       originy="-998.65751"
+       spacingx="1"
+       spacingy="1" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="35.1,30.675795"
+       id="guide3836"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="36.16667,37.075795"
+       id="guide3838"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-198.5,-50.862183)">
+    <path
+       style="fill:none;stroke:#999999;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 200,107.36218 V 92.362183 h 5 v -10 h -5 v -25 c 0,-3 2,-5 5,-5 h 30 c 3,0 5,2 5,5 v 25 h -5 v 10 h 5 v 14.999997 c 0,0 0,7 0,10 0,3 -2,5 -5,5 -3,0 -27,0 -30,0 -3,0 -5,-2 -5,-5 0,-3 0,-10 0,-10 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccsccccczzzzc"
+       inkscape:export-filename="C:\Documents and Settings\zas\Desktop\bitmap.png"
+       inkscape:export-xdpi="439.02438"
+       inkscape:export-ydpi="439.02438"
+       id="path8" />
+    <path
+       style="fill:#808080;stroke:#999999;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="0.53813929"
+       inkscape:transform-center-y="-0.51505919"
+       d="m 200,112.36218 4,-2.5 -4,-2.5 z"
+       id="path3809"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#808080;stroke:#999999;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="0.53813929"
+       inkscape:transform-center-y="-0.51505919"
+       d="m 200,72.362183 4,-2.5 -4,-2.5 z"
+       id="path3809-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none"
+       x="233.46815"
+       y="79.936455"
+       id="text3832"
+       transform="scale(0.88462289,1.1304252)"><tspan
+         sodipodi:role="line"
+         id="tspan3834"
+         x="233.46815"
+         y="79.936455"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#999999;stroke:none">BRAM</tspan></text>
+  </g>
+</svg>

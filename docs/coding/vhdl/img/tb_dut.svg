@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350.71033"
+   height="170"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="tb_dut.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="61.197234"
+     inkscape:cy="90.637873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-174.95689,-312.78333)">
+    <g
+       id="g3796"
+       transform="translate(-7.3571625,1.9000854)">
+      <rect
+         ry="0"
+         transform="scale(1,-1)"
+         y="-480.88324"
+         x="287.67703"
+         height="100"
+         width="140"
+         id="rect2985"
+         style="fill:#2d5016;fill-opacity:0.64021164;stroke:none" />
+      <text
+         id="text3757"
+         y="445.76825"
+         x="315.38275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Aldhabi;-inkscape-font-specification:Aldhabi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#bec8b7"
+           y="445.76825"
+           x="315.38275"
+           id="tspan3759"
+           sodipodi:role="line">DUT</tspan></text>
+    </g>
+    <rect
+       style="fill:#214478;fill-opacity:0.64021164;stroke:none"
+       id="rect3761"
+       width="50"
+       height="170"
+       x="174.95689"
+       y="312.78333" />
+    <rect
+       style="fill:#214478;fill-opacity:0.64021164;stroke:none"
+       id="rect3761-1"
+       width="50"
+       height="170"
+       x="475.66724"
+       y="312.78333" />
+    <rect
+       style="fill:#214478;fill-opacity:0.64021164;stroke:none"
+       id="rect3761-7"
+       width="250.73047"
+       height="50"
+       x="224.9537"
+       y="312.78333" />
+    <path
+       style="fill:#782121;fill-opacity:0.64021164;stroke:none"
+       d="m 224.93744,424.68857 40.22685,0 0.0404,-7.27355 15.11297,15.09457 -15.11297,15.64205 -0.0404,-7.42601 -40.22685,-0.16062 z"
+       id="path3823"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#782121;fill-opacity:0.64021164;stroke:none"
+       d="m 420.31884,424.68857 40.2268,0 0.04,-7.27355 15.113,15.09457 -15.113,15.64205 -0.04,-7.42601 -40.2268,-0.16062 z"
+       id="path3823-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       id="text3757-0"
+       y="350.89856"
+       x="259.50839"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Aldhabi;-inkscape-font-specification:Aldhabi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#afc6e9"
+         y="350.89856"
+         x="259.50839"
+         id="tspan3759-9"
+         sodipodi:role="line">Testbench</tspan></text>
+  </g>
+</svg>

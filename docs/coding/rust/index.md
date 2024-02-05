@@ -1,0 +1,64 @@
+---
+tags:
+- coding
+---
+# Rust
+![](img/logo.svg){.center width="20%"}
+<br>
+![](img/rustacean.svg){.center width="20%"}
+
+
+## Introduction
+
+A language empowering everyone to build reliable and efficient software.
+
+- **Performance** - Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+- **Reliability** - Rust's rich type system and ownership model guarantee memory-safety and thread-safety --- enabling you to eliminate many classes of bugs at compile-time.
+- **Productivity** - Rust has great documentation, a friendly compiler with useful error messages, and top-notch tooling --- an integrated package manager and build tool, smart multi-editor support with auto-completion and type inspections, an auto-formatter, and more.
+
+## Cheatsheets
+
+- [Rust Cheatsheet]({{base_repo_file}}/docs/coding/rust/docs/rust-cheatsheet.pdf)
+- [cheats.rs](https://cheats.rs)
+- [Cargo Cheatsheet]({{base_repo_file}}/docs/coding/rust/docs/cargo-cheatsheet.pdf)
+- [Rust container Cheatsheet]({{base_repo_file}}/docs/coding/rust/docs/rust_container-cheatsheet.pdf)
+- [quickref Rust](https://quickref.me/rust)
+- [phaiax Rust Cheatsheet](https://phaiax.github.io/rust-cheatsheet/)
+
+## References
+
+- [Rust](https://www.rust-lang.org)
+
+## Libraries
+
+- [crates.io](https://crates.io) - Official Rust Libraries
+- [lib.rs](https://lib.rs) - Unofficial Rust Libraries
+- [libraries.io Rust](https://libraries.io/languages/Rust)
+
+# Documentation
+
+- [Rust Book](https://doc.rust-lang.org/book/)
+- [Rust Cargo](https://doc.rust-lang.org/cargo)
+- [Rust @ DevDocs](https://devdocs.io/rust/)
+
+## Contents
+
+- [Install](install.md)
+- [Toolchain](toolchain.md)
+- [Basic](basic.md)
+- [Concepts](concepts.md)
+- [Data-Types](data_types.md)
+- [Naming Conventions](naming-convention.md)
+- [Syntax](syntax.md)
+- [Traits](traits.md)
+- [Lifetimes](lifetimes.md)
+- [Generics](generics.md)
+- [Iterators](iterators.md)
+- [Testing](testing.md)
+- [Libraries](libraries.md)
+- [Package](package.md)
+- [Error Handling](error_handling.md)
+- [Memory Regions](memory_regions.md)
+- [Modules](modules.md)
+- [Workspaces](workspaces.md)
+- [RustDoc](rustdoc.md)

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   viewBox="0 0 352.5 405"
+   id="svg194"
+   sodipodi:docname="vhdl.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs198" />
+  <sodipodi:namedview
+     id="namedview196"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.58271605"
+     inkscape:cx="106.39831"
+     inkscape:cy="202.5"
+     inkscape:window-width="1309"
+     inkscape:window-height="404"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg194" />
+  <metadata
+     id="metadata182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-80,-279.86218)"
+     id="g192"
+     style="stroke:#999999">
+    <path
+       style="stroke-linejoin:miter;stroke:#999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:25;fill:none"
+       d="m140,672.36,0-380,220,0,60,54.286,0,325.71z"
+       id="path184" />
+    <rect
+       style="fill-rule:evenodd;fill:#999999;stroke:#999999"
+       height="140"
+       width="260"
+       y="352.36"
+       x="80"
+       id="rect186" />
+    <text
+       style="font-size:80px;font-family:Tahoma;letter-spacing:0px;font-style:normal;word-spacing:0px;font-stretch:normal;font-variant:normal;font-weight:normal;line-height:125%;fill:#000000;stroke:#999999"
+       xml:space="preserve"
+       y="454.36218"
+       x="93.664063"
+       id="text190"><tspan
+         x="93.664063"
+         style="font-size:85px;font-weight:bold;fill:#ffffff;stroke:#999999"
+         y="454.36218"
+         id="tspan188">VHDL</tspan></text>
+  </g>
+</svg>

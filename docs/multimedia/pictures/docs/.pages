@@ -1,0 +1,29 @@
+nav:
+  - Mac:
+    - os/mac/index.md
+    - Commandline:
+      - os/mac/commandline/index.md
+      - Cheatsheet: os/mac/commandline/cheatsheet.md
+    - Homebrew: os/mac/homebrew.md
+    - Keyboard: os/mac/keyboard.md
+    - GeekTools: os/mac/geektool.md
+  - Linux:
+    - os/linux/index.md
+    - Commandline:
+      - os/linux/commandline/index.md
+      - Cheatsheet: os/linux/commandline/cheatsheet.md
+      - General: os/linux/commndline/general.md
+      - Crontab: os/linux/commndline/crontab.md
+      - DD: os/linux/commndline/dd.md
+      - SSH: os/linux/commndline/ssh.md
+      - Network: os/linux/commndline/network.md
+      - RSync: os/linux/commndline/rsync.md
+  - Unraid: os/unraid/index.md
+  - Windows:
+    - os/win/index.md
+    - Commandline: os/win/cmdline.md
+    - Firewall: os/win/firewall.md
+    - Group Policies: os/win/group_policies.md
+    - Power: os/win/power.md
+    - Registry: os/win/registry_location.md
+    - WSL: os/win/wsl.md

@@ -5,24 +5,10 @@ tags:
 # About
 ![](img/logo.svg){.center width="20%"}
 
-[tschinz - Github Profile](https://github.com/tschinz)
+Not much to talk about. Check out the social links at the bottom the rest is here:
 
-# Find me at
-[Github](https://github.com/tschinz)
-[Twitter \@tschinz](https://twitter.com/tschinz)
-
-# Config repo
-[Config Repo](https://github.com/tschinz/config)
-
-## Todo
-
-!!! note "Todo"
-    Github CI not working for PDF creation
-
-!!! note "Todo"
-    Missing pages from original znotes
-
-!!! note "Todo"
-    missing links to config repo
-
-
+- [Getting started](getting_started.md)
+- [Hack this site](howtodocument.md)
+- [Credits](credits.md)
+- [License](license.md)
+- [Tags](tags.md)

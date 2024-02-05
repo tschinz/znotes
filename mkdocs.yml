@@ -52,7 +52,7 @@ theme:
   language: en
   features:
     - navigation.tabs     # enable tabs top section
-    - navigation.sections # enable section on the left side
+    #- navigation.sections # enable section on the left side
     - navigation.path     # show path navigation
     - navigation.indexes  # toplevel index is the first page
     - navigation.top      # back to top
@@ -65,6 +65,7 @@ theme:
     - announce.dismiss    # possibility to dismiss announcements
     - header.autohide     # autohide header on scroll
     - content.code.copy   # copy button for code blocks
+    - content.action.edit # edit button for pages
 extra:
   #alternate:
   #  - name: English
@@ -73,7 +74,13 @@ extra:
   #  - name: Deutsch
   #    link: /de/
   #    lang: de
-  homepage: https://tschinz.github.io/znotes/
+  base_url: https://tschinz.github.io/znotes
+  base_repo: https://github.com/tschinz/znotes-mkdocs
+  base_repo_file: https://github.com/tschinz/znotes-mkdocs/blob/main
+  base_repo_folder: https://github.com/tschinz/znotes-mkdocs/tree/main
+  config_repo: https://github.com/tschinz/config
+  config_repo_file: https://github.com/tschinz/config/blob/master
+  config_repo_folder: https://github.com/tschinz/config/tree/master
   #consent:
   #  title: Cookie consent
   #  description: >-
@@ -93,9 +100,11 @@ extra:
   generator: false
 plugins:
   #- meta
+  - search
+  - awesome-pages
   - tags:
       tags_file: about/tags.md
-  - search
+  - macros
   - blog:
       blog_toc: true
       authors_file: "{blog}/.authors.yml"
@@ -156,14 +165,358 @@ extra_javascript:
 extra_css:
     - _extra/css/extra.css
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - Coding: coding/index.md
+    - Tools: tools/index.md
+    - OS: os/index.md
+    - Computer Science: computerscience/index.md
+    - Hardware: hw/index.md
+    - Multimedia: multimedia/index.md
+    - Security: security/index.md
+    - About: about/index.md
+  - Coding:
+      - coding/index.md
+      - General: coding/general/index.md
+      - Licenses:
+        - coding/licenses/index.md
+        - All Rights Reserved: coding/licenses/all_rights_reserved.md
+        - MIT: coding/licenses/mit.md
+        - WTFPL: coding/licenses/wtfpl.md
+      - Rust:
+        - coding/rust/index.md
+        - Install: coding/rust/install.md
+        - Toolchain: coding/rust/toolchain.md
+        - Basic: coding/rust/basic.md
+        - Concepts: coding/rust/concepts.md
+        - Data-Types: coding/rust/data_types.md
+        - Naming Conventions: coding/rust/naming-convention.md
+        - Syntax: coding/rust/syntax.md
+        - Traits: coding/rust/traits.md
+        - Lifetimes: coding/rust/lifetimes.md
+        - Generics: coding/rust/generics.md
+        - Iterators: coding/rust/iterators.md
+        - Testing: coding/rust/testing.md
+        - Libraries: coding/rust/libraries.md
+        - Package: coding/rust/package.md
+        - Error Handling: coding/rust/error_handling.md
+        - Memory Regions: coding/rust/memory_regions.md
+        - Modules: coding/rust/modules.md
+        - Workspaces: coding/rust/workspaces.md
+        - RustDoc: coding/rust/rustdoc.md
+      - Rust-embedded:
+        - coding/rust-embedded/index.md
+        - Install: coding/rust-embedded/install.md
+        - RISC-V: coding/rust-embedded/riscv.md
+      - Scala:
+        - coding/scala/index.md
+        - Basic: coding/scala/basic.md
+        - Syntax: coding/scala/syntax.md
+        - Libraries: coding/scala/libraries.md
+        - Coding Convention: coding/scala/coding_convention_spinalhdl.md
+      - Spinal:
+        - coding/spinal/index.md
+        - Install: coding/spinal/install.md
+        - Project: coding/spinal/project.md
+        - Types: coding/spinal/types.md
+        - Tools:
+          - coding/spinal/tools/index.md
+          - GTKWave: coding/spinal/tools/gtkwave.md
+          - Intellij Idea: coding/spinal/tools/intellij_idea.md
+      - Vhdl:
+        - coding/vhdl/index.md
+        - Guidelines: coding/vhdl/guidelines.md
+        - Syntax: coding/vhdl/syntax.md
+        - Attributes: coding/vhdl/attributes.md
+        - Conversion: coding/vhdl/conversion.md
+        - File: coding/vhdl/file.md
+        - Libraries: coding/vhdl/libraries.md
+        - Examples: coding/vhdl/examples.md
+        - Testbench: coding/vhdl/testbench.md
+        - Time: coding/vhdl/time.md
+        - OSVVM: coding/vhdl/osvvm.md
+        - Simulation: coding/vhdl/simulation.md
+        - Synthesis: coding/vhdl/synthesis.md
+        - Intel SDC:
+          - coding/vhdl/intel_sdc.md
+          - Theory: coding/vhdl/intel_sdc_theory.md
+          - Usage: coding/vhdl/intel_sdc_usage.md
+        - Xilinx UCF: coding/vhdl/xilinx_ucf.md
+      - Tcl_tk_do:
+        - coding/tcl_tk_do/index.md
+        - Syntax: coding/tcl_tk_do/syntax.md
+        - FPGA Scripting: coding/tcl_tk_do/fpga_scripting.md
+        - Examples: coding/tcl_tk_do/examples.md
+      - Python:
+        - coding/python/index.md
+        - Syntax: coding/python/syntax.md
+        - Methods: coding/python/methods.md
+        - STDLib: coding/python/stdlib.md
+        - Print: coding/python/print.md
+        - Datetime: coding/python/datetime.md
+        - DocString: coding/python/docstring.md
+        - Flake8: coding/python/flake8.md
+        - PiP: coding/python/pip_general.md
+        - PiPEnv: coding/python/pipenv.md
+        - VirtualEnv: coding/python/virutalenv.md
+        - Pandas: coding/python/pandas.md
+        - Plotly Dash: coding/python/plotly_dash.md
+        - PyQt: coding/python/pyqt.md
+        - Awesome Packages:
+          - coding/python/awesome_packages.md
+          - Fuzzy Wuzzy: coding/python/packages/fuzzywuzzy.md
+          - TQDM: coding/python/packages/tqdm.md
+          - Pillow: coding/python/packages/pillow.md
+          - Colorama: coding/python/packages/colorama.md
+          - Request: coding/python/packages/requests.md
+          - Flask: coding/python/packages/flask.md
+          - Plotly: coding/python/packages/plotly.md
+          - Plotly Dash: coding/python/packages/plotly_dash.md
+          - Streamlit: coding/python/packages/streamlit.md
+        - Examples: coding/python/examples.md
+      - Regex: coding/regex/index.md
+      - Swift:
+        - coding/swift/index.md
+        - Basics: coding/swift/01_basics.md
+        - Model View Controller: coding/swift/02_mvc.md
+        - Properties: coding/swift/03_properties.md
+        - Data Structures & Methods: coding/swift/04_datastructures_methods.md
+        - Control Flow: coding/swift/05_controlflow.md
+        - Multithreading: coding/swift/06_multithreading.md
+        - NSClasses: coding/swift/07_nsclasses.md
+        - Views: coding/swift/08_views.md
+        - UI Element: coding/swift/081_uielements.md
+        - Others: coding/swift/09_other.md
+      - C/C++:
+        - coding/c_cpp/index.md
+        - Syntax: coding/c_cpp/syntax.md
+        - Linkerscript: coding/c_cpp/linkerscript.md
+        - XF: coding/c_cpp/executionframework.md
+      - ROS:
+        - coding/ros/index.md
+        - Book Summary: coding/ros/books-summary.md
+        - Install: coding/ros/install.md
+        - Lidar Driver: coding/ros/lidar-driver.md
+        - Commands: coding/ros/commands.md
+        - Packages: coding/ros/packages.md
+        - External Packages: coding/ros/packages-ext.md
+        - Basics: coding/ros/basics.md
+        - Launch: coding/ros/launch.md
+        - Catkin Tools: coding/ros/catkin_tools.md
+        - RViz: coding/ros/rviz.md
+        - TF2: coding/ros/tf2.md
+      - AHK:
+        - coding/ahk/index.md
+        - Key Definitions: coding/ahk/key_definitions.md
+        - Tips & Ticks: coding/ahk/tips_tricks.md
+  - Tools:
+      - tools/index.md
+      - Just:
+        - tools/just/index.md
+        - Intro: tools/just/intro.md
+        - Install: tools/just/install.md
+        - Examples: tools/just/examples.md
+      - Make:
+        - tools/make/index.md
+        - Syntax: tools/make/syntax.md
+        - Example: tools/make/examples.md
+      - Git:
+        - tools/git/index.md
+        - General: tools/git/general.md
+        - Comands: tools/git/commands.md
+        - Submodules: tools/git/submodules.md
+        - .gitignore: tools/git/gitignore.md
+        - Gitflow: tools/git/flow.md
+        - Github: tools/git/github.md
+      - Docker:
+        - tools/docker/index.md
+        - Basics: tools/docker/basics.md
+        - Docker CMD: tools/docker/docker_cmd.md
+        - Dockerfile: tools/docker/dockerfile.md
+        - Common Fixes: tools/docker/common_fixes.md
+      - Pandoc: tools/pandoc/index.md
+      - Cmder: tools/cmder/index.md
+      - Google: tools/google/index.md
+      - Anaconda:
+        - tools/anaconda/index.md
+        - Install: tools/anaconda/install.md
+        - Conda: tools/anaconda/conda.md
+      - Chromium: tools/chromium/index.md
+      - Jupyter:
+        - tools/jupyter/index.md
+        - General: tools/jupyter/general.md
+        - Common Functions: tools/jupyter/common_functions.md
+        - Convert: tools/jupyter/convert.md
+        - Installation: tools/jupyter/installation.md
+        - Install Plotly Dash: tools/jupyter/install_plotly_dash.md
+      - Heroku: tools/heroku/index.md
+      - Pihole: tools/pihole/index.md
+      - Sphinx:
+        - tools/sphinx/index.md
+        - Syntax: tools/sphinx/syntax.md
+      - Jetbrains:
+        - tools/jetbrains/index.md
+        - Intellij IDEA: tools/jetbrains/intellij_idea.md
+        - PyCharm: tools/jetbrains/pycharm.md
+      - Sublimetext:
+        - tools/sublimetext/index.md
+        - Settings: tools/sublimetext/settings.md
+        - Plugins: tools/sublimetext/plugins.md
+      - Virtualbox:
+        - tools/virtualbox/index.md
+        - Intro: tools/virtualbox/intro.md
+      - Mentor:
+        - tools/mentor/index.md
+        - Install: tools/mentor/install.md
+      - Bittorrent:
+        - tools/bittorrent/index.md
+        - Creating Torrents: tools/bittorrent/creating_torrent.md
+      - Nmap: tools/nmap/index.md
+      - Useful: tools/useful_tools/useful_tools.md
+  - OS:
+      - os/index.md
+      - Linux:
+        - os/linux/index.md
+        - Commandline:
+          - os/linux/commandline/index.md
+          - Cheatsheet: os/linux/commandline/cheatsheet.md
+          - General: os/linux/commandline/general.md
+          - Crontab: os/linux/commandline/crontab.md
+          - DD: os/linux/commandline/dd.md
+          - SSH: os/linux/commandline/ssh.md
+          - Network: os/linux/commandline/network.md
+          - RSync: os/linux/commandline/rsync.md
+        - Tools:
+          - os/linux/tools/index.md
+          - Apache: os/linux/tools/apache.md
+          - Hardware Sensors: os/linux/tools/hw_sensors.md
+          - Let's Encrypt: os/linux/tools/lets_encrypt.md
+          - Mosquitto: os/linux/tools/mosquitto.md
+          - Raid: os/linux/tools/raid.md
+          - Samba: os/linux/tools/samba.md
+          - Shairport: os/linux/tools/shairport.md
+          - SystemD: os/linux/tools/systemd.md
+          - VIm: os/linux/tools/vim.md
+          - VNC: os/linux/tools/vnc.md
+          - VPN: os/linux/tools/vpn.md
+        - Scripts:
+          - os/linux/scripts/index.md
+          - General: os/linux/scripts/general.md
+          - Config Files: os/linux/scripts/config_files.md
+        - Filesystem:
+          - os/linux/filesystem/index.md
+          - Setup: os/linux/filesystem/folders.md
+          - Files: os/linux/filesystem/files.md
+        - Raspberry Pi:
+          - os/linux/rpi/index.md
+          - Setup: os/linux/rpi/setup.md
+        - Ubuntu:
+          - os/linux/ubuntu/index.md
+          - Install: os/linux/ubuntu/install.md
+          - Problems: os/linux/ubuntu/problems.md
+      - Unraid: os/unraid/index.md
+      - Mac:
+        - os/mac/index.md
+        - Commandline:
+          - os/mac/commandline/index.md
+          - Cheatsheet: os/mac/commandline/cheatsheet.md
+        - Homebrew: os/mac/homebrew.md
+        - Keyboard: os/mac/keyboard.md
+        - GeekTools: os/mac/geektool.md
+      - Windows:
+        - os/win/index.md
+        - Commandline: os/win/cmdline.md
+        - Firewall: os/win/firewall.md
+        - Group Policies: os/win/group_policies.md
+        - Power: os/win/power.md
+        - Registry: os/win/registry_location.md
+        - WSL: os/win/wsl.md
+  - Computer Science:
+      - computerscience/index.md
+      - Codes:
+          - computerscience/codes/index.md
+          - Number Systems: computerscience/codes/number-system.md
+          - ASCII: computerscience/codes/ascii.md
+          - Braille: computerscience/codes/braille.md
+          - Morse: computerscience/codes/morse.md
+      - Datascience:
+          - computerscience/datascience/index.md
+          - Statistics: computerscience/datascience/statistic.md
+          - Algorithms: https://tschinz.github.io/days-of-algo
+  - Hardware:
+      - hw/index.md
+      - Raspberry Pi:
+          - hw/raspberry/index.md
+          - Boards: hw/raspberry/boards.md
+          - General: hw/raspberry/general.md
+          - RetroPie: hw/raspberry/retropie.md
+          - Retroflag Case: hw/raspberry/picase.md
+      - PYNQ-Z1:
+          - hw/pynq-z1/index.md
+          - General: hw/pynq-z1/general.md
+          - Overlays: hw/pynq-z1/overlays.md
+          - PYNQ-Package: hw/pynq-z1/pynq-package.md
   - Multimedia:
       - multimedia/index.md
       - Writing:
         - multimedia/writing/index.md
-        - MKDocs:
-          - multimedia/writing/mkdocs/index.md
-          - CheatSheet: multimedia/writing/mkdocs/cheatsheet.md
+        - Typst:
+          - multimedia/writing/typst/index.md
+          - Install: multimedia/writing/typst/install.md
+          - Intro: multimedia/writing/typst/intro.md
+          - Templates: multimedia/writing/typst/templates.md
+        - Markdown:
+          - multimedia/writing/md/index.md
+          - Github: multimedia/writing/md/md_github.md
+          - MKDocs:
+            - multimedia/writing/md/mkdocs/index.md
+            - CheatSheet: multimedia/writing/md/mkdocs/cheatsheet.md
+        - LLM Prompts:
+           - multimedia/writing/llm/index.md
+        - Latin:
+          - multimedia/writing/latin/index.md
+        - GitBook:
+          - multimedia/writing/gitbook/index.md
+        - Latex:
+          - multimedia/writing/latex/index.md
+          - Install: multimedia/writing/latex/install.md
+        - REsTful:
+          - multimedia/writing/rst/index.md
+          - Cheatsheet: multimedia/writing/rst/cheatsheet.md
+          - Lexer: multimedia/writing/rst/pygment_lexer.md
+      - Text:
+        - multimedia/text/index.md
+        - Books: multimedia/text/books.md
+        - Email Replies: multimedia/text/email_replies.md
+        - Fileheaders: multimedia/text/fileheaders.md
+        - Programmer Jokes: multimedia/text/programmer_jokes.md
+        - Quotes: multimedia/text/quotes.md
+        - Fonts: multimedia/text/fonts.md
+      - Pictures:
+        - multimedia/pictures/index.md
+        - ASCII-Art: multimedia/pictures/ascii_art.md
+        - Wavedrom: multimedia/pictures/wavedrom.md
+        - Mermaid: multimedia/pictures/mermaid.md
+        - PlantUml: multimedia/pictures/plantuml.md
+        - GraphViz: multimedia/pictures/graphviz.md
+        - Icons: multimedia/pictures/icons.md
+        - Emoji:
+          - multimedia/pictures/emoji/index.md
+          - All: multimedia/pictures/emoji/all.md
+          - Curated: multimedia/pictures/emoji/curated.md
+      - Video:
+        - multimedia/videos/index.md
+        - Resolutions: multimedia/videos/resolutions.md
+      - Audio:
+        - multimedia/audio/index.md
+      - Games:
+        - multimedia/games/index.md
+        - Terminal: multimedia/games/terminal.md
+  - Security:
+      - security/index.md
+      - GnuPG: security/gnupg.md
+      - Password: security/password.md
+      - Tor: security/tor.md
   - About:
       - about/index.md
       - Credits: about/credits.md

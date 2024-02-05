@@ -5,11 +5,11 @@ tags:
     - mkdocs
     - getting started
 ---
-# How to use MKDocs Material Documentation
+# How to use
 The method below allows you to write and preview the doc easily thanks to **VSCode** and the [Dev Container](https://containers.dev) technology.
 
 !!! info
-    We do not provide support for other installation methods. A [condaenv.yml](https://github.com/tschinz/znotes-mkdocs/blob/main/condaenv.yml) file is available at the root of the documentation one can consult the content of the `.devcontainer` folder to install the required programs and tools to build the documentation on its own.
+    We do not provide support for other installation methods. A [condaenv.yml]({{base_repo_file}}/condaenv.yml) file is available at the root of the documentation one can consult the content of the `.devcontainer` folder to install the required programs and tools to build the documentation on its own.
 
 ## Requirements
 -   [Visual Studio Code](https://code.visualstudio.com/download)
@@ -59,4 +59,4 @@ Before performing a commit the following steps are required:
 
 ## Continuous Integration (CI)
 
-The CI is done with Github Actions with the file [action-mkdocs.yml](https://github.com/tschinz/znotes-mkdocs/blob/main/.github/workflows/action-mkdocs.yml) will run on each `main` commit and create a `_build/` folder which will be pushed onto the branch gh-pages and consequently be used by github to displayed static html pages.
+The CI is done with Github Actions with the file [action-mkdocs.yml]({{base_repo_file}}/.github/workflows/action-mkdocs.yml) will run on each `main` commit and create a `_build/` folder which will be pushed onto the branch gh-pages and consequently be used by github to displayed static html pages.

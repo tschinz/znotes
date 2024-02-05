@@ -1,2 +1,6 @@
+---
+tags:
+  - blog
+---
 # Blog
 

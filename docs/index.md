@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Home
+![](img/logo-dark.svg){.center}
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This webpage is a compilation of information that I aimed to learn at various points in time. It is a work in progress and may not yet meet high-quality standards. Through years of experience, I've discovered that creating summaries and cheat sheets about a topic is the most effective way to learn and assimilate knowledge.
 
-## Commands
+This collection originated on paper around 1999 and transitioned into a webpage format in 2004. It has undergone significant transformations, initially using Dokuwiki, then Sphinx, and now MKDocs.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Feel free to explore the content, if it proves beneficial to others, that's even better.
 
-## Project layout
+[Cheatsheet MKDocs Syntax](multimedia/writing/md/mkdocs/cheatsheet.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
