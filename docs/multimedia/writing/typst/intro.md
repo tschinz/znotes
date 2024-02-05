@@ -15,4 +15,4 @@ Typst is a good choice for writing any long-form text, such as essays, articles,
 - [Official webpage typst.app](https://typst.app)
 - [Documentation](https://typst.app/docs/)
 - [Github](https://github.com/typst/)
-- [Guide to Typst]({{base_repo_file}}/docs/multimedia/writing/typst/guide-to-typst.pdf)
+- [Guide to Typst]({{base_repo_file}}/docs/multimedia/writing/typst/docs/guide-to-typst.pdf)

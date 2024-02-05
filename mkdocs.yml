@@ -446,6 +446,8 @@ nav:
           - Algorithms: https://tschinz.github.io/days-of-algo
   - Hardware:
       - hw/index.md
+      - ESP32-C3:
+          - hw/esp32-c3/index.md
       - Raspberry Pi:
           - hw/raspberry/index.md
           - Boards: hw/raspberry/boards.md
