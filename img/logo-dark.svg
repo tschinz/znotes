@@ -368,15 +368,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68235653"
-     inkscape:cx="164.86982"
-     inkscape:cy="350.98953"
+     inkscape:zoom="1.9299957"
+     inkscape:cx="14.248736"
+     inkscape:cy="217.358"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-width="1720"
+     inkscape:window-height="1359"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -578,7 +578,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.4517px;line-height:125%;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:-0.555967px;word-spacing:0px;fill:#f2f2f2;stroke:#f2f2f2;stroke-width:1.58376px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.4517px;line-height:125%;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';letter-spacing:-0.555967px;word-spacing:0px;fill:#999999;stroke:#999999;stroke-width:1.58376px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="74.256027"
        y="77.173164"
        id="text1280"><tspan
@@ -586,6 +586,6 @@
          id="tspan1278"
          x="74.256027"
          y="77.173164"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#f2f2f2;stroke-width:1.58376px;stroke:#f2f2f2">-Notes</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#999999;stroke-width:1.58376px;stroke:#999999">-Notes</tspan></text>
   </g>
 </svg>

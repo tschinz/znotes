@@ -1,0 +1,3386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Serif DrawPlus 11, 0, 3, 23 (Feb 25, 14:12:55) (http://www.serif.com) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1004.246"
+   height="391.57086"
+   id="svg2"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="mac_retina_keyboard_layout_swiss.svg"
+   inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+   inkscape:export-xdpi="300.88"
+   inkscape:export-ydpi="300.88">
+  <title
+     id="title4403">MacKeyboard Layout Swiss</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     id="namedview323"
+     showgrid="true"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="916.25309"
+     inkscape:cy="-312.43817"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4075"
+       units="px"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="5.8925781"
+       originy="-197.99095"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="grad_dp_001"
+       gradientUnits="userSpaceOnUse"
+       x1="378.89099"
+       y1="316.51999"
+       x2="378.89099"
+       y2="277.71899">
+      <stop
+         offset="0"
+         stop-color="#dbdbdb"
+         id="stop7" />
+      <stop
+         offset="0.3113"
+         stop-color="#bfbfbf"
+         id="stop9" />
+      <stop
+         offset="0.4622"
+         stop-color="#bfbfbf"
+         id="stop11" />
+      <stop
+         offset="0.7641"
+         stop-color="whitesmoke"
+         id="stop13" />
+      <stop
+         offset="0.9245"
+         stop-color="#7f7f7f"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#3d3d3d"
+         id="stop17" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     style="display:inline"
+     transform="translate(5.8925781,291.16074)">
+    <g
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       id="dp_group001"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         id="dp_path002"
+         d="m 57.6,326.12001 c 0,-7.611 6.1693,-13.78 13.78,-13.78 h 617.24 c 7.611,0 13.78,6.169 13.78,13.78 V 562.339 c 0,7.61 -6.169,13.78 -13.78,13.78 H 71.38 c -7.6107,0 -13.78,-6.17 -13.78,-13.78 z"
+         inkscape:connector-curvature="0"
+         style="fill:#dbdbdb;fill-rule:evenodd"
+         sodipodi:nodetypes="sssssssss" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Keys"
+     style="display:inline"
+     transform="translate(5.8925781,291.16074)">
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-267.64832 c 0,-3.00159 2.432595,-5.43314 5.433145,-5.43314 h 48.512332 c 3.00011,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43303,5.43315 -5.43314,5.43315 H 59.072578 c -3.00055,0 -5.433145,-2.43304 -5.433145,-5.43315 z"
+       id="dp_path005"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 120.73728,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43314,-5.43314 h 48.51234 c 3.0001,0 5.43315,2.43155 5.43315,5.43314 v 25.35467 c 0,3.00011 -2.43305,5.43315 -5.43315,5.43315 h -48.51234 c -3.0001,0 -5.43314,-2.43304 -5.43314,-5.43315 z"
+       id="dp_path006"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 187.83512,-267.64832 c 0,-3.00159 2.43305,-5.43314 5.43315,-5.43314 h 48.51233 c 3.00011,0 5.43315,2.43155 5.43315,5.43314 v 25.35467 c 0,3.00011 -2.43304,5.43315 -5.43315,5.43315 h -48.51233 c -3.0001,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path007"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 255.52677,-267.64832 c 0,-3.00159 2.43303,-5.43314 5.43313,-5.43314 h 48.51235 c 3.0001,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43304,5.43315 -5.43314,5.43315 H 260.9599 c -3.0001,0 -5.43313,-2.43304 -5.43313,-5.43315 z"
+       id="dp_path008"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 322.62461,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43314,-5.43314 h 48.51234 c 3.00011,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43303,5.43315 -5.43314,5.43315 h -48.51234 c -3.0001,0 -5.43314,-2.43304 -5.43314,-5.43315 z"
+       id="dp_path009"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 389.72246,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43315,-5.43314 h 48.51233 c 3.0001,0 5.43315,2.43155 5.43315,5.43314 v 25.35467 c 0,3.00011 -2.43305,5.43315 -5.43315,5.43315 h -48.51233 c -3.00011,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path010"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 455.63274,-267.64832 c 0,-3.00159 2.43303,-5.43314 5.43314,-5.43314 h 48.51234 c 3.00011,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43303,5.43315 -5.43314,5.43315 h -48.51234 c -3.00011,0 -5.43314,-2.43304 -5.43314,-5.43315 z"
+       id="dp_path011"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 522.73058,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43314,-5.43314 h 48.51235 c 3.0001,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43304,5.43315 -5.43314,5.43315 h -48.51235 c -3.0001,0 -5.43314,-2.43304 -5.43314,-5.43315 z"
+       id="dp_path012"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 589.82843,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43315,-5.43314 h 48.51233 c 3.00011,0 5.43315,2.43155 5.43315,5.43314 v 25.35467 c 0,3.00011 -2.43304,5.43315 -5.43315,5.43315 h -48.51233 c -3.00011,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path013"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 657.52006,-267.64832 c 0,-3.00159 2.43305,-5.43314 5.43315,-5.43314 h 48.51234 c 3.0001,0 5.43315,2.43155 5.43315,5.43314 v 25.35467 c 0,3.00011 -2.43305,5.43315 -5.43315,5.43315 h -48.51234 c -3.0001,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path014"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 724.61791,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43315,-5.43314 h 48.51234 c 3.00011,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43303,5.43315 -5.43314,5.43315 h -48.51234 c -3.00011,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path015"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 791.71577,-267.64832 c 0,-3.00159 2.43303,-5.43314 5.43314,-5.43314 h 48.51234 c 3.0001,0 5.43314,2.43155 5.43314,5.43314 v 25.35467 c 0,3.00011 -2.43304,5.43315 -5.43314,5.43315 h -48.51234 c -3.00011,0 -5.43314,-2.43304 -5.43314,-5.43315 z"
+       id="dp_path016"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 858.81361,-267.64832 c 0,-3.00159 2.43305,-5.43314 5.43315,-5.43314 h 48.51233 c 3.00011,0 5.43315,2.43155 5.43315,5.43314 v 25.35467 c 0,3.00011 -2.43304,5.43315 -5.43315,5.43315 h -48.51233 c -3.0001,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path017"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 925.91146,-267.64832 c 0,-3.00159 2.43304,-5.43314 5.43315,-5.43314 h 48.51236 c 3.0001,0 5.4332,2.43155 5.4332,5.43314 v 25.35467 c 0,3.00011 -2.4331,5.43315 -5.4332,5.43315 h -48.51236 c -3.00011,0 -5.43315,-2.43304 -5.43315,-5.43315 z"
+       id="dp_path018"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.194251,-8.19425 h 41.208766 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 H 61.833684 c -4.524651,0 -8.194251,-3.6696 -8.194251,-8.19425 z"
+       id="dp_path019"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 118.36214,-220.94703 c 0,-4.52465 3.66959,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52465,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path020"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 183.08483,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19426,-8.19425 h 41.20877 c 4.52465,0 8.19424,3.6696 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.66959,8.19425 -8.19424,8.19425 h -41.20877 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path021"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 247.80754,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20876 c 4.52466,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20876 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path022"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 311.93646,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19426,8.19425 H 320.1307 c -4.52464,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path023"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 376.65916,-220.94703 c 0,-4.52465 3.66959,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52466,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path024"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 441.38186,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19426,-8.19425 h 41.20876 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20876 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path025"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 506.10457,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20876 c 4.52465,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19426,8.19425 h -41.20876 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path026"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 572.60863,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20876 c 4.52466,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20876 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path027"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 636.73755,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52466,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20877 c -4.52464,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path028"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 701.46025,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52465,0 8.19424,3.6696 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.66959,8.19425 -8.19424,8.19425 H 709.6545 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path029"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 766.18295,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19426,-8.19425 h 41.20877 c 4.52464,0 8.19424,3.6696 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19424,8.19425 h -41.20877 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path030"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 830.90566,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52466,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 H 839.0999 c -4.52464,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path031"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 896.81593,-220.94703 c 0,-4.52465 3.66961,-8.19425 8.19425,-8.19425 h 72.08119 c 4.5247,0 8.1943,3.6696 8.1943,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.1943,8.19425 h -72.08119 c -4.52464,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path032"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.194251,-8.19425 h 73.273226 c 4.52465,0 8.19424,3.66961 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.66959,8.19425 -8.19424,8.19425 H 61.833684 c -4.524651,0 -8.194251,-3.6696 -8.194251,-8.19425 z"
+       id="dp_path033"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 150.42659,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.66961 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path034"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 215.1493,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19426,3.66961 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19426,8.19425 h -41.20877 c -4.52464,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path035"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 279.872,-157.4119 c 0,-4.52464 3.66959,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52465,0 8.19424,3.66961 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.66959,8.19425 -8.19424,8.19425 h -41.20877 c -4.52466,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path036"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 344.5947,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19426,-8.19425 h 41.20876 c 4.52465,0 8.19425,3.66961 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20876 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path037"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 408.72362,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52464,0 8.19425,3.66961 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19425,8.19425 h -41.20877 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path038"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 473.44632,-157.4119 c 0,-4.52464 3.66961,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.66961 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52464,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path039"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 538.16902,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19426,-8.19425 h 41.20876 c 4.52466,0 8.19425,3.66961 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.66959,8.19425 -8.19425,8.19425 h -41.20876 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path040"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 604.15741,-157.41935 c 0,-4.52465 3.6696,-8.19425 8.19426,-8.19425 h 41.20877 c 4.52464,0 8.19424,3.6696 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19424,8.19425 h -41.20877 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path041"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 669.39579,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19426,-8.19425 h 41.20875 c 4.52466,0 8.19426,3.66961 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20875 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path042"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 733.52471,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52466,0 8.19426,3.66961 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20877 c -4.52464,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path043"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 798.24742,-157.4119 c 0,-4.52464 3.66959,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19426,3.66961 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19426,8.19425 h -41.20877 c -4.52465,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path044"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 862.97011,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19426,-8.19425 h 41.20877 c 4.52464,0 8.19424,3.66961 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19424,8.19425 h -41.20877 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path045"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 167.05261,-93.876765 c 0,-4.524654 3.66959,-8.194255 8.19425,-8.194255 h 41.20876 c 4.52466,0 8.19426,3.669601 8.19426,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19426,8.194254 h -41.20876 c -4.52466,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path046"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 231.77531,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19425,-8.194255 h 41.20877 c 4.52464,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.66961,8.194254 -8.19425,8.194254 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path047"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 296.49801,-93.876765 c 0,-4.524654 3.66961,-8.194255 8.19425,-8.194255 h 41.20877 c 4.52465,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19425,8.194254 h -41.20877 c -4.52464,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path048"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 360.62693,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19425,-8.194255 h 41.20876 c 4.52466,0 8.19426,3.669601 8.19426,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19426,8.194254 h -41.20876 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path049"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 425.34964,-93.876765 c 0,-4.524654 3.66959,-8.194255 8.19424,-8.194255 h 41.20877 c 4.52466,0 8.19426,3.669601 8.19426,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19426,8.194254 h -41.20877 c -4.52465,0 -8.19424,-3.669598 -8.19424,-8.194254 z"
+       id="dp_path050"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 490.07233,-93.876765 c 0,-4.524654 3.66961,-8.194255 8.19426,-8.194255 h 41.20877 c 4.52464,0 8.19424,3.669601 8.19424,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19424,8.194254 h -41.20877 c -4.52465,0 -8.19426,-3.669598 -8.19426,-8.194254 z"
+       id="dp_path051"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 554.79504,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19425,-8.194255 h 41.20877 c 4.52465,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19425,8.194254 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path052"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 621.29911,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19424,-8.194255 h 41.20877 c 4.52465,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19425,8.194254 h -41.20877 c -4.52464,0 -8.19424,-3.669598 -8.19424,-8.194254 z"
+       id="dp_path053"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 685.42802,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19425,-8.194255 h 41.20877 c 4.52465,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19425,8.194254 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path054"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 750.15072,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19426,-8.194255 h 41.20876 c 4.52466,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.66959,8.194254 -8.19425,8.194254 h -41.20876 c -4.52466,0 -8.19426,-3.669598 -8.19426,-8.194254 z"
+       id="dp_path055"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 814.87343,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.19425,-8.194255 h 41.20877 c 4.52464,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.66961,8.194254 -8.19425,8.194254 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path056"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-93.876765 c 0,-4.524654 3.6696,-8.194255 8.194251,-8.194255 h 89.303966 c 4.52465,0 8.19425,3.669601 8.19425,8.194255 V -55.6399 c 0,4.524656 -3.6696,8.194254 -8.19425,8.194254 H 61.833684 c -4.524651,0 -8.194251,-3.669598 -8.194251,-8.194254 z"
+       id="dp_path057"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#939dac;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 53.641364,-30.935421 c 0,-4.524647 3.669598,-8.194254 8.19425,-8.194254 h 56.793726 c 4.52464,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.66961,8.1942545 -8.19425,8.1942545 H 61.835614 c -4.524652,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path058"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 199.71085,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19425,-8.194254 h 41.20877 c 4.52465,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19425,8.1942545 H 207.9051 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path059"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 264.43356,-30.935421 c 0,-4.524647 3.66959,-8.194254 8.19425,-8.194254 h 41.20876 c 4.52466,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.66959,8.1942545 -8.19425,8.1942545 h -41.20876 c -4.52466,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path060"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 329.15626,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19425,-8.194254 h 41.20877 c 4.52464,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.66961,8.1942545 -8.19425,8.1942545 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path061"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 393.28517,-30.935421 c 0,-4.524647 3.66961,-8.194254 8.19426,-8.194254 h 41.20877 c 4.52464,0 8.19424,3.669607 8.19424,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19424,8.1942545 h -41.20877 c -4.52465,0 -8.19426,-3.669598 -8.19426,-8.1942545 z"
+       id="dp_path062"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 458.00788,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19425,-8.194254 h 41.20876 c 4.52466,0 8.19426,3.669607 8.19426,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19426,8.1942545 h -41.20876 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path063"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 522.73058,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19425,-8.194254 h 41.20877 c 4.52466,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.66959,8.1942545 -8.19425,8.1942545 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path064"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 587.45328,-30.935421 c 0,-4.524647 3.66961,-8.194254 8.19426,-8.194254 h 41.20877 c 4.52464,0 8.19424,3.669607 8.19424,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19424,8.1942545 h -41.20877 c -4.52465,0 -8.19426,-3.669598 -8.19426,-8.1942545 z"
+       id="dp_path065"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 653.95735,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19425,-8.194254 h 41.20876 c 4.52466,0 8.19426,3.669607 8.19426,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19426,8.1942545 H 662.1516 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path066"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 718.08627,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19424,-8.194254 h 41.20877 c 4.52465,0 8.19426,3.669607 8.19426,8.194254 V 7.3014435 c 0,4.5246565 -3.66961,8.1942545 -8.19426,8.1942545 h -41.20877 c -4.52464,0 -8.19424,-3.669598 -8.19424,-8.1942545 z"
+       id="dp_path067"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 782.80897,-30.935421 c 0,-4.524647 3.66959,-8.194254 8.19425,-8.194254 h 41.20877 c 4.52465,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19425,8.1942545 h -41.20877 c -4.52466,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path068"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#939dac;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 847.53167,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19426,-8.194254 h 121.36544 c 4.5247,0 8.1943,3.669607 8.1943,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.1943,8.1942545 H 855.72593 c -4.52466,0 -8.19426,-3.669598 -8.19426,-8.1942545 z"
+       id="dp_path069"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#93ac93;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,32.45126 c 0,-4.772552 3.867479,-8.639591 8.639591,-8.639591 h 40.318086 c 4.77255,0 8.63959,3.867039 8.63959,8.639591 v 45.065408 c 0,4.772562 -3.86704,8.639592 -8.63959,8.639592 H 62.279024 c -4.772112,0 -8.639591,-3.86703 -8.639591,-8.639592 z"
+       id="dp_path070"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 118.36214,32.45126 c 0,-4.772552 3.86703,-8.639591 8.63959,-8.639591 h 40.31808 c 4.77256,0 8.63959,3.867039 8.63959,8.639591 v 45.065408 c 0,4.772562 -3.86703,8.639592 -8.63959,8.639592 h -40.31808 c -4.77256,0 -8.63959,-3.86703 -8.63959,-8.639592 z"
+       id="dp_path071"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#ac93a7;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 183.67862,32.45126 c 0,-4.772552 3.86704,-8.639591 8.63959,-8.639591 h 40.31809 c 4.77256,0 8.63959,3.867039 8.63959,8.639591 v 45.065408 c 0,4.772562 -3.86703,8.639592 -8.63959,8.639592 h -40.31809 c -4.77255,0 -8.63959,-3.86703 -8.63959,-8.639592 z"
+       id="dp_path072"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 248.99511,31.603631 c 0,-4.303459 3.48998,-7.791962 7.79197,-7.791962 h 56.85503 c 4.30347,0 7.79344,3.488503 7.79344,7.791962 v 46.760675 c 0,4.303461 -3.48997,7.791954 -7.79344,7.791954 h -56.85503 c -4.30199,0 -7.79197,-3.488493 -7.79197,-7.791954 z"
+       id="dp_path073"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 330.34383,30.980159 c 0,-3.95907 3.2109,-7.16849 7.16849,-7.16849 h 300.35936 c 3.95907,0 7.16848,3.20942 7.16848,7.16849 v 48.007619 c 0,3.959072 -3.20941,7.168482 -7.16848,7.168482 H 337.51232 c -3.95759,0 -7.16849,-3.20941 -7.16849,-7.168482 z"
+       id="dp_path074"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 653.36356,31.603631 c 0,-4.303459 3.48998,-7.791962 7.79196,-7.791962 h 56.85503 c 4.30347,0 7.79345,3.488503 7.79345,7.791962 v 46.760675 c 0,4.303461 -3.48998,7.791954 -7.79345,7.791954 h -56.85503 c -4.30198,0 -7.79196,-3.488493 -7.79196,-7.791954 z"
+       id="dp_path075"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#ac93a7;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 734.1185,32.45126 c 0,-4.772552 3.86703,-8.639591 8.63959,-8.639591 h 40.31809 c 4.77255,0 8.63959,3.867039 8.63959,8.639591 v 45.065408 c 0,4.772562 -3.86704,8.639592 -8.63959,8.639592 h -40.31809 c -4.77256,0 -8.63959,-3.86703 -8.63959,-8.639592 z"
+       id="dp_path076"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 798.8412,58.904439 c 0,-2.65719 2.15395,-4.809667 4.80967,-4.809667 h 47.97793 c 2.65571,0 4.80966,2.152477 4.80966,4.809667 V 81.34956 c 0,2.655718 -2.15395,4.809669 -4.80966,4.809669 h -47.97793 c -2.65572,0 -4.80967,-2.153951 -4.80967,-4.809669 z"
+       id="dp_path077"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 864.15769,28.265074 c 0,-2.461244 1.99363,-4.453405 4.45339,-4.453405 h 48.69048 c 2.45976,0 4.4534,1.992161 4.4534,4.453405 V 49.04759 c 0,2.45976 -1.99364,4.453395 -4.4534,4.453395 h -48.69048 c -2.45976,0 -4.45339,-1.993635 -4.45339,-4.453395 z"
+       id="dp_path078"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 864.15769,60.923316 c 0,-2.461244 1.99363,-4.453395 4.45339,-4.453395 h 48.69048 c 2.45976,0 4.4534,1.992151 4.4534,4.453395 v 20.782516 c 0,2.459762 -1.99364,4.453397 -4.4534,4.453397 h -48.69048 c -2.45976,0 -4.45339,-1.993635 -4.45339,-4.453397 z"
+       id="dp_path079"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 927.69282,60.923316 c 0,-2.461244 1.99364,-4.453395 4.45339,-4.453395 h 48.69046 c 2.4598,0 4.4535,1.992151 4.4535,4.453395 v 20.782516 c 0,2.459762 -1.9937,4.453397 -4.4535,4.453397 h -48.69046 c -2.45975,0 -4.45339,-1.993635 -4.45339,-4.453397 z"
+       id="dp_path080"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 134.39436,-30.935421 c 0,-4.524647 3.6696,-8.194254 8.19425,-8.194254 h 41.20877 c 4.52465,0 8.19425,3.669607 8.19425,8.194254 V 7.3014435 c 0,4.5246565 -3.6696,8.1942545 -8.19425,8.1942545 h -41.20877 c -4.52465,0 -8.19425,-3.669598 -8.19425,-8.1942545 z"
+       id="dp_path081"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 880.18992,-93.876765 c 0,-4.524654 3.66959,-8.194255 8.19425,-8.194255 h 41.20877 c 4.52465,0 8.19424,3.669601 8.19424,8.194255 V -55.6399 c 0,4.524656 -3.66959,8.194254 -8.19424,8.194254 h -41.20877 c -4.52466,0 -8.19425,-3.669598 -8.19425,-8.194254 z"
+       id="dp_path082"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       d="m 927.69282,-157.4119 c 0,-4.52464 3.6696,-8.19425 8.19425,-8.19425 h 41.2088 c 4.5246,0 8.1943,3.66961 8.1943,8.19425 v 38.23687 c 0,0.36814 -0.026,0.73332 -0.073,1.09108 0.044,0.29689 0.068,0.60418 0.068,0.91592 v 63.665763 c 0,3.345988 -2.7106,6.056621 -6.0566,6.056621 h -28.2598 c -3.34451,0 -6.05662,-2.710633 -6.05662,-6.056621 0,-18.391049 0,-53.483823 0,-55.174623 0,-1.69081 -0.17665,-1.03912 -0.42604,-1.28851 -0.38597,-0.38597 -0.93522,-0.48839 -1.27961,-0.93819 -0.3444,-0.44979 -4.87944,-0.0505 -7.3199,-0.0771 -4.52466,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path083"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Text shift"
+     style="display:inline"
+     transform="translate(5.8925781,-154.53374)">
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="241.93646"
+       x="271.48303"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text014"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">* </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="427.02966"
+       x="680.05963"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text047"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">; </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="428.24738"
+       x="743.68842"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text048"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">: </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="422.71109"
+       x="807.18469"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text049"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">_ </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="244.10045"
+       x="857.11237"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text069"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">` </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.17796"
+       x="141.95935"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text070"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">+</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="241.82773"
+       x="207.71275"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text071"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">&quot; </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="238.41374"
+       x="336.56873"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text073"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">ç </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.17796"
+       x="398.77768"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text074"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">% </text>
+    <g
+       transform="matrix(1.4844657,0,0,1.4844657,463.93486,238.7994)"
+       id="dp_dp075"
+       style="display:inline;fill:#939dac"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <text
+         style="font-weight:700;font-size:12px;line-height:0%;font-family:'Minimal SF';fill:#939dac"
+         y="0"
+         x="0"
+         font-weight="700"
+         font-size="12"
+         xml:space="preserve"
+         id="dp_text076"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#939dac"
+           id="tspan4373">&amp;</tspan></text>
+      <text
+         style="font-weight:700;font-size:12px;line-height:0%;font-family:'Minimal SF';fill:#939dac"
+         y="0"
+         x="8.41467"
+         font-weight="700"
+         font-size="12"
+         xml:space="preserve"
+         id="dp_text077"> </text>
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.5565"
+       x="532.64093"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text078"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">/ </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="238.79941"
+       x="598.13251"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text079"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">( </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.17796"
+       x="662.30927"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text080"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">) </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.17796"
+       x="725.41418"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text081"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">= </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.17796"
+       x="790.28033"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text082"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">? </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="239.28667"
+       x="77.393204"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text083"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">°  </text>
+    <g
+       transform="matrix(1.4844657,0,0,1.4844657,155.73007,431.45336)"
+       id="dp_dp089"
+       style="display:inline;fill:#939dac"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <text
+         style="font-weight:700;font-size:12px;line-height:0%;font-family:'Minimal SF';fill:#939dac"
+         y="0"
+         x="0"
+         font-weight="700"
+         font-size="12"
+         xml:space="preserve"
+         id="dp_text090">&gt;</text>
+      <text
+         style="font-weight:700;font-size:12px;line-height:0%;font-family:'Minimal SF';fill:#939dac"
+         y="0"
+         x="6.1880002"
+         font-weight="700"
+         font-size="12"
+         xml:space="preserve"
+         id="dp_text091"> </text>
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="302.71307"
+       x="887.70685"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text093"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">! </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;display:inline;fill:#939dac"
+       y="366.01334"
+       x="904.10461"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text095"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">£ </text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#939dac;fill-opacity:1;stroke:none"
+       x="822.63623"
+       y="302.79572"
+       id="text4261"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4263"
+         x="822.63623"
+         y="302.79572"
+         style="font-size:17.81358719px;line-height:1.25">è</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#939dac;fill-opacity:1;stroke:none"
+       x="774.53949"
+       y="366.33081"
+       id="text4269"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4271"
+         x="774.53949"
+         y="366.33081"
+         style="font-size:17.81358719px;line-height:1.25">é</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#939dac;fill-opacity:1;stroke:none"
+       x="839.6579"
+       y="366.33081"
+       id="text4277"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4279"
+         x="839.6579"
+         y="366.33081"
+         style="font-size:17.81358719px;line-height:1.25">à</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text alt"
+     style="display:inline"
+     transform="translate(5.8925781,313.96074)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="808.63873"
+       y="-206.13681"
+       id="text4137"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4139"
+         x="808.63873"
+         y="-206.13681"
+         style="font-size:17.81358719px;line-height:1.25">¿</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="874.25208"
+       y="-199.66167"
+       id="text4141"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4143"
+         x="874.25208"
+         y="-199.66167"
+         style="font-size:17.81358719px;line-height:1.25">´</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="93.126228"
+       y="-204.43689"
+       id="text4084"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4086"
+         x="93.126228"
+         y="-204.43689"
+         style="font-size:17.81358719px;line-height:1.25">ﬁ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="159.13853"
+       y="-205.35452"
+       id="text4088"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4090"
+         x="159.13853"
+         y="-205.35452"
+         style="font-size:17.81358719px;line-height:1.25">±</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="226.72812"
+       y="-200.55756"
+       id="text4096"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4098"
+         x="226.72812"
+         y="-200.55756"
+         style="font-size:17.81358719px;line-height:1.25">“</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="288.64264"
+       y="-204.87613"
+       id="text4100"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4102"
+         x="288.64264"
+         y="-204.87613"
+         style="font-size:17.81358719px;line-height:1.25">#</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="352.8093"
+       y="-206.39395"
+       id="text4104"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4106"
+         x="352.8093"
+         y="-206.39395"
+         style="font-size:17.81358719px;line-height:1.25">Ç</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="419.1575"
+       y="-205.81117"
+       id="text4108"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4110"
+         x="419.1575"
+         y="-205.81117"
+         style="font-size:17.81358719px;line-height:1.25">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="485.02512"
+       y="-205.81117"
+       id="text4112"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4114"
+         x="485.02512"
+         y="-205.81117"
+         style="font-size:17.81358719px;line-height:1.25">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="550.34167"
+       y="-205.85464"
+       id="text4116"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4118"
+         x="550.34167"
+         y="-205.85464"
+         style="font-size:17.81358719px;line-height:1.25">|</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="618.25317"
+       y="-205.78073"
+       id="text4120"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4122"
+         x="618.25317"
+         y="-205.78073"
+         style="font-size:17.81358719px;line-height:1.25">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="682.45911"
+       y="-205.78073"
+       id="text4124"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4126"
+         x="682.45911"
+         y="-205.78073"
+         style="font-size:17.81358719px;line-height:1.25">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="744.80664"
+       y="-205.53282"
+       id="text4128"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4130"
+         x="744.80664"
+         y="-205.53282"
+         style="font-size:17.81358719px;line-height:1.25">≠</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="187.13921"
+       y="-140.72295"
+       id="text4201"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4203"
+         x="187.13921"
+         y="-140.72295"
+         style="font-size:17.81358719px;line-height:1.25">œ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="256.12054"
+       y="-140.74469"
+       id="text4205"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4207"
+         x="256.12054"
+         y="-140.74469"
+         style="font-size:17.81358719px;line-height:1.25">∑</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="320.1904"
+       y="-139.23123"
+       id="text4209"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4211"
+         x="320.1904"
+         y="-139.23123"
+         style="font-size:17.81358719px;line-height:1.25">€</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="382.0065"
+       y="-136.00427"
+       id="text4213"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="382.0065"
+         y="-136.00427"
+         style="font-size:17.81358719px;line-height:1.25">®</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="448.37607"
+       y="-137.93958"
+       id="text4217"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4219"
+         x="448.37607"
+         y="-137.93958"
+         style="font-size:17.81358719px;line-height:1.25">†</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="510.21353"
+       y="-139.14861"
+       id="text4221"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4223"
+         x="510.21353"
+         y="-139.14861"
+         style="font-size:17.81358719px;line-height:1.25">Ω</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="579.1781"
+       y="-135.03877"
+       id="text4225"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4227"
+         x="579.1781"
+         y="-135.03877"
+         style="font-size:17.81358719px;line-height:1.25">°</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="644.46661"
+       y="-140.4919"
+       id="text4229"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4231"
+         x="644.46661"
+         y="-140.4919"
+         style="font-size:17.81358719px;line-height:1.25">¡</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="710.4458"
+       y="-140.73599"
+       id="text4233"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4235"
+         x="710.4458"
+         y="-140.73599"
+         style="font-size:17.81358719px;line-height:1.25">ø</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="771.66815"
+       y="-140.78383"
+       id="text4237"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4239"
+         x="771.66815"
+         y="-140.78383"
+         style="font-size:17.81358719px;line-height:1.25">π</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="840.20459"
+       y="-139.89229"
+       id="text4241"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4243"
+         x="840.20459"
+         y="-139.89229"
+         style="font-size:17.81358719px;line-height:1.25">§</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="904.01196"
+       y="-134.92136"
+       id="text4245"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4247"
+         x="904.01196"
+         y="-134.92136"
+         style="font-size:17.81358719px;line-height:1.25">‘</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Chalkduster;-inkscape-font-specification:Chalkduster;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4251"><rect
+           id="rect4253"
+           width="391.72366"
+           height="65.11364"
+           x="8.3345461"
+           y="-76.013641" /></flowRegion><flowPara
+         id="flowPara4255"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="207.86678"
+       y="-76.208725"
+       id="text4281"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4283"
+         x="207.86678"
+         y="-76.208725"
+         style="font-size:17.81358719px;line-height:1.25">å</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="271.82428"
+       y="-76.35659"
+       id="text4285"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4287"
+         x="271.82428"
+         y="-76.35659"
+         style="font-size:17.81358719px;line-height:1.25">ß</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="336.92139"
+       y="-76.387032"
+       id="text4289"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4291"
+         x="336.92139"
+         y="-76.387032"
+         style="font-size:17.81358719px;line-height:1.25">∂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="402.67096"
+       y="-77.861359"
+       id="text4293"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4295"
+         x="402.67096"
+         y="-77.861359"
+         style="font-size:17.81358719px;line-height:1.25">ƒ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="462.55847"
+       y="-77.652603"
+       id="text4297"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         x="462.55847"
+         y="-77.652603"
+         style="font-size:17.81358719px;line-height:1.25">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="531.45532"
+       y="-75.178009"
+       id="text4301"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4303"
+         x="531.45532"
+         y="-75.178009"
+         style="font-size:17.81358719px;line-height:1.25">ª</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="593.92297"
+       y="-75.164963"
+       id="text4305"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="593.92297"
+         y="-75.164963"
+         style="font-size:17.81358719px;line-height:1.25">º</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="723.98322"
+       y="-78.318001"
+       id="text4309"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4311"
+         x="723.98322"
+         y="-78.318001"
+         style="font-size:17.81358719px;line-height:1.25">¬</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="790.00012"
+       y="-76.774109"
+       id="text4313"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4315"
+         x="790.00012"
+         y="-76.774109"
+         style="font-size:17.81358719px;line-height:1.25">¢</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="850.67615"
+       y="-78.226669"
+       id="text4317"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4319"
+         x="850.67615"
+         y="-78.226669"
+         style="font-size:17.81358719px;line-height:1.25">æ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="917.46075"
+       y="-77.752617"
+       id="text4321"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4323"
+         x="917.46075"
+         y="-77.752617"
+         style="font-size:17.81358719px;line-height:1.25">¶</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="658.87988"
+       y="-76.708855"
+       id="text4325"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4327"
+         x="658.87988"
+         y="-76.708855"
+         style="font-size:17.81358719px;line-height:1.25">∆</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="175.95364"
+       y="-14.514853"
+       id="text4329"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4331"
+         x="175.95364"
+         y="-14.514853"
+         style="font-size:17.81358719px;line-height:1.25">≤</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="240.10226"
+       y="-14.075606"
+       id="text4333"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4335"
+         x="240.10226"
+         y="-14.075606"
+         style="font-size:17.81358719px;line-height:1.25">¥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="305.93051"
+       y="-14.736655"
+       id="text4337"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4339"
+         x="305.93051"
+         y="-14.736655"
+         style="font-size:17.81358719px;line-height:1.25">≈</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="366.63901"
+       y="-13.697232"
+       id="text4341"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4343"
+         x="366.63901"
+         y="-13.697232"
+         style="font-size:17.81358719px;line-height:1.25">©</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="431.92844"
+       y="-14.053853"
+       id="text4345"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4347"
+         x="431.92844"
+         y="-14.053853"
+         style="font-size:17.81358719px;line-height:1.25">√</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="499.16409"
+       y="-15.502086"
+       id="text4349"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4351"
+         x="499.16409"
+         y="-15.502086"
+         style="font-size:17.81358719px;line-height:1.25">∫</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="563.26434"
+       y="-11.457488"
+       id="text4353"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4355"
+         x="563.26434"
+         y="-11.457488"
+         style="font-size:17.81358719px;line-height:1.25">~</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="626.85406"
+       y="-17.128614"
+       id="text4357"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4359"
+         x="626.85406"
+         y="-17.128614"
+         style="font-size:17.81358719px;line-height:1.25">µ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="695.60938"
+       y="-15.184602"
+       id="text4361"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4363"
+         x="695.60938"
+         y="-15.184602"
+         style="font-size:17.81358719px;line-height:1.25">«</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="757.53174"
+       y="-18.776897"
+       id="text4365"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4367"
+         x="757.53174"
+         y="-18.776897"
+         style="font-size:17.81358719px;line-height:1.25">…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ac93a7;fill-opacity:1;stroke:none"
+       x="823.79382"
+       y="-14.78449"
+       id="text4369"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4371"
+         x="823.79382"
+         y="-14.78449"
+         style="font-size:17.81358719px;line-height:1.25">–</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     style="display:inline"
+     transform="translate(5.8925781,291.16074)">
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.194251,-8.19425 h 41.208766 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 H 61.833684 c -4.524651,0 -8.194251,-3.6696 -8.194251,-8.19425 z"
+       id="dp_path084"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.194251,-8.19425 h 41.208766 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 H 61.833684 c -4.524651,0 -8.194251,-3.6696 -8.194251,-8.19425 z"
+       id="dp_path085"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 118.36214,-220.94703 c 0,-4.52465 3.66959,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52465,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path086"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 53.639433,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.194251,-8.19425 h 41.208766 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 H 61.833684 c -4.524651,0 -8.194251,-3.6696 -8.194251,-8.19425 z"
+       id="dp_path087"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 118.36214,-220.94703 c 0,-4.52465 3.66959,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52465,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path088"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 183.08483,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19426,-8.19425 h 41.20877 c 4.52465,0 8.19424,3.6696 8.19424,8.19425 v 38.23687 c 0,4.52465 -3.66959,8.19425 -8.19424,8.19425 h -41.20877 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path089"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 247.80754,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20876 c 4.52466,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20876 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path090"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 247.80754,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20876 c 4.52466,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19426,8.19425 h -41.20876 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path091"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 311.93646,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19424,-8.19425 h 41.20877 c 4.52465,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19426,8.19425 H 320.1307 c -4.52464,0 -8.19424,-3.6696 -8.19424,-8.19425 z"
+       id="dp_path092"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 376.65916,-220.94703 c 0,-4.52465 3.66959,-8.19425 8.19425,-8.19425 h 41.20877 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20877 c -4.52466,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path093"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 441.38186,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19426,-8.19425 h 41.20876 c 4.52465,0 8.19425,3.6696 8.19425,8.19425 v 38.23687 c 0,4.52465 -3.6696,8.19425 -8.19425,8.19425 h -41.20876 c -4.52466,0 -8.19426,-3.6696 -8.19426,-8.19425 z"
+       id="dp_path094"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 506.10457,-220.94703 c 0,-4.52465 3.6696,-8.19425 8.19425,-8.19425 h 41.20876 c 4.52465,0 8.19426,3.6696 8.19426,8.19425 v 38.23687 c 0,4.52465 -3.66961,8.19425 -8.19426,8.19425 h -41.20876 c -4.52465,0 -8.19425,-3.6696 -8.19425,-8.19425 z"
+       id="dp_path095"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 864.15769,28.265074 c 0,-2.461244 1.99363,-4.453405 4.45339,-4.453405 h 48.69048 c 2.45976,0 4.4534,1.992161 4.4534,4.453405 V 49.04759 c 0,2.45976 -1.99364,4.453395 -4.4534,4.453395 h -48.69048 c -2.45976,0 -4.45339,-1.993635 -4.45339,-4.453395 z"
+       id="dp_path096"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.36019135px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-250.4904"
+       x="70.226234"
+       font-weight="700"
+       font-size="9"
+       xml:space="preserve"
+       id="dp_text001"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         id="tspan3304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.29805374px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2">esc </tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="141.88106"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text002"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">1 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="207.36917"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text003"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">2</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="217.18152"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text004"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"> </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="271.63525"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text005"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">3 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="336.00336"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text006"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">4 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="400.49554"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text007"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">5 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="465.19214"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text008"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">6 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="529.94977"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text009"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">7 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="596.52771"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text010"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">8 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="660.65662"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text011"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">9 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-185.688"
+       x="725.42285"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text012"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">0 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-186.23479"
+       x="854.80737"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text013"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">^ </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-133.41386"
+       x="172.64079"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text015"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">Q </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.66583"
+       x="235.75003"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text016"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">W </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.66583"
+       x="303.57358"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text017"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">E </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.69193"
+       x="367.8092"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text018"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">R </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.69193"
+       x="433.108"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text019"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">T </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.66583"
+       x="497.81332"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text020"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">Z </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.72237"
+       x="560.50513"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text021"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">U </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.67328"
+       x="629.96399"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text022"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">I </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.66583"
+       x="691.8667"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text023"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">O </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-132.69193"
+       x="756.96539"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text024"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">P </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.130699"
+       x="190.54976"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text026"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">A </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.130699"
+       x="256.17709"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text027"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">S </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.130699"
+       x="319.06885"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text028"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">D </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.156799"
+       x="384.58945"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text029"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.130699"
+       x="448.13358"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text030"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">G </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.130699"
+       x="512.57367"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text031"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">H </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.182892"
+       x="580.72772"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text032"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">J </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.130699"
+       x="644.72241"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text033"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">K </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-69.104599"
+       x="709.73853"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text034"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">L </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.1893663"
+       x="224.03"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text037"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">Y </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.1893663"
+       x="288.39609"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text038"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">X </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.1893663"
+       x="352.78391"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text039"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">C </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.1893663"
+       x="416.87369"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text040"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">V </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.1893663"
+       x="481.20499"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text041"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">B </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.2024069"
+       x="545.02313"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text042"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">N </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-6.2154617"
+       x="607.8844"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text043"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">M </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="2.9000022"
+       x="680.34668"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text044"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">, </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="4.122077"
+       x="743.98413"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text045"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">. </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="5.679019"
+       x="808.57635"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text046"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">- </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.87572575px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="41.147266"
+       x="189.92079"
+       font-weight="700"
+       font-size="8"
+       xml:space="preserve"
+       id="dp_text052"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">alt </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.87572575px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="76.744751"
+       x="255.81177"
+       font-weight="700"
+       font-size="8"
+       xml:space="preserve"
+       id="dp_text053"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">cmd </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.87572575px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="76.744751"
+       x="125.16247"
+       font-weight="700"
+       font-size="8"
+       xml:space="preserve"
+       id="dp_text054"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">ctrl </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.75145149px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="76.744751"
+       x="62.300842"
+       font-weight="700"
+       font-size="8"
+       xml:space="preserve"
+       id="dp_text055"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">fn </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="167.19957"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text056"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F1 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="233.46909"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text057"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F2 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="300.8757"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text058"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F3 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="367.90524"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text059"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F4 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="435.31186"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text060"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F5 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="501.58139"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text061"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F6 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="568.98804"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text062"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F7 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="636.01764"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text063"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F8 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="703.42419"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text064"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F9 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="766.2854"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text065"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F10 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="834.07208"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text066"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F11 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.422328px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-244.38376"
+       x="901.4787"
+       font-weight="700"
+       font-size="5"
+       xml:space="preserve"
+       id="dp_text067"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">F12 </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-184.78372"
+       x="792.37219"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text068"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">´ </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-187.47978"
+       x="77.488884"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text072"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">§ </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.87572575px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="76.744751"
+       x="694.3349"
+       font-weight="700"
+       font-size="8"
+       xml:space="preserve"
+       id="dp_text084"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">cmd </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.87572575px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="41.147266"
+       x="770.45233"
+       font-weight="700"
+       font-size="8"
+       xml:space="preserve"
+       id="dp_text085"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">alt </text>
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:1.97928262;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 891.63366,71.703509 1.23805,3.524115 1.31969,-3.524115 z"
+       id="dp_path182"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:1.97928262;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 955.90806,71.713899 3.52264,-1.236564 -3.52264,-1.321174 z"
+       id="dp_path183"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:1.97928262;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 894.1914,38.145671 -1.23656,-3.524114 -1.32118,3.524114 z"
+       id="dp_path184"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:1.97928262;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 830.84183,69.218508 -3.52264,1.236564 3.52264,1.31969 z"
+       id="dp_path185"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <g
+       id="dp_group186"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 558.063,559.917 h -7.668 l -1.816,-4.59 h -4.036"
+         id="dp_path187" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 550.597,555.327 h 7.466"
+         id="dp_path188" />
+    </g>
+    <g
+       id="dp_group189"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 171.328,559.917 h -7.668 l -1.816,-4.59 h -4.036"
+         id="dp_path190" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 163.863,555.327 h 7.465"
+         id="dp_path191" />
+    </g>
+    <path
+       style="fill:none;stroke:#f2f2f2;stroke-width:1.97928262;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 65.725493,3.3260468 0.07125,-7.4995208 -3.633973,-0.1276629 8.313015,-8.2566011 8.01611,8.2566011 -3.60829,0.1276629 v 7.4475632 z"
+       id="dp_path192"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <g
+       transform="matrix(1.4844657,0,0,1.4844657,155.73007,2.6817862)"
+       id="dp_dp086"
+       style="fill:#f2f2f2"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <text
+         style="font-weight:700;font-size:12px;line-height:0%;font-family:'Minimal SF';fill:#f2f2f2"
+         y="0"
+         x="0"
+         font-weight="700"
+         font-size="12"
+         xml:space="preserve"
+         id="dp_text087">&lt;</text>
+      <text
+         style="font-weight:700;font-size:12px;line-height:0%;font-family:'Minimal SF';fill:#f2f2f2"
+         y="0"
+         x="6.1880002"
+         font-weight="700"
+         font-size="12"
+         xml:space="preserve"
+         id="dp_text088"> </text>
+    </g>
+    <path
+       style="fill:none;stroke:#f2f2f2;stroke-width:1.97928262;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 962.20813,3.3260468 0.0713,-7.4995208 -3.63397,-0.1276629 8.31301,-8.2566011 8.0162,8.2566011 -3.6088,0.1276629 v 7.4475632 z"
+       id="dp_path197"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <path
+       style="fill:#f2f2f2;stroke:#f2f2f2;stroke-width:0.98964423;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 87.635625,-137.54232 c 0.0119,3.10402 0.0634,15.51118 0.0753,18.61519 0,0 0,0 0,0"
+       id="dp_path201"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44" />
+    <g
+       id="dp_group202"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 686.487,379.409 -14.016,-0.005 -1.172,0.016"
+         id="dp_path203" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 675.04,383.808 -4.49284,-4.396 4.49284,-4.396"
+         id="dp_path204"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g5340"
+       transform="matrix(1.4844657,0,0,1.4844657,41.169922,-342.55446)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <g
+         transform="translate(-57.6,-277.719)"
+         id="dp_group205"
+         style="fill:none;stroke:#f2f2f2;stroke-opacity:1">
+        <path
+           id="dp_path206"
+           d="m 682.01132,416.68534 h 3.93411 v 6.11835 c -2.41179,-3.3e-4 -11.06942,6.9e-4 -13.47443,0 h -1.172"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#f2f2f2;stroke-width:1.33299994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="display:inline;fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 675.80025,427.24499 -4.49284,-4.396 4.49284,-4.39599"
+           id="dp_path204-1"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </g>
+    <g
+       id="dp_group209"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 683.753,465.645 4.999,0.014"
+         id="dp_path210" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 684.532,468.821 1.731,-2.942 1.704,2.914"
+         id="dp_path211" />
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-121.6487"
+       x="888.27222"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text092"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">¨ </text>
+    <g
+       id="dp_group215"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 477.443,556.675 c 0,-3.231 0.098,-4.187 -0.368,-4.567 -0.466,-0.38 -1.467,-0.427 -1.982,0.193 -0.515,0.62 -0.489,1.292 -0.076,1.812 0.413,0.52 1.196,0.442 3.302,0.443 0.622,0 1.354,-0.003 2.21,-0.001 0,0 0,0 0,0 0.028,0.001 0.062,0.004 0.072,0.004"
+         id="dp_path216" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 480.16,555.113 c 0,3.232 -0.097,4.188 0.369,4.568 0.466,0.38 1.466,0.426 1.98,-0.194 0.514,-0.62 0.49,-1.292 0.078,-1.812 -0.412,-0.52 -1.196,-0.442 -3.302,-0.443 -0.624,0 -1.354,0.004 -2.21,10e-4 0,0 0,0 0,0 -0.03,-10e-4 -0.062,-0.004 -0.074,-0.004"
+         id="dp_path217" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 479.564,557.229 c -3.232,0 -4.188,-0.097 -4.568,0.37 -0.38,0.467 -0.427,1.465 0.193,1.98 0.62,0.515 1.292,0.489 1.812,0.077 0.52,-0.412 0.442,-1.196 0.444,-3.301 0,-0.624 -0.004,-1.355 -0.002,-2.211 0,0 0,0 0,0 0.002,-0.029 0.004,-0.061 0.004,-0.073"
+         id="dp_path218" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 478.044,554.551 c 3.232,0 4.188,0.098 4.568,-0.368 0.38,-0.466 0.425,-1.467 -0.195,-1.982 -0.62,-0.515 -1.292,-0.489 -1.812,-0.076 -0.52,0.413 -0.441,1.195 -0.442,3.3 0,0.624 0.004,1.356 10e-4,2.212 0,0 0,0 0,0 -10e-4,0.028 -0.004,0.062 -0.004,0.072"
+         id="dp_path219" />
+    </g>
+    <g
+       id="dp_group220"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 235.567,556.675 c 0,-3.231 0.098,-4.187 -0.368,-4.567 -0.466,-0.38 -1.467,-0.427 -1.982,0.193 -0.515,0.62 -0.489,1.292 -0.076,1.812 0.413,0.52 1.196,0.442 3.302,0.443 0.622,0 1.354,-0.003 2.21,-0.001 0,0 0,0 0,0 0.028,0.001 0.062,0.004 0.072,0.004"
+         id="dp_path221" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 238.284,555.113 c 0,3.232 -0.097,4.188 0.369,4.568 0.466,0.38 1.466,0.426 1.98,-0.194 0.514,-0.62 0.49,-1.292 0.078,-1.812 -0.412,-0.52 -1.196,-0.442 -3.302,-0.443 -0.624,0 -1.354,0.004 -2.21,10e-4 0,0 0,0 0,0 -0.03,-10e-4 -0.062,-0.004 -0.074,-0.004"
+         id="dp_path222" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 237.688,557.229 c -3.232,0 -4.188,-0.097 -4.568,0.37 -0.38,0.467 -0.427,1.465 0.193,1.98 0.62,0.515 1.292,0.489 1.812,0.077 0.52,-0.412 0.442,-1.196 0.444,-3.301 0,-0.624 -0.004,-1.355 -0.002,-2.211 0,0 0,0 0,0 0.002,-0.029 0.004,-0.061 0.004,-0.073"
+         id="dp_path223" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.66666698;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 236.168,554.551 c 3.232,0 4.188,0.098 4.568,-0.368 0.38,-0.466 0.425,-1.467 -0.195,-1.982 -0.62,-0.515 -1.292,-0.489 -1.812,-0.076 -0.52,0.413 -0.441,1.195 -0.442,3.3 0,0.624 0.004,1.356 0.001,2.212 0,0 0,0 0,0 -0.001,0.028 -0.004,0.062 -0.004,0.072"
+         id="dp_path224" />
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81358719px;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#f2f2f2"
+       y="-58.252735"
+       x="904.04803"
+       font-weight="700"
+       font-size="12"
+       xml:space="preserve"
+       id="dp_text094"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">$ </text>
+    <g
+       id="dp_group227"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.296705,-754.61541)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 131.173,334.321 c 1.248,0 2.26,1.012 2.26,2.262 0,1.249 -1.012,2.261 -2.26,2.261 -1.248,0 -2.26,-1.012 -2.26,-2.261 0,-1.25 1.012,-2.262 2.26,-2.262 z"
+         id="dp_path228" />
+      <g
+         id="dp_group229"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 131.175,333.552 c 0,-0.339 0,-1.617 0,-2.035 0,-0.018 0,-0.042 0,-0.052"
+           id="dp_path230" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 131.175,341.699 c 0,-0.339 0,-1.618 0,-2.034 0,-0.02 0,-0.044 0,-0.052"
+           id="dp_path231" />
+      </g>
+      <g
+         id="dp_group232"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 129.031,334.439 c -0.239,-0.239 -1.143,-1.143 -1.438,-1.438 -0.014,-0.014 -0.03,-0.03 -0.037,-0.037"
+           id="dp_path233" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 134.792,340.2 c -0.239,-0.239 -1.143,-1.143 -1.439,-1.439 -0.013,-0.013 -0.03,-0.03 -0.036,-0.036"
+           id="dp_path234" />
+      </g>
+      <g
+         id="dp_group235"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 128.144,336.583 c -0.339,0 -1.617,0 -2.035,0 -0.018,0 -0.042,0 -0.052,0"
+           id="dp_path236" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 136.291,336.583 c -0.339,0 -1.618,0 -2.034,0 -0.02,0 -0.044,0 -0.052,0"
+           id="dp_path237" />
+      </g>
+      <g
+         id="dp_group238"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 129.031,338.725 c -0.239,0.24 -1.143,1.144 -1.438,1.439 -0.014,0.013 -0.03,0.031 -0.037,0.036"
+           id="dp_path239" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:0.93333298;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 134.792,332.964 c -0.239,0.24 -1.143,1.144 -1.439,1.439 -0.013,0.013 -0.03,0.03 -0.036,0.036"
+           id="dp_path240" />
+      </g>
+    </g>
+    <g
+       id="dp_group241"
+       transform="matrix(1.4844657,0,0,1.4844657,-43.88254,-754.61541)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 176.095,333.975 c 1.44,0 2.606,1.166 2.606,2.606 0,1.44 -1.166,2.607 -2.606,2.607 -1.44,0 -2.607,-1.167 -2.607,-2.607 0,-1.44 1.167,-2.606 2.607,-2.606 z"
+         id="dp_path242" />
+      <g
+         id="dp_group243"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 176.096,333.089 c 0,-0.39 0,-1.865 0,-2.345 0,-0.023 0,-0.049 0,-0.06"
+           id="dp_path244" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 176.096,342.48 c 0,-0.391 0,-1.864 0,-2.344 0,-0.023 0,-0.051 0,-0.06"
+           id="dp_path245" />
+      </g>
+      <g
+         id="dp_group246"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 173.625,334.112 c -0.276,-0.276 -1.318,-1.319 -1.657,-1.657 -0.016,-0.016 -0.036,-0.036 -0.043,-0.043"
+           id="dp_path247" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 180.267,340.753 c -0.278,-0.277 -1.319,-1.318 -1.659,-1.658 -0.016,-0.016 -0.035,-0.035 -0.043,-0.043"
+           id="dp_path248" />
+      </g>
+      <g
+         id="dp_group249"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 172.603,336.583 c -0.391,0 -1.866,0 -2.346,0 -0.022,0 -0.049,0 -0.06,0"
+           id="dp_path250" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 181.993,336.583 c -0.39,0 -1.864,0 -2.344,0 -0.022,0 -0.05,0 -0.06,0"
+           id="dp_path251" />
+      </g>
+      <g
+         id="dp_group252"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 173.625,339.052 c -0.276,0.276 -1.318,1.319 -1.657,1.659 -0.016,0.014 -0.036,0.034 -0.043,0.042"
+           id="dp_path253" />
+        <path
+           style="fill:none;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 180.267,332.412 c -0.278,0.276 -1.319,1.317 -1.659,1.657 -0.016,0.016 -0.035,0.036 -0.043,0.043"
+           id="dp_path254" />
+      </g>
+    </g>
+    <g
+       id="g5306"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.328621,-754.42243)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.80000001;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 214.836,332.295 h 6.603 v 3.01 h -6.603 z"
+         id="dp_path257" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.80000001;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 217.909,336.381 h 5.1 v 4.228 h -5.1 z"
+         id="dp_path258" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.80000001;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 224.577,333.299 h 4.578 v 5.374 h -4.578 z"
+         id="dp_path259" />
+    </g>
+    <g
+       id="g5298"
+       transform="matrix(1.4844657,0,0,1.4844657,-39.253122,-755.21213)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         id="path5286"
+         d="m 256.61117,332.48839 h 3.39142 v 3.39141 h -3.39142 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#9dac93;stroke-width:0.60858011;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.60858011;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 267.55026,338.08816 h 3.39142 v 3.39141 h -3.39142 z"
+         id="path5288" />
+      <path
+         id="path5290"
+         d="m 262.08072,338.08816 h 3.39142 v 3.39141 h -3.39142 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#9dac93;stroke-width:0.60858011;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.60858011;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 256.61117,338.08816 h 3.39142 v 3.39141 h -3.39142 z"
+         id="path5292" />
+      <path
+         id="path5294"
+         d="m 267.55026,332.48839 h 3.39142 v 3.39141 h -3.39142 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#9dac93;stroke-width:0.60858011;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:0.60858011;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 262.08071,332.48839 h 3.39142 v 3.39141 h -3.39142 z"
+         id="path5296" />
+    </g>
+    <g
+       id="g5311"
+       transform="matrix(1.4844657,0,0,1.4844657,41.169922,-342.55446)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <g
+         transform="translate(-57.6,-277.719)"
+         id="dp_group270"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           id="dp_path271"
+           d="m 399.323,335.575 -2.374,1.4 2.374,1.494 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-rule:evenodd;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1" />
+        <path
+           id="dp_path272"
+           d="m 404.323,335.575 -2.374,1.4 2.374,1.494 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-rule:evenodd;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g5316"
+       transform="matrix(1.4844657,0,0,1.4844657,41.169922,-342.55446)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <g
+         transform="translate(-57.6,-277.719)"
+         id="dp_group273"
+         style="stroke:#9dac93;stroke-opacity:1">
+        <path
+           id="dp_path274"
+           d="m 443.509,338.468 2.374,-1.4 -2.374,-1.495 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-rule:evenodd;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1" />
+        <path
+           id="dp_path275"
+           d="m 448.312,334.408 c 0,0.819 0,3.663 0,4.905 0,0.154 0,0.315 0,0.378"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#9dac93;stroke-width:1.06666994;stroke-opacity:1" />
+        <path
+           id="dp_path276"
+           d="m 450.312,334.408 c 0,0.819 0,3.663 0,4.905 0,0.154 0,0.315 0,0.378"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#9dac93;stroke-width:1.06666994;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="dp_group277"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 495.168,338.471 2.373,-1.4 -2.373,-1.495 z"
+         id="dp_path278" />
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:#9dac93;stroke-width:1.33333004;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 490.168,338.471 2.373,-1.4 -2.373,-1.495 z"
+         id="dp_path279" />
+    </g>
+    <g
+       id="g5328"
+       transform="matrix(1.4844657,0,0,1.4844657,41.169922,-342.55446)"
+       style="stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="dp_path280"
+         d="m 572.65625,62.28125 c 0.7728,-0.600769 1.33489,-1.487926 1.5,-2.53125 0.23771,-1.50202 -0.40242,-2.918699 -1.53125,-3.78125"
+         style="fill:none;stroke:#9dac93;stroke-width:0.40000001;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="dp_path281"
+         d="m 573.5625,62.78125 c 0.90891,-0.695924 1.57463,-1.697756 1.78125,-2.875 0.30461,-1.733745 -0.46986,-3.379646 -1.8125,-4.40625"
+         style="fill:none;stroke:#9dac93;stroke-width:0.40000001;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="dp_path282"
+         d="m 574.4375,63.25 c 1.03847,-0.78682 1.78336,-1.91069 2.03125,-3.21875 0.371,-1.965436 -0.46976,-3.848131 -2.03125,-5.03125"
+         style="fill:none;stroke:#9dac93;stroke-width:0.40000001;stroke-opacity:1" />
+      <g
+         transform="translate(-57.6,-277.719)"
+         id="dp_group284"
+         style="fill:#9dac93;fill-opacity:1;stroke:#9dac93;stroke-opacity:1">
+        <path
+           id="dp_path285"
+           d="m 626.619,335.061 0.134,-0.16 2.239,-2.1 -0.043,8.1 -2.33,-2.286 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9dac93;fill-opacity:1;fill-rule:evenodd;stroke:#9dac93;stroke-width:0.66666698;stroke-opacity:1" />
+        <path
+           id="dp_path286"
+           d="m 624.257,335.057 h 2.362 v 3.558 h -2.362 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9dac93;fill-opacity:1;fill-rule:evenodd;stroke:#9dac93;stroke-width:0.66666698;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="dp_group287"
+       transform="matrix(1.4844657,0,0,1.4844657,-44.335301,-754.81877)"
+       style="fill:#9dac93;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:#9dac93;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0"
+         d="m 537.841,335.171 0.135,-0.16 2.24,-2.1 -0.043,8.1 -2.332,-2.287 z"
+         id="dp_path288" />
+      <path
+         style="fill:#9dac93;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0"
+         d="m 535.481,335.167 h 2.362 v 3.557 h -2.362 z"
+         id="dp_path289" />
+    </g>
+    <g
+       id="g5322"
+       transform="matrix(1.4844657,0,0,1.4844657,41.169922,-342.55446)"
+       style="stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="dp_path290"
+         d="m 528.40625,62.46875 c 1.00653,-0.582383 1.77281,-1.574357 1.96875,-2.8125 0.26631,-1.682792 -0.57598,-3.29095 -1.96875,-4.09375"
+         style="fill:none;stroke:#9dac93;stroke-width:0.40000001;stroke-opacity:1" />
+      <g
+         transform="translate(-57.6,-277.719)"
+         id="dp_group292"
+         style="fill:#9dac93;fill-opacity:1;stroke:#9dac93;stroke-opacity:1">
+        <path
+           id="dp_path293"
+           d="m 582.823,334.96 0.134,-0.16 2.239,-2.1 -0.043,8.1 -2.33,-2.287 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9dac93;fill-opacity:1;fill-rule:evenodd;stroke:#9dac93;stroke-width:0.66666698;stroke-opacity:1" />
+        <path
+           id="dp_path294"
+           d="m 580.461,334.956 h 2.362 v 3.557 h -2.362 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9dac93;fill-opacity:1;fill-rule:evenodd;stroke:#9dac93;stroke-width:0.66666698;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g5346"
+       transform="matrix(1.4844657,0,0,1.4844657,43.903849,-342.55446)"
+       style="fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         id="dp_path195"
+         d="m 14.7,187.264 0.048,-4.634 -2.448,-0.078 5.6,-5.102 5.4,5.102 -2.4307,0.078 v 4.603 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1" />
+      <path
+         id="dp_path196"
+         d="m 14.6,189.19 h 6.2 v 2.111 h -6.2 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1" />
+      <path
+         id="dp_path295"
+         d="m 14.8,166.6 c 0.6627,0 1.2,0.537 1.2,1.2 0,0.662 -0.5373,1.2 -1.2,1.2 -0.6627,0 -1.2,-0.538 -1.2,-1.2 0,-0.663 0.5373,-1.2 1.2,-1.2 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4095"
+       transform="matrix(1.4844657,0,0,1.4844657,41.169922,-341.82863)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4073"
+         d="m 250.99993,62.005937 h 7.52064"
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4079"
+         d="m 247.46175,58.698254 2.49212,1.43883"
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 262.05874,58.698258 -2.49212,1.438826"
+         id="path4087"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4089"
+         d="m 254.76025,55.016171 v 2.877654"
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 251.01462,56.006579 1.43882,2.492122"
+         id="path4091"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4093"
+         d="m 258.50589,56.087974 -1.43884,2.492116"
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4103"
+       transform="matrix(1.4844657,0,0,1.4844657,107.13921,-341.82863)"
+       style="stroke:#9dac93;stroke-opacity:1"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 249.72113,62.005937 h 10.15774"
+         id="path4105"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 259.39683,54.499915 -2.06331,3.573758"
+         id="path4107"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4117"
+         d="m 250.01279,54.499915 2.06331,3.573758"
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 263.81243,57.948611 -3.57376,2.06331"
+         id="path4119"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4121"
+         d="m 254.70483,53.532849 v 4.12662"
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#9dac93;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 245.59723,57.948613 3.57374,2.063308"
+         id="path4123"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       style="display:inline;fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       id="g4166"
+       transform="matrix(1.3705792,0,0,1.3705792,111.32395,-333.57413)"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3002"
+         d="m 616,51.628942 v 5.281263"
+         style="display:inline;fill:none;stroke:#f2f2f2;stroke-width:1.76042116;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3793"
+         d="m 618.98493,53.389363 c 3.96095,2.640631 2.64063,9.682316 -3.08074,9.682316 -5.72137,0 -6.60158,-7.041685 -3.08073,-9.682316"
+         style="display:inline;fill:none;stroke:#f2f2f2;stroke-width:1.76042116;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline;fill:none;stroke:#f2f2f2;stroke-opacity:1"
+       id="dp_group202-7"
+       transform="matrix(-1.4844657,0,0,-1.4844657,1080.8178,434.98937)"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44">
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 686.487,379.409 -14.016,-0.005 -1.172,0.016"
+         id="dp_path203-4" />
+      <path
+         style="fill:none;stroke:#f2f2f2;stroke-width:1.33333004;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 675.04,383.808 -4.49284,-4.396 4.49284,-4.396"
+         id="dp_path204-0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4076"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0,22.8)"><flowRegion
+         id="flowRegion4078"><rect
+           id="rect4080"
+           width="657.11566"
+           height="356.55154"
+           x="-5.893414"
+           y="-30.120836" /></flowRegion><flowPara
+         id="flowPara4082"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       x="822.43182"
+       y="-121.73133"
+       id="text4257"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4259"
+         x="822.43182"
+         y="-121.73133"
+         style="font-size:17.81358719px;line-height:1.25">ü</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       x="774.25244"
+       y="-58.196201"
+       id="text4265"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4267"
+         x="774.25244"
+         y="-58.196201"
+         style="font-size:17.81358719px;line-height:1.25">ö</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       x="839.6579"
+       y="-58.196201"
+       id="text4273"
+       inkscape:export-filename="D:\Dropbox\Dropbox\mac_retina_keyboard_layout_swiss.png"
+       inkscape:export-xdpi="150.44"
+       inkscape:export-ydpi="150.44"><tspan
+         sodipodi:role="line"
+         id="tspan4275"
+         x="839.6579"
+         y="-58.196201"
+         style="font-size:17.81358719px;line-height:1.25">ä</tspan></text>
+  </g>
+  <metadata
+     id="metadata321">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>MacKeyboard Layout Swiss</dc:title>
+        <dc:date>2013-07-30T08:00:00</dc:date>
+        <dc:description>Keyboard of a Mac Retina book</dc:description>
+        <dc:source />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>tschinz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>apple</rdf:li>
+            <rdf:li>mac</rdf:li>
+            <rdf:li>swiss</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>layout</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>all right reserved</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="708.66144" height="74.607712" id="svg3227">
+  <defs id="defs3229">
+    <clipPath id="clp7">
+<path d="M 22.677,17.008 L 130.39,17.008 L 130.39,28.348 L 22.677,28.348 L 22.677,17.008 z " id="path2875"/>
+
+</clipPath>
+    <clipPath id="clp6">
+<path d="M 22.677,0 L 572.6,0 L 572.6,45.355 L 22.677,45.355 L 22.677,0 z " id="path2869"/>
+
+</clipPath>
+  </defs>
+  <g transform="translate(-252.68214,-130.55596)" id="layer1">
+    <g transform="matrix(6.5791633,0,0,-6.5791633,103.48645,317.06208)" style="font-size:12px;letter-spacing:0.51599997;word-spacing:0;fill:#ffffff;fill-rule:nonzero;stroke:none;font-family:fnt0" id="q10">
+<clipPath id="clipPath3240">
+<path d="M 22.677,0 L 572.6,0 L 572.6,45.355 L 22.677,45.355 L 22.677,0 z " id="path3242"/>
+
+</clipPath>
+
+<g clip-path="url(#clp6)" id="g2871">
+<g style="fill:none;stroke:none" id="q11">
+<clipPath id="clipPath3246">
+<path d="M 22.677,17.008 L 130.39,17.008 L 130.39,28.348 L 22.677,28.348 L 22.677,17.008 z " id="path3248"/>
+
+</clipPath>
+
+<g clip-path="url(#clp7)" id="g2877">
+<path d="M 22.677,17.008 L 56.697,17.008 L 56.697,28.348 L 22.677,28.348 L 22.677,17.008 z " style="fill:#ec1b24;fill-rule:nonzero;stroke:none" id="path2879"/>
+
+<path d="M 42.703,23.546 L 46.381,23.546 L 46.381,26.458 L 48.113,26.458 L 48.113,23.546 L 51.791,23.546 L 48.831,26.458 L 51.027,26.458 L 54.807,22.678 L 51.027,18.898 L 48.831,18.898 L 51.791,21.81 L 48.113,21.81 L 48.113,18.898 L 46.381,18.898 L 46.381,21.81 L 42.703,21.81 L 45.662,18.898 L 43.467,18.898 L 39.687,22.678 L 43.467,26.458 L 45.662,26.458" style="fill:#ffffff;fill-rule:nonzero;stroke:none" id="path2881"/>
+
+<path d="M 60.208,21.156 C 60.186,19.199 61.831,18.332 63.587,18.332 C 65.744,18.332 66.889,19.421 66.889,20.878 C 66.889,22.678 65.11,23.045 64.532,23.189 C 62.542,23.701 62.165,23.779 62.165,24.39 C 62.165,25.057 62.809,25.29 63.365,25.29 C 64.199,25.29 64.877,25.046 64.932,24.09 L 66.622,24.09 C 66.622,25.924 65.099,26.646 63.443,26.646 C 62.009,26.646 60.475,25.868 60.475,24.245 C 60.475,22.756 61.664,22.3 62.843,21.989 C 64.01,21.678 65.199,21.533 65.199,20.678 C 65.199,19.866 64.265,19.688 63.654,19.688 C 62.72,19.688 61.898,20.1 61.898,21.156" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2883"/>
+
+<path d="M 69.711,25.101 L 71.345,25.101 C 71.967,25.101 72.545,24.946 72.545,24.19 C 72.545,23.523 72.089,23.245 71.478,23.245 L 69.711,23.245 L 69.711,25.101 z M 67.966,18.521 L 71.811,18.521 C 73.245,18.521 74.613,19.21 74.613,20.822 C 74.613,21.811 74.123,22.556 73.156,22.834 C 73.846,23.167 74.235,23.712 74.235,24.49 C 74.235,25.968 73.212,26.457 71.7,26.457 L 67.966,26.457 L 67.966,18.521 z M 69.711,22.056 L 71.611,22.056 C 72.356,22.056 72.867,21.733 72.867,20.922 C 72.867,20.1 72.267,19.877 71.578,19.877 L 69.711,19.877" style="fill:#231f20;fill-rule:evenodd;stroke:none" id="path2885"/>
+
+<path d="M 77.522,25.101 L 79.156,25.101 C 79.778,25.101 80.356,24.946 80.356,24.19 C 80.356,23.523 79.9,23.245 79.289,23.245 L 77.522,23.245 L 77.522,25.101 z M 75.776,18.521 L 79.622,18.521 C 81.056,18.521 82.423,19.21 82.423,20.822 C 82.423,21.811 81.934,22.556 80.967,22.834 C 81.656,23.167 82.045,23.712 82.045,24.49 C 82.045,25.968 81.023,26.457 79.511,26.457 L 75.776,26.457 L 75.776,18.521 z M 77.522,22.056 L 79.422,22.056 C 80.167,22.056 80.678,21.733 80.678,20.922 C 80.678,20.1 80.078,19.877 79.389,19.877 L 77.522,19.877" style="fill:#231f20;fill-rule:evenodd;stroke:none" id="path2887"/>
+
+<path d="M 93.509,23.79 C 93.298,25.624 91.831,26.646 90.086,26.646 C 87.629,26.646 86.185,24.812 86.185,22.456 C 86.185,20.166 87.629,18.332 90.086,18.332 C 92.031,18.332 93.398,19.599 93.576,21.578 L 91.886,21.578 C 91.753,20.533 91.153,19.799 90.086,19.799 C 88.519,19.799 87.929,21.133 87.929,22.456 C 87.929,23.845 88.519,25.179 90.086,25.179 C 90.953,25.179 91.709,24.579 91.82,23.79" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2889"/>
+
+<path d="M 94.65,18.521 L 96.395,18.521 L 96.395,21.8 L 99.719,21.8 L 99.719,23.156 L 96.395,23.156 L 96.395,24.99 L 100.23,24.99 L 100.23,26.457 L 94.65,26.457" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2891"/>
+
+<path d="M 101.29,18.521 L 103.03,18.521 L 103.03,21.8 L 106.35,21.8 L 106.35,23.156 L 103.03,23.156 L 103.03,24.99 L 106.86,24.99 L 106.86,26.457 L 101.29,26.457" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2893"/>
+
+<path d="M 110.64,18.521 L 112.39,18.521 L 112.39,21.8 L 115.71,21.8 L 115.71,23.156 L 112.39,23.156 L 112.39,24.99 L 116.22,24.99 L 116.22,26.457 L 110.64,26.457" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2895"/>
+
+<path d="M 117.49,18.521 L 119.23,18.521 L 119.23,21.8 L 122.55,21.8 L 122.55,23.156 L 119.23,23.156 L 119.23,24.99 L 123.07,24.99 L 123.07,26.457 L 117.49,26.457" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2897"/>
+
+<path d="M 123.71,21.156 C 123.69,19.199 125.33,18.332 127.09,18.332 C 129.25,18.332 130.39,19.421 130.39,20.878 C 130.39,22.678 128.61,23.045 128.04,23.189 C 126.05,23.701 125.67,23.779 125.67,24.39 C 125.67,25.057 126.31,25.29 126.87,25.29 C 127.7,25.29 128.38,25.046 128.44,24.09 L 130.12,24.09 C 130.12,25.924 128.6,26.646 126.95,26.646 C 125.51,26.646 123.98,25.868 123.98,24.245 C 123.98,22.756 125.17,22.3 126.35,21.989 C 127.51,21.678 128.7,21.533 128.7,20.678 C 128.7,19.866 127.77,19.688 127.16,19.688 C 126.22,19.688 125.4,20.1 125.4,21.156" style="fill:#231f20;fill-rule:nonzero;stroke:none" id="path2899"/>
+
+</g>
+
+</g>
+
+</g>
+
+</g>
+  </g>
+<script xmlns="">try {
+                        Object.defineProperty(screen, "availTop", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availLeft", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availWidth", { value: 3440 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availHeight", { value: 1440 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "colorDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "pixelDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "hardwareConcurrency", { value: 8 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "appVersion", { value: "5.0 (Windows)" });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "doNotTrack", { value: "unspecified" });
+                    } catch (e) {}
+                    
+            try {
+                window.screenY = 0
+            } catch (e) { }
+        
+            try {
+                window.screenTop = 0
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerHeight = window.screen.height
+            } catch (e) { }
+        
+            try {
+                window.screenX = 1715
+            } catch (e) { }
+        
+            try {
+                window.screenLeft = 1715
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerWidth = 1730
+            } catch (e) { }
+        </script></svg>

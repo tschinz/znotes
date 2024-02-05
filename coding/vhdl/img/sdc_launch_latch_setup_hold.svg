@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150.59055"
+   height="99.212593"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="sdc_launch_latch_setup_hold.svg"
+   style="enable-background:new"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         id="path4571"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path4553"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4568"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path4556"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible">
+      <path
+         id="path4574"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4562"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="68.749998"
+     inkscape:cy="133.75"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:window-width="1800"
+     inkscape:window-height="1069"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="3.5433071"
+       spacingy="3.5433071"
+       originx="-17.716536"
+       originy="-871.65355" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="0.35433071"
+       spacingy="0.35433071"
+       dotted="true"
+       originx="-17.716536"
+       originy="-871.65355" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.716536,-82.660103)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:40"
+       id="rect1122"
+       width="150.59055"
+       height="99.212593"
+       x="17.716536"
+       y="82.660103" />
+    <g
+       id="Layer_1"
+       transform="matrix(0.40944855,0,0,0.40944855,16.488192,51.181084)" />
+    <g
+       id="Layer_1-9"
+       transform="translate(65.866142,23.80313)" />
+    <g
+       id="g3325"
+       transform="translate(136.73228,23.80313)" />
+    <g
+       id="g3345"
+       transform="matrix(0.40944855,0,0,0.40944855,16.488192,63.984237)" />
+    <g
+       id="g3351"
+       transform="matrix(0.40944855,0,0,0.40944855,16.472449,11.165339)" />
+    <g
+       id="g4228"
+       transform="matrix(0.40944855,0,0,0.40944855,16.503933,113.874)" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path4230"
+       d="m 17.716535,127.86612 h 8.188971 l 2.456692,-2.45669 -2.456692,-2.45669 h -8.188971 v 4.91338"
+       style="fill:none;stroke:#000000;stroke-width:0.818897;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="86.444382"
+       y="96.586861"
+       id="text4234"><tspan
+         sodipodi:role="line"
+         id="tspan4236"
+         x="86.444382"
+         y="96.586861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Q</tspan></text>
+    <g
+       id="g4238"
+       transform="translate(65.881883,86.496041)" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4240"
+       d="m 70.881883,87.496041 v 29.999999 h 22 V 87.496041 Z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path4242"
+       d="m 70.881883,107.49604 5,3 -5,3"
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text4244"
+       y="96.49604"
+       x="72.225632"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="96.49604"
+         x="72.225632"
+         id="tspan4246"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="77.935593"
+       y="91.49604"
+       id="text4248"><tspan
+         sodipodi:role="line"
+         id="tspan4250"
+         x="77.935593"
+         y="91.49604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">PRE</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text4252"
+       y="116.49604"
+       x="77.859421"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="116.49604"
+         x="77.859421"
+         id="tspan4254"
+         sodipodi:role="line">CLR</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text4518"
+       y="145.27557"
+       x="17.716536"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="145.27557"
+         x="17.716536"
+         id="tspan4520"
+         sodipodi:role="line">CLK</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#37abc8;fill-opacity:1;stroke:none"
+       x="17.716536"
+       y="180.70863"
+       id="text4522"><tspan
+         sodipodi:role="line"
+         id="tspan4524"
+         x="17.716536"
+         y="180.70863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#37abc8;fill-opacity:1">Data</tspan></text>
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path4526"
+       d="m 35.433071,145.27557 h 35.433071 v -7.08662 h 35.433068 v 7.08662 h 35.43307 v -7.08662 h 21.25985"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="38.976379"
+       y="134.64565"
+       id="text4528"><tspan
+         sodipodi:role="line"
+         id="tspan4530"
+         x="38.976379"
+         y="134.64565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Launch edge</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text4532"
+       y="134.64565"
+       x="145.27559"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="134.64565"
+         x="145.27559"
+         id="tspan4534"
+         sodipodi:role="line">Latch edge</tspan></text>
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4536"
+       d="m 53.149606,136.4173 14.173229,5.31496"
+       style="fill:none;stroke:#000000;stroke-width:0.999213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.999213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 155.90551,136.4173 -10.62992,5.31496"
+       id="path5734"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path5736"
+       d="m 35.433071,180.70864 h 46.062992 l 3.543307,-7.08661 h 67.32283 l 3.54331,7.08661 h 7.08662"
+       style="fill:none;stroke:#37abc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path5738"
+       d="m 162.99213,173.62203 h -7.08662 l -3.54331,7.08661 H 85.03937 l -3.543307,-7.08661 H 35.433071 81.496063 l 1.771653,3.5433"
+       style="fill:none;stroke:#37abc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5756"
+       d="m 35.433071,173.62202 46.062992,1e-5 1.771653,3.5433 -1.771653,3.54331 H 35.433071"
+       style="fill:#cccccc;fill-opacity:1;stroke:#37abc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#cccccc;fill-opacity:1;stroke:#37abc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.99213,180.70864 h -7.08662 l -1.77165,-3.5433 1.77165,-3.54331 7.08662,-1e-5"
+       id="path5758"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text5760"
+       y="178.65459"
+       x="101.07686"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="178.65459"
+         x="101.07686"
+         id="tspan5762"
+         sodipodi:role="line">Data valid</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text5768"
+       y="170.0787"
+       x="17.716536"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#d35f5f;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#d35f5f;fill-opacity:1"
+         y="170.0787"
+         x="17.716536"
+         id="tspan5770"
+         sodipodi:role="line">Data</tspan></text>
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="cccccc"
+       style="fill:none;stroke:#d35f5f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.433071,170.07871 h 35.43307 l 3.543308,-7.08661 h 67.322831 l 3.54331,7.08661 h 17.71654"
+       id="path5772"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="cccccccc"
+       style="fill:none;stroke:#d35f5f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.99213,162.9921 h -17.71654 l -3.54331,7.08661 H 74.409449 l -3.543308,-7.08661 h -35.43307 35.43307 l 1.771654,3.5433"
+       id="path5774"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#cccccc;fill-opacity:1;stroke:#d35f5f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.433071,162.9921 h 35.43307 l 1.771654,3.5433 -1.771654,3.54331 h -35.43307"
+       id="path5776"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5778"
+       d="m 162.99213,170.07871 h -17.71654 l -1.77165,-3.5433 1.77165,-3.54331 h 17.71654"
+       style="fill:#cccccc;fill-opacity:1;stroke:#d35f5f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="101.07686"
+       y="168.02466"
+       id="text5780"><tspan
+         sodipodi:role="line"
+         id="tspan5782"
+         x="101.07686"
+         y="168.02466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">Data valid</tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#6f916f;fill-opacity:1;stroke:none"
+       x="17.716536"
+       y="159.44879"
+       id="text5796"><tspan
+         sodipodi:role="line"
+         id="tspan5798"
+         x="17.716536"
+         y="159.44879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#6f916f;fill-opacity:1">Data</tspan></text>
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5800"
+       d="m 35.433071,159.4488 24.803149,-1e-5 3.543307,-7.08661 h 14.173229 l 3.54331,7.08661 81.496064,1e-5"
+       style="fill:none;stroke:#6f916f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5802"
+       d="m 162.99213,152.36218 -81.496064,1e-5 -3.54331,7.08661 -14.173228,-1e-5 -3.543308,-7.08661 H 35.433071 60.23622 l 1.771654,3.5433"
+       style="fill:none;stroke:#6f916f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5804"
+       d="M 35.433071,152.36218 H 60.23622 l 1.771654,3.5433 -1.771654,3.54331 H 35.433071"
+       style="fill:#cccccc;fill-opacity:1;stroke:#6f916f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#cccccc;fill-opacity:1;stroke:#6f916f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 162.99213,159.44879 H 81.496059 l -1.77165,-3.5433 1.77165,-3.54331 h 81.496071"
+       id="path5806"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text5808"
+       y="157.67714"
+       x="70.866142"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;text-anchor:middle"
+         y="157.67714"
+         x="70.866142"
+         id="tspan5810"
+         sodipodi:role="line">valid</tspan></text>
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5812"
+       d="m 70.866142,145.27557 v 7.08661"
+       style="fill:none;stroke:#000000;stroke-width:0.354331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5814"
+       d="m 65.551181,148.81888 v 3.5433 0"
+       style="fill:none;stroke:#000000;stroke-width:0.354331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5816"
+       d="m 76.181102,148.81888 v 3.5433"
+       style="fill:none;stroke:#000000;stroke-width:0.354331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path5818"
+       d="M 71.220473,150.59053 H 65.905512"
+       style="fill:none;stroke:#000000;stroke-width:0.354331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       style="fill:none;stroke:#000000;stroke-width:0.354331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 70.564186,150.59394 h 5.314961"
+       id="path6008"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="68.031494"
+       y="149.1732"
+       id="text6010"><tspan
+         sodipodi:role="line"
+         id="tspan6012"
+         x="68.031494"
+         y="149.1732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;text-anchor:middle">T<tspan
+   id="tspan6014"
+   style="font-size:2px">su</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text6016"
+       y="149.1732"
+       x="73.70079"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;text-anchor:middle"
+         y="149.1732"
+         x="73.70079"
+         id="tspan6018"
+         sodipodi:role="line">T<tspan
+   style="font-size:2px"
+   id="tspan6020">h</tspan></tspan></text>
+    <text
+       id="text4258"
+       y="96.586861"
+       x="157.31052"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="96.586861"
+         x="157.31052"
+         id="tspan4260"
+         sodipodi:role="line">Q</tspan></text>
+    <g
+       id="g4262"
+       transform="translate(136.74802,86.496042)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.74802,87.496042 v 29.999998 h 22 V 87.496042 Z"
+       id="path4264"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.74802,107.49604 5,3 -5,3"
+       id="path4266"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="143.09177"
+       y="96.49604"
+       id="text4268"><tspan
+         sodipodi:role="line"
+         id="tspan4270"
+         x="143.09177"
+         y="96.49604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">D</tspan></text>
+    <text
+       id="text4272"
+       y="91.49604"
+       x="148.80173"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="91.49604"
+         x="148.80173"
+         id="tspan4274"
+         sodipodi:role="line">PRE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="148.72556"
+       y="116.49604"
+       id="text4276"><tspan
+         sodipodi:role="line"
+         id="tspan4278"
+         x="148.72556"
+         y="116.49604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana">CLR</tspan></text>
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path4294"
+       d="M 28.362198,125.40943 H 53.165347 V 110.52754 H 70.881883"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path4296"
+       d="m 53.165347,125.40943 70.866143,-0.70866 v -14.17323 h 17.71653"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:connector-curvature="0"
+       id="path4298"
+       d="m 133.22835,94.60628 8.51967,-0.02362"
+       style="fill:none;stroke:#37abc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:export-ydpi="600.98267"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       id="text4310"
+       y="90.884644"
+       x="117.95308"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Abadi MT Condensed Light';-inkscape-font-specification:'Abadi MT Condensed Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;text-anchor:middle"
+         y="90.884644"
+         x="117.95308"
+         sodipodi:role="line"
+         id="tspan4312">Comb</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;text-anchor:middle"
+         y="98.384644"
+         x="117.95308"
+         sodipodi:role="line"
+         id="tspan4426">Logic</tspan></text>
+    <g
+       id="Layer_1-6"
+       transform="translate(101.96333,76.974973)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.985507"
+       d="m 117.22259,82.604603 c -1.68056,0 -3.17288,0.898357 -4.12037,2.314814 -0.99995,-0.503214 -2.09125,-0.833333 -3.28704,-0.833333 -4.091,0 -7.40741,3.316409 -7.40741,7.407407 0,2.045499 0.83545,3.891005 2.17593,5.231481 0.65756,1.02863 1.77158,1.952993 3.19445,2.731482 1.25734,2.299016 3.67638,3.888886 6.48148,3.888886 1.55717,0 2.97411,-0.47548 4.16666,-1.29629 0.88703,0.81086 2.01653,1.29629 3.24074,1.29629 1.69277,0 3.17402,-0.92702 4.12037,-2.36111 4.61815,-1.254364 7.73148,-3.715214 7.73148,-6.527776 0,-1.716166 -1.18896,-3.281137 -3.14814,-4.537037 -0.7291,-3.324949 -3.6784,-5.833333 -7.22222,-5.833333 -0.76707,0 -1.48009,0.153941 -2.17593,0.370371 -0.94544,-1.145316 -2.26353,-1.851852 -3.75,-1.851852 z"
+       id="path3805"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#d35f5f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.850387,94.582656 10.259853,0.02362"
+       id="path4424"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-ydpi="600.98267"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4430"
+       transform="matrix(0.40944855,0,0,0.40944855,16.488192,232.95274)" />
+    <g
+       id="g4440"
+       transform="translate(65.866142,206.28345)" />
+    <g
+       id="g4464"
+       transform="translate(136.73228,206.28345)" />
+    <g
+       id="g4512"
+       transform="translate(101.94759,196.76238)" />
+    <path
+       style="fill:#de8787;stroke:#d35f5f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.866142,145.27557 v -7.08662"
+       id="path5764"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-ydpi="600.98267" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5766"
+       d="m 141.73228,145.27558 v -7.08662"
+       style="fill:#de8787;stroke:#37abc8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-ydpi="600.98267" />
+    <g
+       id="g5788"
+       transform="matrix(0.40944855,0,0,0.40944855,16.858264,82.692889)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.818897;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.070866,96.685012 h 8.188971 l 2.456692,-2.456691 -2.456692,-2.456692 h -8.188971 v 4.913383"
+       id="path5790"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#6f916f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.716529,94.228319 42.149613,0.02363"
+       id="path5792"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/zas/Workspace/VHDL/Documents/pictures/launch_latch_setup_hold.png"
+       inkscape:export-xdpi="600.98267"
+       inkscape:export-ydpi="600.98267"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
