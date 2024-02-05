@@ -97,6 +97,12 @@ _default:
   {{sourceVenv}} && \
   {{BUILDER}} serve
 
+# Deploy on gh-pages
+@deploy:  venv-create
+  #!/usr/bin/env bash
+  {{sourceVenv}} && \
+  {{BUILDER}} gh-deploy
+
 # Delete build folder(s)
 [linux]
 [macos]
