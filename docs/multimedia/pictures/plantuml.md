@@ -5,9 +5,9 @@ tags:
 - plantuml
 ---
 # PlantUml
-![](img/plantuml.png){.center}{.center width="20%"}
+![](img/plantuml.png){.center width="20%"}
 
-- [PlantUML Reference Guide]({{base_repo_file}}/docs/multimedia/pictures/docs/PlantUML_Language_Reference_Guide_en.pdf)
+- [PlantUML Reference Guide](docs/PlantUML_Language_Reference_Guide_en.pdf)
 - [PlantUML Webpage](https://plantuml.com/)
 - [PlantUML Ashley Doc](https://plantuml-documentation.readthedocs.io/en/latest/)
 - [PlantText Live Editor](https://planttext.com/)

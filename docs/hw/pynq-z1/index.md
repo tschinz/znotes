@@ -33,7 +33,7 @@ shutdown -r now
 ### Xilinx Zynq FPGA
 The core of a PYNQ Board is a Xilinx ZYNQ-7000 SoC.
 
-- [Zynq-7000 Soc Reference Manual]({{base_repo_file}}/docs/boards/pynq-z1/docs/ug585-Zynq-7000-TRM.pdf)
+- [Zynq-7000 Soc Reference Manual](docs/ug585-Zynq-7000-TRM.pdf)
 
 ![](img/pynq_blockdiagram.jpg){.center}
 

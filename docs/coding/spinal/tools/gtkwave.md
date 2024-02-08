@@ -7,7 +7,7 @@ tags:
 ---
 # GtkWave
 
-- [Cheatsheet GTKWave 3.3 Wave Analyzer User's Guide]({{base_repo_file}}/docs/coding/spinal/tools/docs/gtkwave.pdf)
+- [Cheatsheet GTKWave 3.3 Wave Analyzer User's Guide](docs/gtkwave.pdf)
 
 ## Manual Reload
 

@@ -19,7 +19,7 @@ Tcl originally from "Tool Command Language" is a scripting language. It is commo
 
 Tcl is also used for CGI scripting. Tcl is popularly used today in many automated test harnesses, both for software and hardware, and has a loyal following in the Network Testing and SQA communities.
 
-- [TCL Tk Manual]({{base_repo_file}}/docs/coding/tcl_tk_do/docs/tcl-tk-manual.pdf) or  [online](http://tcl.sourceforge.net/engManual.pdf)
+- [TCL Tk Manual](docs/tcl-tk-manual.pdf) or  [online](http://tcl.sourceforge.net/engManual.pdf)
 
 ## Links
 

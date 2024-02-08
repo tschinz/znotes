@@ -11,8 +11,8 @@ tags:
 ### Some LaTeX helppages
 
 - [HEI SPL Latex Templates](https://gitlab.hevs.ch/SPL/miscellaneous/spl-latex-template)
-- [Cheatsheet A Guide to Latex]({{base_repo_file}}/docs/writing/latex/docs/Guide-to-Latex.pdf)
-- [Cheatsheet A Guide to Latex Presentation]({{base_repo_file}}/docs/writing/latex/docs/Guide-to-Presentation.pdf)
+- [Cheatsheet A Guide to Latex](docs/Guide-to-Latex.pdf)
+- [Cheatsheet A Guide to Latex Presentation](docs/Guide-to-Presentation.pdf)
 - [Tex Stackexchange Forum](https://tex.stackexchange.com/)
 
 ### Generate PDF files

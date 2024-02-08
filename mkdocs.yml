@@ -215,7 +215,7 @@ nav:
         - Syntax: coding/scala/syntax.md
         - Libraries: coding/scala/libraries.md
         - Coding Convention: coding/scala/coding_convention_spinalhdl.md
-      - Spinal:
+      - Spinal HDL:
         - coding/spinal/index.md
         - Install: coding/spinal/install.md
         - Project: coding/spinal/project.md

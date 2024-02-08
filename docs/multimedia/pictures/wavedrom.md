@@ -7,7 +7,7 @@ tags:
 # Wavedrom
 ![](img/wavedrom.svg){.center width="20%"}
 
-- [Wavedrom Paper]({{base_repo_file}}/docs/multimedia/pictures/docs/SNUG2016_WaveDrom.pdf)
+- [Wavedrom Paper](docs/SNUG2016_WaveDrom.pdf)
 
 ## Timing Diagrams
 ```wavedrom

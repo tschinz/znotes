@@ -20,7 +20,7 @@ Though its primary use is as described above, make is not restricted to just cre
 
 ### PDF
 
-- [Gnu Make Manual]({{base_repo_file}}/docs/coding/make/docs/gnu_make_manual.pdf)
+- [Gnu Make Manual](docs/gnu_make_manual.pdf)
 
 ### Links
 

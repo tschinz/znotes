@@ -14,7 +14,7 @@ tags:
 
 # Useful Links
 
-- [Shortcut Cheatsheet]({{base_repo_file}}/docs/tools/sublimetext/docs/sublimecheatsheet.pdf)
+- [Shortcut Cheatsheet](docs/sublimecheatsheet.pdf)
 - [My Settings Backup]({{config_repo_folder}}/config/sublimetext)
 
 # Console

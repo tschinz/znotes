@@ -22,13 +22,13 @@ As last remark I want to thank Corthay Francois for his VHDL Summary and HTML fi
 
 ## PDF
 
-- [ESA VHDL Modelling Guide]({{base_repo_file}}/docs/coding/vhdl/docs/esa_vhdl_modellingguide.pdf)
-- [Synth Works Fixed & Float]({{base_repo_file}}/docs/coding/vhdl/docs/synthworks_fixed_float.pdf)
-- [Synth Works Math Tricks]({{base_repo_file}}/docs/coding/vhdl/docs/synthworks_math_tricks.pdf)
-- [Synth Works Verification]({{base_repo_file}}/docs/coding/vhdl/docs/synthworks_subblock_verification.pdf)
-- [Synth Works VHDL 2008 End of Verbosity]({{base_repo_file}}/docs/coding/vhdl/docs/synthworks_vhdl_2008end_of_verbosity.pdf)
-- [Short Guide CoF]({{base_repo_file}}/docs/coding/vhdl/docs/vhdl_syntax_cof.pdf)
-- [EPFL VHDL Script]({{base_repo_file}}/docs/coding/vhdl/docs/Intro_VHDL_v2.0_notes.pdf)
+- [ESA VHDL Modelling Guide](docs/esa_vhdl_modellingguide.pdf)
+- [Synth Works Fixed & Float](docs/synthworks_fixed_float.pdf)
+- [Synth Works Math Tricks](docs/synthworks_math_tricks.pdf)
+- [Synth Works Verification](docs/synthworks_subblock_verification.pdf)
+- [Synth Works VHDL 2008 End of Verbosity](docs/synthworks_vhdl_2008end_of_verbosity.pdf)
+- [Short Guide CoF](docs/vhdl_syntax_cof.pdf)
+- [EPFL VHDL Script](docs/Intro_VHDL_v2.0_notes.pdf)
 
 ## Links
 

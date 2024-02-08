@@ -10,9 +10,12 @@ Typst is a markup-based typesetting system for the sciences. It is designed to b
 
 Typst is a good choice for writing any long-form text, such as essays, articles, scientific papers, books, reports, and homework assignments. It is also a great fit for any documents containing mathematical notation, such as papers in the math, physics, and engineering fields. Finally, due to its strong styling and automation features, Typst is an excellent choice for any set of documents that share a common style, such as a book series.
 
+## Cheatsheet
+
+- [Guide to Typst](docs/guide-to-typst.pdf)
+
 ## Some Just helppages
 
 - [Official webpage typst.app](https://typst.app)
 - [Documentation](https://typst.app/docs/)
 - [Github](https://github.com/typst/)
-- [Guide to Typst]({{base_repo_file}}/docs/multimedia/writing/typst/docs/guide-to-typst.pdf)

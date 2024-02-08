@@ -39,8 +39,8 @@ This board is based on the ESP32-C3, and includes sensors, LEDs, buttons, a batt
 
 ## Documents
 
-- [ESP32-C3 Datasheet]({{base_repo_file}}/docs/hw/esp32-c3/ESP32-C3 Datasheet.pdf)
-- [ESP32-C3 - A Comprehensive guide to IoT]({{base_repo_file}}/docs/hw/esp32-c3/ESP32-C3 - A Comprehensive guide to IoT.pdf)
+- [ESP32-C3 Datasheet](docs/ESP32-C3 Datasheet.pdf)
+- [ESP32-C3 - A Comprehensive guide to IoT](docs/ESP32-C3 - A Comprehensive guide to IoT.pdf)
 
 
 ## Links

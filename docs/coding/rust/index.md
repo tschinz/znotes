@@ -18,10 +18,10 @@ A language empowering everyone to build reliable and efficient software.
 
 ## Cheatsheets
 
-- [Rust Cheatsheet]({{base_repo_file}}/docs/coding/rust/docs/rust-cheatsheet.pdf)
+- [Rust Cheatsheet](docs/rust-cheatsheet.pdf)
 - [cheats.rs](https://cheats.rs)
-- [Cargo Cheatsheet]({{base_repo_file}}/docs/coding/rust/docs/cargo-cheatsheet.pdf)
-- [Rust container Cheatsheet]({{base_repo_file}}/docs/coding/rust/docs/rust_container-cheatsheet.pdf)
+- [Cargo Cheatsheet](docs/cargo-cheatsheet.pdf)
+- [Rust container Cheatsheet](docs/rust_container-cheatsheet.pdf)
 - [quickref Rust](https://quickref.me/rust)
 - [phaiax Rust Cheatsheet](https://phaiax.github.io/rust-cheatsheet/)
 

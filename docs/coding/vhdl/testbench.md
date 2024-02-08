@@ -10,8 +10,8 @@ tags:
 
 ## Additional Documents
 
-- [Synth Works Subbloc Verification]({{base_repo_file}}/docs/coding/vhdl/docs/synthworks_subblock_verification.pdf)
-- [Synth Works Testbench Techniques]({{base_repo_file}}/docs/coding/vhdl/docs/synthworks_testbench_techniques.pdf)
+- [Synth Works Subbloc Verification](docs/synthworks_subblock_verification.pdf)
+- [Synth Works Testbench Techniques](docs/synthworks_testbench_techniques.pdf)
 
 ## Tests & Severity
 

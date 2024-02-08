@@ -11,7 +11,9 @@
 In this page you will get a quick overview about the most used syntax.
 
 ## Metadata
-File metadata is writen in `YAML`at the beginning of every document`
+File metadata is writen in `YAML`at the beginning of every document.
+
+Default (optional) metadata
 ```md
 ---
 title: My Document
@@ -25,6 +27,24 @@ tags:
     - tag 2
 ---
 ```
+
+Hide navigation sidebar and / or table of contents
+```md
+---
+hide:
+- navigation
+- toc
+---
+```
+
+Disable macros
+```md
+```yml
+---
+render_macros: false
+---
+```
+
 
 ## Titles
 ```md
@@ -136,7 +156,7 @@ config_repo_file: https://github.com/tschinz/config/blob/master
 config_repo_folder: https://github.com/tschinz/config/tree/master
 ```
 
-This helps to lkink quickly to the [znotes-repo]({{base_repo}}) or my [config-repo]({{config_repo}}).
+This helps to link quickly to the [znotes-repo]({{base_repo}}) or my [config-repo]({{config_repo}}).
 
 ```md
 - link to [znotes-repo]({{base_repo}})
@@ -173,6 +193,13 @@ All internal links are relative.
 [writing index](../index.md) <br>
 [writing index](./../index.md) <br>
 [cheatsheets title](./cheatsheet.md#links) <br>
+
+You can also link a pdf file directly
+```md
+[Guide to Typst](../../typst/docs/guide-to-typst.pdf)
+```
+
+
 
 ### Link Settings
 ```md

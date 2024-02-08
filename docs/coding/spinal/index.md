@@ -20,13 +20,13 @@ tags:
 
 - [Spinal HDL Documentation](https://spinalhdl.github.io/SpinalDoc-RTD)
 - [Spinal HDL Scaladoc](https://spinalhdl.github.io/SpinalHDL/)
-- [Cheatsheet Spinal HDL Core]({{base_repo_file}}/docs/coding/spinal/docs/cheatSheet_core_oo.pdf)
-- [Cheatsheet Spinal HDL Lib]({{base_repo_file}}/docs/coding/spinal/docs/cheatSheet_lib_oo.pdf)
-- [Cheatsheet Spinal HDL Symbolic]({{base_repo_file}}/docs/coding/spinal/docs/cheatSheet_symbolic.pdf)
-- [Cheatsheet Spinal HDL Cheatsheet]({{base_repo_file}}/docs/coding/spinal/docs/CheatSheet_tips.pdf)
-- [Cheatsheet Spinal HDL Presentation]({{base_repo_file}}/docs/coding/spinal/docs/presentation.pdf)
-- [Cheatsheet Spinal HDL Presentation Fast]({{base_repo_file}}/docs/coding/spinal/docs/presentation_fast.pdf)
-- [Cheatsheet Spinal HDL Presentation Very Fast]({{base_repo_file}}/docs/coding/spinal/docs/presentation_veryfast.pdf)
+- [Cheatsheet Spinal HDL Core](docs/cheatSheet_core_oo.pdf)
+- [Cheatsheet Spinal HDL Lib](docs/cheatSheet_lib_oo.pdf)
+- [Cheatsheet Spinal HDL Symbolic](docs/cheatSheet_symbolic.pdf)
+- [Cheatsheet Spinal HDL Cheatsheet](docs/CheatSheet_tips.pdf)
+- [Cheatsheet Spinal HDL Presentation](docs/presentation.pdf)
+- [Cheatsheet Spinal HDL Presentation Fast](docs/presentation_fast.pdf)
+- [Cheatsheet Spinal HDL Presentation Very Fast](docs/presentation_veryfast.pdf)
 
 ## Spinal Projects
 

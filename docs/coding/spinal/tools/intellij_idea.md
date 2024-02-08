@@ -7,7 +7,7 @@ tags:
 ---
 # Intellij IDEA IDE
 
-- [Cheatsheet IntelliJIDEA_ReferenceCard.pdf]({{base_repo_file}}/docs/tools/jetbrains/docs/IntelliJIDEA_ReferenceCard.pdf)
+- [Cheatsheet IntelliJIDEA_ReferenceCard.pdf](../../../tools/jetbrains/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 See also [Intellij Idea](../../../tools/jetbrains/intellij_idea.md)
 

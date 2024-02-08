@@ -16,7 +16,7 @@ tags:
 
 ## Introduction
 
-- [Scala Cheatsheet]({{base_repo_file}}/docs/coding/scala/docs/scala-cheatsheet.pdf)
+- [Scala Cheatsheet](docs/scala-cheatsheet.pdf)
 
 ## References
 

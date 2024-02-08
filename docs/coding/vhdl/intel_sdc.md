@@ -10,7 +10,7 @@ tags:
 
 ![](img/intel_fpga.svg){.center width="40%"}
 
-- [Intel SDC Constraint Manual]({{base_repo_file}}/docs/coding/vhdl/docs/intel_sdc_manual.pdf)
+- [Intel SDC Constraint Manual](docs/intel_sdc_manual.pdf)
 
 ## Comment
 

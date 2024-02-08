@@ -19,8 +19,8 @@ C++ ist eine von der ISO standardisierte höhere Programmiersprache. Sie wurde a
 
 ## PDF
 
-- [C Reference]({{base_repo_file}}/docs/coding/c_cpp/docs/c_reference.pdf)
-- [Cpp Essentials]({{base_repo_file}}/docs/coding/c_cpp/docs/cpp_essentials.pdf)
+- [C Reference](docs/c_reference.pdf)
+- [Cpp Essentials](docs/cpp_essentials.pdf)
 
 ## Links
 

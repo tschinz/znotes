@@ -6,7 +6,7 @@ tags:
 ---
 # Templates
 
-To get you started with Typst there is a [Guide to Typst]({{base_repo_file}}/docs/multimedia/writing/typst/docs/guide-to-typst.pdf) documents showing the syntax. It is to note that
+To get you started with Typst there is a [Guide to Typst](docs/guide-to-typst.pdf) documents showing the syntax. It is to note that
 some commands are specific to the [typst-templates](https://gitlab.hevs.ch/course/templates/typst-templates).
 
 Available templates are:

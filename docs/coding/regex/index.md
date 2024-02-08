@@ -6,7 +6,7 @@ tags:
 # RegEx
 ![](img/logo.svg){.center width="20%"}
 
-- [RegEx Cheatsheet]({{base_repo_file}}/docs/coding/regex/docs/regex_cheatsheet.pdf) - from [Added Bytes](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
+- [RegEx Cheatsheet](docs/regex_cheatsheet.pdf) - from [Added Bytes](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
 - Test your regex with [Regexr](https://regexr.com/)
 
 ## Anchors
