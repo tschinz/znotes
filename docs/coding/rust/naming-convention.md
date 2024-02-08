@@ -4,7 +4,7 @@ tags:
 - rust
 - naming
 ---
-# Naming Convenctions
+# Naming Conventions
 
 | Item                    | Convention |
 | ----------------------- | ---------------------------------------------------- |
