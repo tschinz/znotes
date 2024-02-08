@@ -1790,7 +1790,7 @@
               
   
   <span class="md-ellipsis">
-    Spinal
+    Spinal HDL
   </span>
   
 
@@ -1806,7 +1806,7 @@
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_7">
             <span class="md-nav__icon md-icon"></span>
-            Spinal
+            Spinal HDL
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -11003,7 +11003,8 @@
 <p><a class="glightbox" href="img/magic-wand.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" class="center" src="img/magic-wand.svg" width="20%"></a>
 In this page you will get a quick overview about the most used syntax.</p>
 <h2 id="metadata">Metadata</h2>
-<p>File metadata is writen in <code>YAML</code>at the beginning of every document`
+<p>File metadata is writen in <code>YAML</code>at the beginning of every document.</p>
+<p>Default (optional) metadata
 </p><div class="highlight"><pre><span></span><code>---
 title: My Document
 summary: A brief description of my document.
@@ -11014,6 +11015,19 @@ some_url: https://example.com
 tags:
 <span class="w">    </span><span class="k">-</span><span class="w"> </span>tag 1
 <span class="gu">    - tag 2</span>
+<span class="gu">---</span>
+</code></pre></div>
+<p>Hide navigation sidebar and / or table of contents
+</p><div class="highlight"><pre><span></span><code>---
+hide:
+<span class="k">-</span><span class="w"> </span>navigation
+<span class="gu">- toc</span>
+<span class="gu">---</span>
+</code></pre></div>
+<p>Disable macros
+</p><div class="highlight"><pre><span></span><code><span class="gu">```yml</span>
+<span class="gu">---</span>
+<span class="gu">render_macros: false</span>
 <span class="gu">---</span>
 </code></pre></div>
 <h2 id="titles">Titles</h2>
@@ -11104,7 +11118,7 @@ config_repo: https://github.com/tschinz/config
 config_repo_file: https://github.com/tschinz/config/blob/master
 config_repo_folder: https://github.com/tschinz/config/tree/master
 </code></pre></div>
-<p>This helps to lkink quickly to the <a href="https://github.com/tschinz/znotes-mkdocs">znotes-repo</a> or my <a href="https://github.com/tschinz/config">config-repo</a>.</p>
+<p>This helps to link quickly to the <a href="https://github.com/tschinz/znotes-mkdocs">znotes-repo</a> or my <a href="https://github.com/tschinz/config">config-repo</a>.</p>
 <div class="highlight"><pre><span></span><code><span class="k">-</span><span class="w"> </span>link to [<span class="nt">znotes-repo</span>](<span class="na">https://github.com/tschinz/znotes-mkdocs</span>)
 <span class="k">-</span><span class="w"> </span>link to [<span class="nt">config-repo</span>](<span class="na">https://github.com/tschinz/config</span>)
 
@@ -11143,6 +11157,9 @@ config_repo_folder: https://github.com/tschinz/config/tree/master
 <a href="../index.html">writing index</a> <br>
 <a href="../index.html">writing index</a> <br>
 <a href="cheatsheet.html#links">cheatsheets title</a> <br>
+<p>You can also link a pdf file directly
+</p><div class="highlight"><pre><span></span><code>[<span class="nt">Guide to Typst</span>](<span class="na">../../typst/docs/guide-to-typst.pdf</span>)
+</code></pre></div>
 <h3 id="link-settings">Link Settings</h3>
 <p></p><div class="highlight"><pre><span></span><code>[<span class="nt">open in new tab</span>](<span class="na">index.md</span>){.new-tab}
 [<span class="nt">open in new tab</span>](<span class="na">index.md</span>){:target="_blank"}
