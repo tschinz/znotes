@@ -7,7 +7,7 @@ tags:
 - prompt engineering
 ---
 
-![](img/logo.svg){.center width= 20%}
+![](img/logo.svg){.center width="20%"}
 
 # LLM Prompt Engineering
 
