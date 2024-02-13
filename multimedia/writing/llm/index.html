@@ -10122,15 +10122,24 @@
 
 <p><a class="glightbox" href="img/logo.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" class="center" src="img/logo.svg" width="20%"></a></p>
 <h1 id="llm-prompt-engineering">LLM Prompt Engineering</h1>
+<ul>
+<li><strong>Avoid loaded language</strong>: LLM's works best with objective facts, figures, and plain inputs, so try to be neutral and avoid subjective framing.</li>
+<li><strong>Be specific</strong>: Ensuring you specify a response word count, a desired tone of voice, and other specifics will decrease the likelihood you’ll have to request another answer.</li>
+<li><strong>Specify what you don’t want</strong>: It can sometimes help to tell LLM's to produce an amenable answer if you also specify what you don’t want it to do.</li>
+<li><strong>Provide examples</strong>: Much like a human, LLM's often understands best when you provide an example for it to work with, especially if you want it to produce something that closely resembles something you’ve seen.</li>
+<li>Ask to <strong>“act like”</strong> someone: Sometimes, it can help to start your prompt by askin to “act like” a certain type of person that would be particularly well-placed to respond to the query you're posing.</li>
+</ul>
 <p>These are some prompts which resulted in good answers from the most common LLM's.</p>
 <h2 id="context-collection">Context collection</h2>
 <div class="highlight"><pre><span></span><code>Take the next inputs as context. Do not respond until I use the keyword "asdf"
 </code></pre></div>
 <h2 id="learning">Learning</h2>
-<div class="highlight"><pre><span></span><code>I want to learn about &lt;topic&gt; find and share the most important 20% of learnings on this topic so that I can understand 80% of it.
+<p></p><div class="highlight"><pre><span></span><code>I want to learn about &lt;topic&gt; find and share the most important 20% of learnings on this topic so that I can understand 80% of it.
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>I would like to learn about &lt;topic&gt;. Please provide me with a brief summary that could be understood by a 10-year-old.
 </code></pre></div>
 <h2 id="writing">Writing</h2>
-<div class="highlight"><pre><span></span><code>I want you to proof read my writing, fix any spelliung and grammar mistakes, and make suggestions to improve the quality and clarity of my writing
+<div class="highlight"><pre><span></span><code>I want you to proof read my writing, fix any spelling and grammar mistakes, and make suggestions to improve the quality and clarity of my writing
 </code></pre></div>
 <h2 id="summarize">Summarize</h2>
 <div class="highlight"><pre><span></span><code>I want you to summarise the text and give me a bullet point breakdown of the key points and facts
