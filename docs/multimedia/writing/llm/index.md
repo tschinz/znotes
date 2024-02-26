@@ -9,7 +9,10 @@ tags:
 
 ![](img/logo.svg){.center width="20%"}
 
-# LLM Prompt Engineering
+## Content
+- [Prompt Engineering Frameworks](./prompt_engineering.md)
+
+## LLM Prompt Engineering
 
 - **Avoid loaded language**: LLM's works best with objective facts, figures, and plain inputs, so try to be neutral and avoid subjective framing.
 - **Be specific**: Ensuring you specify a response word count, a desired tone of voice, and other specifics will decrease the likelihood you’ll have to request another answer.

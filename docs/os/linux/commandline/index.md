@@ -11,6 +11,7 @@ tags:
 ## Contents
 
 - [Cheatsheet](cheatsheet.md)
+- [Nice to Know](nicetoknow.md)
 - [General](general.md)
 - [Crontab](crontab.md)
 - [DD](dd.md)

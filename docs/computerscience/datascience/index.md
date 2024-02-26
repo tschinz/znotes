@@ -22,3 +22,4 @@ tags:
 | [EU Data Portal](https://www.europeandataportal.eu)          | ![](img/europeandataportal.svg){width="100px"} | European |
 | [EU Open Data Portal](https://data.europa.eu/euodp/en/data/) | ![](img/euodp.png){width="100px"}              | European |
 | [Kaggle](https://www.kaggle.com/)                            | ![](img/kaggle.svg){width="100px"}             | World |
+| [Statista](https://www.statista.com)                         | ![](img/statista.svg){width="100px"}           | World |

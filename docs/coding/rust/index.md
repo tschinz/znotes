@@ -24,6 +24,7 @@ A language empowering everyone to build reliable and efficient software.
 - [Rust container Cheatsheet](docs/rust_container-cheatsheet.pdf)
 - [quickref Rust](https://quickref.me/rust)
 - [phaiax Rust Cheatsheet](https://phaiax.github.io/rust-cheatsheet/)
+- [Nice to Know CLI Tools](../../os/linux/commandline/nicetoknow.md) - Many of them are written in rust
 
 ## References
 

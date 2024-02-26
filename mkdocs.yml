@@ -381,6 +381,7 @@ nav:
         - Commandline:
           - os/linux/commandline/index.md
           - Cheatsheet: os/linux/commandline/cheatsheet.md
+          - Nice to Know: os/linux/commandline/nicetoknow.md
           - General: os/linux/commandline/general.md
           - Crontab: os/linux/commandline/crontab.md
           - DD: os/linux/commandline/dd.md
@@ -476,6 +477,7 @@ nav:
             - CheatSheet: multimedia/writing/md/mkdocs/cheatsheet.md
         - LLM Prompts:
            - multimedia/writing/llm/index.md
+           - Prompt Engineering: multimedia/writing/llm/prompt_engineering.md
         - Latin:
           - multimedia/writing/latin/index.md
         - GitBook:
