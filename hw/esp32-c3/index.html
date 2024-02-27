@@ -10075,6 +10075,99 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#peripherals" class="md-nav__link">
+    <span class="md-ellipsis">
+      Peripherals
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Peripherals">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pin-layout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pin Layout
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ios" class="md-nav__link">
+    <span class="md-ellipsis">
+      I/Os
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#i2c" class="md-nav__link">
+    <span class="md-ellipsis">
+      I2C
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="I2C">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#i2c-bus-connection" class="md-nav__link">
+    <span class="md-ellipsis">
+      I2C Bus Connection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#power" class="md-nav__link">
+    <span class="md-ellipsis">
+      Power
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#board-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Board Design
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bill-of-material" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bill of Material
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Case
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -10152,20 +10245,242 @@
 <li>LED PWM controller (LEDC)</li>
 <li>Full-speed USB Serial/JTAG controller</li>
 <li>General DMA controller (GDMA)</li>
-<li>1 × TWAI®</li>
+<li>1 × TWAI</li>
 <li>2 × 12-bit SAR ADCs, up to 6 channels</li>
 <li>1 × temperature sensor</li>
 </ul>
 <h2 id="documents">Documents</h2>
 <ul>
-<li><a href="docs/ESP32-C3%20Datasheet.pdf">ESP32-C3 Datasheet</a></li>
 <li><a href="docs/ESP32-C3%20-%20A%20Comprehensive%20guide%20to%20IoT.pdf">ESP32-C3 - A Comprehensive guide to IoT</a></li>
+<li><a href="docs/ESP32-C3%20Datasheet.pdf">ESP32-C3 Datasheet</a></li>
+<li><a href="docs/esp-rs%20board%20schematic.pdf">ESP-RS Schematic</a></li>
+<li><a href="docs/esp-rs%20board%20assembly.pdf">ESP-RS Assembly</a></li>
+<li><a href="docs/Datasheet%20-%20ICM%2042670%206axis%20mems.pdf">TDK 6 Axis MEMS Sensor ICM 42670</a></li>
+<li><a href="docs/Datasheet%20-%20Sensirion%20SHTC3%20Humidity%20and%20Temp%20Sensor.pdf">Sensirion Humidity and Temperature Sensor SHTC3</a></li>
 </ul>
 <h2 id="links">Links</h2>
 <ul>
 <li><a href="https://www.espressif.com/en/products/socs/esp32-c3">Espressif ESP32-C3</a> - Product page</li>
-<li><a href="https://github.com/esp-rs/esp-rust-board">Espressive ESP32-C3-DevvKit- Rust</a></li>
+<li><a href="https://github.com/esp-rs/esp-rust-board">Espressive ESP32-C3-DevKit-Rust</a></li>
 </ul>
+<p>## Board</p>
+<h2 id="peripherals">Peripherals</h2>
+<h3 id="pin-layout">Pin Layout</h3>
+<p><figure id="_figure-1"><a class="glightbox" href="img/Esp%20Rust%20Board%20Pins.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Pin Layout" src="img/Esp%20Rust%20Board%20Pins.png"></a><figcaption>Figure 1: Pin Layout</figcaption></figure></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Left <br>Description</th>
+<th style="text-align: right;">Left <br>SoC</th>
+<th style="text-align: center;">Pin <br> Number</th>
+<th>Right <br>Description</th>
+<th>Right <br>SoC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">Reset</td>
+<td style="text-align: right;"><code>EN</code>/<code>CHIP_PU</code></td>
+<td style="text-align: center;">1</td>
+<td>VBAT</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">3V3</td>
+<td style="text-align: right;"></td>
+<td style="text-align: center;">2</td>
+<td>EN [1]</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">N/C</td>
+<td style="text-align: right;"></td>
+<td style="text-align: center;">3</td>
+<td>VBUS [2]</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">GND</td>
+<td style="text-align: right;"></td>
+<td style="text-align: center;">4</td>
+<td>NC</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO0/ADC1-0</td>
+<td style="text-align: right;"><code>GPIO0</code></td>
+<td style="text-align: center;">5</td>
+<td>NC</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO1/ADC1-1</td>
+<td style="text-align: right;"><code>GPIO1</code></td>
+<td style="text-align: center;">6</td>
+<td>NC</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO2/ADC1-2</td>
+<td style="text-align: right;"><code>GPIO2</code></td>
+<td style="text-align: center;">7</td>
+<td>NC</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO3/ADC1-3</td>
+<td style="text-align: right;"><code>GPIO3</code></td>
+<td style="text-align: center;">8</td>
+<td>NC</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO4/ADC2-0</td>
+<td style="text-align: right;"><code>GPIO4</code></td>
+<td style="text-align: center;">9</td>
+<td>IO18/USB_D-</td>
+<td><code>GPIO18</code></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO5/ADC2-1</td>
+<td style="text-align: right;"><code>GPIO5</code></td>
+<td style="text-align: center;">10</td>
+<td>IO19/USB_D+</td>
+<td><code>GPIO19</code></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO6/MTCK</td>
+<td style="text-align: right;"><code>GPIO6</code></td>
+<td style="text-align: center;">11</td>
+<td>IO8/SCL</td>
+<td><code>GPIO8</code></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO7/MTDO/LED</td>
+<td style="text-align: right;"><code>GPIO7</code></td>
+<td style="text-align: center;">12</td>
+<td>IO10/SDA</td>
+<td><code>GPIO10</code></td>
+</tr>
+<tr>
+<td style="text-align: right;">IO9/LOG</td>
+<td style="text-align: right;"><code>GPIO8</code></td>
+<td style="text-align: center;">13</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: right;">IO21/U0RXD</td>
+<td style="text-align: right;"><code>GPIO21</code></td>
+<td style="text-align: center;">14</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: right;">IO20/U0TXD</td>
+<td style="text-align: right;"><code>GPIO20</code></td>
+<td style="text-align: center;">15</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: right;">IO9/BOOT</td>
+<td style="text-align: right;"><code>GPIO9</code></td>
+<td style="text-align: center;">16</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>[1] Connected to LDO enable pin*</li>
+<li>[2] Connected to USB 5V*</li>
+</ul>
+<h3 id="ios">I/Os</h3>
+<p>The following devices are connected through GPIO:</p>
+<table>
+<thead>
+<tr>
+<th>I/O Devices</th>
+<th>GPIO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WS2812 LED</td>
+<td><code>GPIO2</code></td>
+</tr>
+<tr>
+<td>LED</td>
+<td><code>GPIO7</code></td>
+</tr>
+<tr>
+<td>Button/Boot</td>
+<td><code>GPIO9</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="i2c">I2C</h3>
+<p>This board includes the following peripherals over the I2C bus:</p>
+<table>
+<thead>
+<tr>
+<th>Peripheral</th>
+<th>Part number</th>
+<th>Reference</th>
+<th>Crate</th>
+<th>Address</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IMU</td>
+<td>ICM-42670-P</td>
+<td><a href="docs/Datasheet%20-%20ICM%2042670%206axis%20mems.pdf">Datasheet</a></td>
+<td><a href="https://crates.io/crates/icm42670">Link</a></td>
+<td><code>0x68</code></td>
+</tr>
+<tr>
+<td>Temperature and Humidity</td>
+<td>SHTC3</td>
+<td><a href="docs/Datasheet%20-%20Sensirion%20SHTC3%20Humidity%20and%20Temp%20Sensor.pdf">Datasheet</a></td>
+<td><a href="https://crates.io/crates/shtcx">Link</a></td>
+<td><code>0x70</code></td>
+</tr>
+</tbody>
+</table>
+<h4 id="i2c-bus-connection">I2C Bus Connection</h4>
+<table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>GPIO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SDA</td>
+<td><code>GPIO10</code></td>
+</tr>
+<tr>
+<td>SCL</td>
+<td><code>GPIO8</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="power">Power</h3>
+<ul>
+<li>USB type-C.</li>
+<li>Li-Ion battery charger - MCP73831T-2ACI/OT, it charges up to 4.2V.</li>
+<li>Recommendation: MCP73831T-2ACI/OT does not provide battery protection for over-current or over-discharge. For the battery (Li-Ion or Li-Po), it's recommended the ones with embedded protection</li>
+<li>Limitation: reading the battery voltage is not supported.</li>
+</ul>
+<h2 id="board-design">Board Design</h2>
+<p><a class="glightbox" href="img/Esp%20Rust%20Board%20Top.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="img/Esp%20Rust%20Board%20Top.jpg" width="300px"></a> <a class="glightbox" href="img/Esp%20Rust%20Board%20Bot.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="img/Esp%20Rust%20Board%20Bot.jpg" width="300px"></a></p>
+<h2 id="bill-of-material">Bill of Material</h2>
+<p><a href="https://esp-rs.github.io/esp-rust-board/">Interactive BOM</a></p>
+<h2 id="case">Case</h2>
+<p><a href="https://www.printables.com/model/288200-minimalistic-case-for-esp32-c3-devkit-rust-1">Case 3D Printing Model</a></p>
 
 
 
