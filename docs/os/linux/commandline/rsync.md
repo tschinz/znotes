@@ -7,6 +7,7 @@ tags:
 - rsync
 ---
 # RSync
+![](img/rsync.png){.center width="20%"}
 
 Synchronizing directories local and remotely
 

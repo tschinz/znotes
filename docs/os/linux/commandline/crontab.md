@@ -7,6 +7,8 @@ tags:
 - crontab
 ---
 # Crontab
+![](img/crontab.jpg){.center width="80%"}
+
 
 Cron allows tasks to be automatically run in the background at regular intervals by the cron daemon. These tasks are often termed as cron jobs. Crontab (CRON TABle) is a file which contains the schedule of cron entries to be run and at specified times.
 

@@ -388,6 +388,7 @@ nav:
           - SSH: os/linux/commandline/ssh.md
           - Network: os/linux/commandline/network.md
           - RSync: os/linux/commandline/rsync.md
+          - RClone: os/linux/commandline/rclone.md
         - Tools:
           - os/linux/tools/index.md
           - Apache: os/linux/tools/apache.md

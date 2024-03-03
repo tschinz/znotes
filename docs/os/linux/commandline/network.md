@@ -24,6 +24,8 @@ ifquery -l
 
 ## NMAP
 
+For more infos see the [nmap page](./../../../tools/nmap/index.md)
+
 Find open ports on a ip subnet range
 
 ``` bash title="nmap"
