@@ -471,30 +471,40 @@ render_macros: false
 ### Settings
 
 ```md
+!!! note
+    Notebox
 ```
 
 !!! note
     Notebox
 
 ```md
+!!! note "This is a custom title"
+    Custom title notebox
 ```
 
 !!! note "This is a custom title"
     Custom title notebox
 
 ```md
+!!! note ""
+    No title notebox
 ```
 
 !!! note ""
     No title notebox
 
 ```md
+??? note
+    By default collabeed, collapsible notebox
 ```
 
 ??? note
     By default collabeed, collapsible notebox
 
 ```md
+???+ note
+    By default open, collapsible notebox
 ```
 
 ???+ note
