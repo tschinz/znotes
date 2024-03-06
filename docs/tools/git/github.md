@@ -45,6 +45,9 @@ https://docs.google.com/viewer?url=https://github.com/tschinz/znotes/raw/main/do
 ```
 [https://docs.google.com/viewer?url=https://github.com/tschinz/znotes/raw/main/docs/coding/rust/docs/rust_container-cheatsheet.pdf](https://docs.google.com/viewer?url=https://github.com/tschinz/znotes/raw/main/docs/coding/rust/docs/rust_container-cheatsheet.pdf)
 
+### Example
+[:fontawesome-solid-download: Download the Cheatsheet](https://github.com/tschinz/znotes/raw/main/docs/coding/rust/docs/rust_container-cheatsheet.pdf){ .md-button} [:fontawesome-solid-eye: View the Cheatsheet](https://docs.google.com/viewer?url=https://github.com/tschinz/znotes/raw/main/docs/coding/rust/docs/rust_container-cheatsheet.pdf){ .md-button}
+
 ## Advanced Search
 
 ### General
