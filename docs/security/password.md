@@ -27,16 +27,23 @@ Many people think of NOTHING when assigning passwords. But this process is extre
 A lot of computer crime could be avoided if more end users would overcome their "inner bastard" and assign reasonable passwords. But to the same extent the shop operators, security officers and others responsible for password acceptance or password suggestions are to blame: I have never seen a web shop with plausibility checks of the password. In addition, general passwords should also be chosen securely for webshops to avoid unauthorized spying of customer passwords.  I am sure that many will say "Who would want to harm me of all people", or "Who would want to read my e-mails of all people". But that is not the point. The attacker does not (usually) care whose account password he gets. He is also not necessarily interested in your e-mails. He is only interested in how he gets into  he system. Because
 
 -   Place no. 2: Number combinations, which remind of a product, such as 4711, 911, X5, A6.
--   Place no. 3: The word "Password" itself -   Place no. 4: Pet names like treasure.
--   Place no. 5: The word "Baby". -   Place  o. 6: Seasons like summer and winter. -   Place no. 7: The word hello. -   Place No. 8: Names of big cities like Zurich, Paris or NewYork.
--   Place No. 9: Your own first names. -   Place No. 10: The first name of your wife / girlfriend / husband  # Structure of a (relatively) secure password
+-   Place no. 3: The word "Password" itself
+-   Place no. 4: Pet names like treasure.
+-   Place no. 5: The word "Baby".
+-   Place no. 6: Seasons like summer and winter.
+-   Place no. 7: The word hello.
+-   Place no. 8: Names of big cities like Zurich, Paris or NewYork.
+-   Place no. 9: Your own first names.
+-   Place no. 10: The first name of your wife / girlfriend / husband
+
+## Structure of a (relatively) secure password
 
 A secure password consists of upper and lower case letters and numbers. It contains no (perceptible) systematic and is at least 8 characters
 
 Security freaks tend to use so-called "keyboard hacks" to generate passwords. This is a one-time, pointless and blind ten-finger hack on the keyboard - you don't remember the password in general, but only the character string as it is entered on the keyboard. Such passwords are of course extremely "secure". Because if you have to enter a password in th  presence of other people, for example, you should be able to do so unobtrusively and quickly. In such a situation, anyone who has to rely on the "eagle system" to enter a password will only make it easier for those present to unobtrusively follow the entered  haracter string.
 
 !!! note
-    Good passwords should therefore be a middle gr und between strings that cannot be guessed and strings that can be remembered. A keyboard hack is.
+    Good passwords should therefore be a middle ground between strings that cannot be guessed and strings that can be remembered. A keyboard hack is.
 
 ## Password Generator
 
@@ -62,7 +69,7 @@ Let's have a small table for an estimation: Minimum length maximum time required
 
 Number of Symbols  | Brute Force Time
 ------------------ | ----------------
-3 Symbols          |  0,2 Seconds
+ 3 Symbols         |  0,2 Seconds
  5 Symbols         |  14 Minutes
  8 Symbols         |  53252 Hours
  12 Symbols        |  84168853 Year
