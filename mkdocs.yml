@@ -205,6 +205,7 @@ nav:
         - Modules: coding/rust/modules.md
         - Workspaces: coding/rust/workspaces.md
         - RustDoc: coding/rust/rustdoc.md
+        - Rust2Python: coding/rust/rust2python.md
       - Rust-embedded:
         - coding/rust-embedded/index.md
         - Install: coding/rust-embedded/install.md
