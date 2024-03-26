@@ -64,3 +64,4 @@ A language empowering everyone to build reliable and efficient software.
 - [Workspaces](workspaces.md)
 - [RustDoc](rustdoc.md)
 - [Rust2Python](rust2python.md)
+- [rustfmt](rustfmt.md)
