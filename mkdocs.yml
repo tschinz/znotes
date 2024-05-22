@@ -520,7 +520,7 @@ nav:
       - Games:
         - multimedia/games/index.md
         - Terminal: multimedia/games/terminal.md
-        - The Dark Room: multimedia/games/thedarkroom.md
+        - A Dark Room: multimedia/games/a-dark-room.md
   - Security:
       - security/index.md
       - GnuPG: security/gnupg.md

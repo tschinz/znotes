@@ -2,22 +2,22 @@
 tags:
 - multimedia
 - games
-- the dark room
+- a dark room
 ---
-# The Darko Room
+# A Dark Room
 An amazing open source game of a different kind.
 
 You can play in on your mobile [iOS](https://apps.apple.com/us/app/a-dark-room/id736683061) or [Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&pli=1) or in the [browser](https://adarkroom.doublespeakgames.com/).
 
 Here some screenshots of the unlocked items in the game
 
-![](img/thedarkroom/room.png){width="49%"}
-![](img/thedarkroom/village.png){width="49%"}
-![](img/thedarkroom/tradepost.png){width="49%"}
-![](img/thedarkroom/build.png){width="49%"}
-![](img/thedarkroom/workshop.png){width="49%"}
-![](img/thedarkroom/path.png){width="49%"}
-![](img/thedarkroom/map.png){width="49%"}
+![](img/a-dark-room/room.png){width="49%"}
+![](img/a-dark-room/village.png){width="49%"}
+![](img/a-dark-room/tradepost.png){width="49%"}
+![](img/a-dark-room/build.png){width="49%"}
+![](img/a-dark-room/workshop.png){width="49%"}
+![](img/a-dark-room/path.png){width="49%"}
+![](img/a-dark-room/map.png){width="49%"}
 
 ## Map Elements
 
@@ -42,7 +42,7 @@ X - A Ravaged Battleship
 ; Forest
 , Field
 . Barrens
-# ROAD
+# Road
 ```
 
 ## Random Encounters
