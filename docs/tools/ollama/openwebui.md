@@ -15,6 +15,11 @@ Assuming you already have Docker and Ollama running on your computer, installati
 docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 ```
 
+To update the installation you can do it with Watchtower:
+```bash
+docker run --rm --volume /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower --run-once open-webui
+```
+
 After the docker has been downloaded and runns go to [http://localhost:3000](http://localhost:3000), make an account, and start chatting away!
 
 ![](./img/openwebui-interface.png){.center width="100%"}
