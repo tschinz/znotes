@@ -10387,6 +10387,9 @@
 <p>Assuming you already have Docker and Ollama running on your computer, installation is super simple.</p>
 <div class="highlight"><pre><span></span><code>docker<span class="w"> </span>run<span class="w"> </span>-d<span class="w"> </span>-p<span class="w"> </span><span class="m">3000</span>:8080<span class="w"> </span>--add-host<span class="o">=</span>host.docker.internal:host-gateway<span class="w"> </span>-v<span class="w"> </span>open-webui:/app/backend/data<span class="w"> </span>--name<span class="w"> </span>open-webui<span class="w"> </span>--restart<span class="w"> </span>always<span class="w"> </span>ghcr.io/open-webui/open-webui:main
 </code></pre></div>
+<p>To update the installation you can do it with Watchtower:
+</p><div class="highlight"><pre><span></span><code>docker<span class="w"> </span>run<span class="w"> </span>--rm<span class="w"> </span>--volume<span class="w"> </span>/var/run/docker.sock:/var/run/docker.sock<span class="w"> </span>containrrr/watchtower<span class="w"> </span>--run-once<span class="w"> </span>open-webui
+</code></pre></div>
 <p>After the docker has been downloaded and runns go to <a href="http://localhost:3000">http://localhost:3000</a>, make an account, and start chatting away!</p>
 <p><a class="glightbox" href="img/openwebui-interface.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" class="center" src="img/openwebui-interface.png" width="100%"></a></p>
 <p>The interface is very similar to the ChgatGPT interface but has a few more features like the ability to train your own models, and a more user-friendly interface. You can</p>
