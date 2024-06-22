@@ -323,6 +323,10 @@ nav:
         - tools/make/index.md
         - Syntax: tools/make/syntax.md
         - Example: tools/make/examples.md
+      - Numbat:
+        - tools/numbat/index.md
+        - Basics: tools/numbat/basics.md
+        - Cheatsheet: tools/numbat/cheatsheet.md
       - Ollama:
         - tools/ollama/index.md
         - Getting Started: tools/ollama/getting-started.md

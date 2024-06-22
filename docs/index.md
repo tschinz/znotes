@@ -17,10 +17,12 @@ Feel free to explore the content, if it proves beneficial to others, that's even
 
 ![](img/avatar/purple-tentacle-2.svg){align=right}
 
-- [Cheatsheet Linux Commandline](os/linux/commandline/cheatsheet.md)
-- [Cheatsheet MKDocs Syntax](multimedia/writing/md/mkdocs/cheatsheet.md)
+- [MKDocs Syntax](multimedia/writing/md/mkdocs/cheatsheet.md)
 - [Rust](coding/rust/index.md)
     - [Syntax](coding/rust/syntax.md)
 - [Just Examples](tools/just/examples.md)
+- [Linux Commandline](os/linux/commandline/cheatsheet.md)
+- [Numbat](tools/numbat/cheatsheet
+.md)
 
 

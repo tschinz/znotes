@@ -46,14 +46,13 @@ Available recipes:
     venv-create  # Create and source the python environment
 ```
 
-## How to Build MKDocs incrementally
+## How to Build MKDocs
 
 ```bash
 just build
 ```
 
-all the outputs will be in `site` folder. Open the webpage[http://127.0.0.1:8000/tschinz/znotes/](http://127.0.0.1:8000/tschinz/znotes/)
-
+all the outputs will be in `site` folder.
 
 ## How to Build MKDocs incrementally
 
@@ -61,7 +60,8 @@ all the outputs will be in `site` folder. Open the webpage[http://127.0.0.1:8000
 just serve
 ```
 
-all the outputs will be in `site` folder
+all the outputs will be in `site` folder. Open the webpage[http://127.0.0.1:8000/tschinz/znotes/](http://127.0.0.1:8000/tschinz/znotes/)
+
 
 ## With devcontainers
 
