@@ -22,7 +22,6 @@ Feel free to explore the content, if it proves beneficial to others, that's even
     - [Syntax](coding/rust/syntax.md)
 - [Just Examples](tools/just/examples.md)
 - [Linux Commandline](os/linux/commandline/cheatsheet.md)
-- [Numbat](tools/numbat/cheatsheet
-.md)
+- [Numbat](tools/numbat/cheatsheet.md)
 
 

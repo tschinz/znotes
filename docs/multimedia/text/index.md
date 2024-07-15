@@ -8,7 +8,7 @@ tags:
 
 ## Content
 
-- [Books](books.md)
+- [Books](books/index.md)
 - [Email Replies](email_replies.md)
 - [Fileheader](fileheaders.md)
 - [Programmer Jokes](programmer_jokes.md)

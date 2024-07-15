@@ -384,6 +384,7 @@ nav:
         - tools/bittorrent/index.md
         - Creating Torrents: tools/bittorrent/creating_torrent.md
       - Nmap: tools/nmap/index.md
+      - SDR++: tools/sdr++/index.md
       - Useful: tools/useful_tools/useful_tools.md
   - OS:
       - os/index.md
@@ -457,8 +458,11 @@ nav:
           - computerscience/datascience/index.md
           - Statistics: computerscience/datascience/statistic.md
           - Algorithms: https://tschinz.github.io/days-of-algo
+      - SDR: computerscience/sdr/index.md
   - Hardware:
       - hw/index.md
+      - RTL-SDR:
+        - hw/rtl-sdr/index.md
       - ESP32-C3:
           - hw/esp32-c3/index.md
       - Raspberry Pi:
@@ -503,7 +507,7 @@ nav:
           - Lexer: multimedia/writing/rst/pygment_lexer.md
       - Text:
         - multimedia/text/index.md
-        - Books: multimedia/text/books.md
+        - Books: multimedia/text/books/index.md
         - Email Replies: multimedia/text/email_replies.md
         - Fileheaders: multimedia/text/fileheaders.md
         - Programmer Jokes: multimedia/text/programmer_jokes.md

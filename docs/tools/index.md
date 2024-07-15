@@ -10,6 +10,7 @@ tags:
 - [Just](just/index.md)
 - [Make](make/index.md)
 - [Git](git/index.md)
+- [Ollama](ollama/index.md)
 - [Docker](docker/index.md)
 - [Pandoc](pandoc/index.md)
 - [Cmder](cmder/index.md)
@@ -26,4 +27,5 @@ tags:
 - [Mentor](mentor/index.md)
 - [Bittorrent](bittorrent/index.md)
 - [Nmap](nmap/index.md)
+- [SDR++](sdr++/index.md)
 - [Useful](useful_tools/useful_tools.md)
