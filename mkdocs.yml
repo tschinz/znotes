@@ -190,6 +190,7 @@ nav:
         - Toolchain: coding/rust/toolchain.md
         - Basic: coding/rust/basic.md
         - Concepts: coding/rust/concepts.md
+        - Design Patterns: coding/rust/design_patterns.md
         - Data-Types: coding/rust/data_types.md
         - Naming Conventions: coding/rust/naming-convention.md
         - Syntax: coding/rust/syntax.md
