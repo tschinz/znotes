@@ -1,10 +1,12 @@
 ---
 tags:
-- coding
-- c
-- c++
+  - coding
+  - c
+  - c++
 ---
+
 # C / C++
+
 ![](img/logo.svg){.center width="20%"}
 
 ## C
@@ -30,3 +32,6 @@ C++ ist eine von der ISO standardisierte höhere Programmiersprache. Sie wurde a
 - [Wikibooks C++ Programmierung](http://de.wikibooks.org/wiki/C%2B%2B-Programmierung)
 - [C++ Reference/Guide/Tutorial](http://www.cplusplus.com)
 
+## Contents
+
+{nav}

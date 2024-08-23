@@ -1,9 +1,10 @@
 ---
 tags:
-- multimedia
-- writing
-- typst
+  - multimedia
+  - writing
+  - typst
 ---
+
 # Introduction
 
 Typst is a markup-based typesetting system for the sciences. It is designed to be an alternative both to advanced tools like LaTeX and simpler tools like Word and Google Docs. Typst provides a lightweight markup syntax for common layout tasks, as well as set and show rules for styling documents easily and automatically.
@@ -19,3 +20,7 @@ Typst is a good choice for writing any long-form text, such as essays, articles,
 - [Official webpage typst.app](https://typst.app)
 - [Documentation](https://typst.app/docs/)
 - [Github](https://github.com/typst/)
+
+## Contents
+
+{nav}

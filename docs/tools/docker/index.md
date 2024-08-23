@@ -9,10 +9,7 @@ tags:
 
 ## Contents
 
-- [Basics](basics.md)
-- [Docker CMD](docker_cmd.md)
-- [Dockerfile](dockerfile.md)
-- [Common Fixes](common_fixes.md)
+{nav}
 
 ## Introduction
 

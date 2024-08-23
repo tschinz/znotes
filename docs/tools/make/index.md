@@ -9,8 +9,7 @@ tags:
 
 ## Contents
 
-- [Syntax](syntax.md)
-- [Example](examples.md)
+{nav}
 
 ## Introduction
 

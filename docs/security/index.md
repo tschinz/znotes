@@ -7,8 +7,6 @@ tags:
 
 ![](img/logo.svg){.center width="20%"}
 
-## Content
+## Contents
 
-- [GnuPG](gnupg.md)
-- [Password](password.md)
-- [Tor](tor.md)
+{nav}

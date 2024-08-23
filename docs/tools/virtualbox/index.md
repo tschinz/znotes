@@ -9,7 +9,7 @@ tags:
 
 ## Contents
 
-- [Intro](intro.md)
+{nav}
 
 ## Introduction
 

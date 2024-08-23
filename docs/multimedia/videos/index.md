@@ -1,11 +1,13 @@
 ---
 tags:
-- multimedia
-- video
+  - multimedia
+  - video
 ---
+
 # Video
+
 ![](img/logo.svg){.center width="20%"}
 
-## Content
+## Contents
 
-- [Resolutions](resolutions.md)
+{nav}

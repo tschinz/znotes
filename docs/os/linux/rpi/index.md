@@ -11,4 +11,4 @@ tags:
 
 ## Contents
 
-- [Setup](setup.md)
+{nav}

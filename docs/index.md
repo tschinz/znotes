@@ -1,8 +1,9 @@
 ---
 hide:
-- navigation
-- toc
+  - navigation
+  - toc
 ---
+
 ![](img/logo-dark.svg){.center}
 
 # Welcome to my (0,0,0)
@@ -23,5 +24,3 @@ Feel free to explore the content, if it proves beneficial to others, that's even
 - [Just Examples](tools/just/examples.md)
 - [Linux Commandline](os/linux/commandline/cheatsheet.md)
 - [Numbat](tools/numbat/cheatsheet.md)
-
-

@@ -11,5 +11,4 @@ tags:
 
 ## Contents
 
-- [General](general.md)
-- [Config Files](config_files.md)
+{nav}

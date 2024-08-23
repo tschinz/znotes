@@ -10,4 +10,4 @@ tags:
 
 ## Contents
 
-- [Cheatsheet](cheatsheet.md)
+{nav}

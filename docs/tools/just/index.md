@@ -9,6 +9,4 @@ tags:
 
 ## Contents
 
-- [Intro](intro.md)
-- [Install](install.md)
-- [Examples](examples.md)
+{nav}

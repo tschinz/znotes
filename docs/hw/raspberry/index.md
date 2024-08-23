@@ -1,10 +1,11 @@
 ---
 tags:
-- hardware
-- raspberry pi
+  - hardware
+  - raspberry pi
 ---
 
 # Raspberry Pi
+
 ![](img/rpi_logo.svg){.center width="80.0%"}
 
 ## Additional Informations
@@ -13,3 +14,7 @@ tags:
 - [RaspberryPi Documentation](https://www.raspberrypi.org/documentation/)
 - [RetroPie Webpage](https://retropie.org.uk/)
 - [RetroPie Documentation](https://retropie.org.uk//docs)
+
+## Contents
+
+{nav}

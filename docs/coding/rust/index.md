@@ -1,12 +1,13 @@
 ---
 tags:
-- coding
+  - coding
 ---
+
 # Rust
+
 ![](img/logo.svg){.center width="20%"}
 <br>
 ![](img/rustacean.svg){.center width="20%"}
-
 
 ## Introduction
 
@@ -44,24 +45,4 @@ A language empowering everyone to build reliable and efficient software.
 
 ## Contents
 
-- [Install](install.md)
-- [Toolchain](toolchain.md)
-- [Basic](basic.md)
-- [Concepts](concepts.md)
-- [Data-Types](data_types.md)
-- [Naming Conventions](naming-convention.md)
-- [Syntax](syntax.md)
-- [Traits](traits.md)
-- [Lifetimes](lifetimes.md)
-- [Generics](generics.md)
-- [Iterators](iterators.md)
-- [Testing](testing.md)
-- [Libraries](libraries.md)
-- [Package](package.md)
-- [Error Handling](error_handling.md)
-- [Memory Regions](memory_regions.md)
-- [Modules](modules.md)
-- [Workspaces](workspaces.md)
-- [RustDoc](rustdoc.md)
-- [Rust2Python](rust2python.md)
-- [rustfmt](rustfmt.md)
+{nav}

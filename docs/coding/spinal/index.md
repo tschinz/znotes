@@ -1,18 +1,17 @@
 ---
 tags:
-- coding
-- spinal hdl
-- hdl
+  - coding
+  - spinal hdl
+  - hdl
 ---
+
 # Spinal HDL
 
 ![](img/logo.svg){.center width="20%"}
 
 ## Contents
 
-- [Install](install.md)
-- [Project](project.md)
-- [Types](types.md)
+{nav}
 
 ## Introduction
 

@@ -9,8 +9,7 @@ tags:
 
 ## Contents
 
-- [Settings](settings.md)
-- [Plugins](plugins.md)
+{nav}
 
 # Useful Links
 

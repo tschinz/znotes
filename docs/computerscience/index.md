@@ -1,16 +1,12 @@
 ---
 tags:
-- computer science
+  - computer science
 ---
 
 # Computerscience
 
 ![](img/logo.svg){.center width="20%"}
 
-## Content
+## Contents
 
-- [Datascience](datascience/index.md)
-- [Codes](codes/index.md)
-- [Algorithms](https://tschinz.github.io/days-of-algo)
-- [SDR](sdr/index.md)
-
+{nav}

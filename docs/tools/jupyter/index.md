@@ -9,8 +9,4 @@ tags:
 
 ## Contents
 
-- [General](general.md)
-- [Common Functions](common_functions.md)
-- [Convert](convert.md)
-- [Installation](installation.md)
-- [Install Plotly Dash](install_plotly_dash.md)
+{nav}

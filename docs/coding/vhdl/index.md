@@ -1,12 +1,12 @@
 ---
 tags:
-- coding
-- vhdl
+  - coding
+  - vhdl
 ---
+
 # VHDL
 
 ![](img/logo.svg){.center width="20%"}
-
 
 ## Introduction
 
@@ -43,19 +43,4 @@ As last remark I want to thank Corthay Francois for his VHDL Summary and HTML fi
 
 ## Contents
 
-- [Guidelines](guidelines.md)
-- [Syntax](syntax.md)
-- [Attributes](attributes.md)
-- [Conversion](conversion.md)
-- [File](file.md)
-- [Libraries](libraries.md)
-- [Examples](examples.md)
-- [Testbench](testbench.md)
-- [Time](time.md)
-- [OSVVM](osvvm.md)
-- [Simulation](simulation.md)
-- [Synthesis](synthesis.md)
-- [Intel SDC](intel_sdc.md)
-  - [Theory](intel_sdc_theory.md)
-  - [Usage](intel_sdc_usage.md)
-- [Xilinx UCF](xilinx_ucf.md)
+{nav}

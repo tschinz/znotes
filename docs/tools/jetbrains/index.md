@@ -9,8 +9,7 @@ tags:
 
 ## Contents
 
-- [Intellij IDEA](intellij_idea.md)
-- [PyCharm](pycharm.md)
+{nav}
 
 ## Introduction
 

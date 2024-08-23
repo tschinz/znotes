@@ -1,18 +1,16 @@
 ---
 tags:
-- coding
-- scala
+  - coding
+  - scala
 ---
+
 # Scala
 
 ![](img/logo.svg){.center width="150px"}
 
 ## Contents
 
-- [Basic](basic.md)
-- [Syntax](syntax.md)
-- [Libraries](libraries.md)
-- [Coding Convention](coding_convention_spinalhdl.md)
+{nav}
 
 ## Introduction
 

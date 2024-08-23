@@ -1,16 +1,14 @@
 ---
 tags:
-- multimedia
-- writing
-- md
+  - multimedia
+  - writing
+  - md
 ---
 
 # Markdown
 
 ![](img/logo.svg){.center width="20%"}
 
-## Content
+## Contents
 
-- [Github Flavored Markdown](md_github.md)
-- [MKDocs](mkdocs/index.md)
-- [MKDocs Cheatsheet](mkdocs/cheatsheet.md)
+{nav}

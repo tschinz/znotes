@@ -1,11 +1,12 @@
 ---
 tags:
-- hardware
-- Xilinx
-- PYNQ-Z1
+  - hardware
+  - Xilinx
+  - PYNQ-Z1
 ---
 
 # Xilinx PYNQ-Z1
+
 ![](img/pynq-z1-1.png){.center width="30%"}
 
 ## Additional Informations
@@ -16,13 +17,18 @@ tags:
 - [FINN Deep Neural Network Webpage](https://xilinx.github.io/finn/)
 - [My Pynq repo](https://github.com/tschinz/pynq_notebooks.git)
 
+## Contents
+
+{nav}
+
 ## Introduction
+
 - `PS` = Processing System
 - `PL` = Program Logic
 
 ### Important Linux Commands
 
-``` bash
+```bash
 # Shutdown
 shutdown now
 
@@ -31,6 +37,7 @@ shutdown -r now
 ```
 
 ### Xilinx Zynq FPGA
+
 The core of a PYNQ Board is a Xilinx ZYNQ-7000 SoC.
 
 - [Zynq-7000 Soc Reference Manual](docs/ug585-Zynq-7000-TRM.pdf)
@@ -48,19 +55,22 @@ Program the [SDCard image](http://www.pynq.io/board.html) with
 ![](img/pynqz1_setup.jpg){.center}
 
 ### Access
+
 By default access is grated with the following account
 
 | Hostname | User     | Password |
-|----------|----------|----------|
+| -------- | -------- | -------- |
 | `pynq`   | `xilinx` | `xilinx` |
 
 #### Ethernet
+
 There is Jupter and Jupyterlab installed it can be accessed by the browser
 
--   Jupyter Notebooks <http://192.168.2.99> or [http://pynq.local](http://pynq.local)
--   Jupyterlab Notebooks <http://192.168.2.99/lab> or [http://pynq.local/lab](http://pynq.local/lab)
+- Jupyter Notebooks <http://192.168.2.99> or [http://pynq.local](http://pynq.local)
+- Jupyterlab Notebooks <http://192.168.2.99/lab> or [http://pynq.local/lab](http://pynq.local/lab)
 
 #### USB
+
 USB Serial Terminal can be accessed via putta via the microUSB interface. Terminal Settings are:
 
 - Speed : `115200 baud`
@@ -70,9 +80,10 @@ USB Serial Terminal can be accessed via putta via the microUSB interface. Termin
 - Flow : `No Flow Control`
 
 #### Samba
+
 Samba, a file sharing service, is running on the board. This allows you to access the Pynq home area as a network drive, to transfer files to and from the board.
 
-``` raw
+```raw
 \\192.168.2.99\xilinx
 # or
 \\pynq.local\xilinx

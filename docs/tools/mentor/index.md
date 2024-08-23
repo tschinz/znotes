@@ -9,7 +9,7 @@ tags:
 
 ## Contents
 
-- [Install](install.md)
+{nav}
 
 ## Introduction
 

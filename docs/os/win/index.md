@@ -9,9 +9,4 @@ tags:
 
 ## Contents
 
-- [Commandline](cmdline.md)
-- [Firewall](firewall.md)
-- [Group Policies](group_policies.md)
-- [Power](power.md)
-- [Registry](registry_location.md)
-- [WSL](wsl.md)
+{nav}

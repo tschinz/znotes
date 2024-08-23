@@ -29,7 +29,6 @@ With homebrew
 brew install numbat
 ```
 
-See also
+## Contents
 
-- [Basics](basics.md)
-- [Cheatsheet](cheatsheet.md)
+{nav}

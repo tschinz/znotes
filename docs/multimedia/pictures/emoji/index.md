@@ -1,14 +1,14 @@
 ---
 tags:
-- multimedia
-- pictures
-- emoji
+  - multimedia
+  - pictures
+  - emoji
 ---
 
 # Emoji
+
 ![](img/logo.svg){.center width="150px"}
 
-## Content
+## Contents
 
-- [All](all.md)
-- [Curated](curated.md)
+{nav}

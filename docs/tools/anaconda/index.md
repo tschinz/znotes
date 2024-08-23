@@ -8,8 +8,8 @@ tags:
 
 ## Contents
 
-- [Install](install.md)
-- [Conda](conda.md)
+{nav}
+
 
 ## Introduction
 

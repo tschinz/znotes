@@ -1,17 +1,16 @@
 ---
 tags:
-- coding
-- tcl/tk
+  - coding
+  - tcl/tk
 ---
+
 # Tcl-Tk
 
 ![](img/logo.svg){.center width="200px"}
 
 ## Contents
 
-- [Syntax](syntax.md)
-- [FPGA Scripting](fpga_scripting.md)
-- [Examples](examples.md)
+{nav}
 
 ## Introduction
 
@@ -19,7 +18,7 @@ Tcl originally from "Tool Command Language" is a scripting language. It is commo
 
 Tcl is also used for CGI scripting. Tcl is popularly used today in many automated test harnesses, both for software and hardware, and has a loyal following in the Network Testing and SQA communities.
 
-- [TCL Tk Manual](docs/tcl-tk-manual.pdf) or  [online](http://tcl.sourceforge.net/engManual.pdf)
+- [TCL Tk Manual](docs/tcl-tk-manual.pdf) or [online](http://tcl.sourceforge.net/engManual.pdf)
 
 ## Links
 

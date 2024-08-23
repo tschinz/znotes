@@ -8,9 +8,6 @@ tags:
 
 ![](img/logo.svg){.center width="20%"}
 
-## Content
+## Contents
 
-- [MacOS](mac/index.md)
-- [Linux](linux/index.md)
-- [Unraid](unraid/index.md)
-- [Windows](win/index.md)
+{nav}

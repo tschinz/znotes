@@ -1,24 +1,16 @@
 ---
 tags:
-- coding
-- swift
+  - coding
+  - swift
 ---
+
 # Swift
 
 ![](img/logo.svg){.center width="30%"}
 
 ## Contents
 
-- [Basics](01_basics.md)
-- [Model View Controller](02_mvc.md)
-- [Properties](03_properties.md)
-- [Data Structures & Methods](04_datastructures_methods.md)
-- [Control Flow](05_controlflow.md)
-- [Multithreading](06_multithreading.md)
-- [NSClasses](07_nsclasses.md)
-- [Views](08_views.md)
-- [UI Element](081_uielements.md)
-- [Others](09_other.md)
+{nav}
 
 # Introduction
 

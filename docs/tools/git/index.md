@@ -10,9 +10,4 @@ tags:
 
 ## Contents
 
-- [General](general.md)
-- [Comands](commands.md)
-- [Submodules](submodules.md)
-- [.gitignore](gitignore.md)
-- [Gitflow](flow.md)
-- [Github](github.md)
+{nav}

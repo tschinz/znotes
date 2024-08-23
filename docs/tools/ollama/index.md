@@ -14,6 +14,6 @@ That’s where Ollama comes in! Ollama is a free and open-source application tha
 
 OpenWeb UI is a web-based user interface for Ollama, allowing you to interact with Ollama and LLMs through your web browser. OpenWeb UI provides a user-friendly interface for running LLMs, managing models, and viewing results. It also includes features such as model training, fine-tuning, and evaluation, making it a powerful tool for working with large language models.
 
-- [Getting Started](./getting-started.md)
-- [Modelfiles](./modelfile.md)
-- [OpenWeb UI](./openwebui.md)
+## Contents
+
+{nav}

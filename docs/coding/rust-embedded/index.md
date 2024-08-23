@@ -1,9 +1,10 @@
 ---
 tags:
-- coding
-- rust
-- embedded
+  - coding
+  - rust
+  - embedded
 ---
+
 # Rust Embedded
 
 ![](img/logo.svg){.center width="20%"}
@@ -12,8 +13,7 @@ tags:
 
 ## Contents
 
-- [Install](install.md)
-- [RISC-V](riscv.md)
+{nav}
 
 ## Introduction
 

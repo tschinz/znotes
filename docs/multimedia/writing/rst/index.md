@@ -1,11 +1,17 @@
 ---
 tags:
-- multimedia
-- writing
-- rst
+  - multimedia
+  - writing
+  - rst
 ---
+
 # ReStructuredText
+
 ![](img/logo.svg){.align-right width="20%"}
+
+## Contents
+
+{nav}
 
 ## Introduction
 
