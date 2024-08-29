@@ -26,14 +26,6 @@ My take and some ideas from the book [Supercommunicators](https://www.google.ch/
 5. **The Role of High Centrality Participants**: These are individuals who facilitate group conversations by asking questions, adapting to others’ moods, and ensuring everyone is heard. They are pivotal in creating group alignment and making everyone feel included.
 6. **Communication as a Skill**: The book argues that anyone can learn to be a supercommunicator. It’s a set of skills that can be developed through practice, focusing on how to listen, ask the right questions, and align with others’ communication styles.
 
-### Key Rules for Meaningful Conversations:
-
-1. **Understand the Conversation Type**: Before engaging, identify whether the conversation is about decision-making, emotions, or social dynamics. This understanding will guide how you participate.
-2. **Ask Questions and Listen**: Supercommunicators ask more questions to understand others’ perspectives and listen closely to what is being said and unsaid. This helps in creating a deeper connection.
-3. **Be Vulnerable and Share**: Effective communicators are open about their feelings, experiences, and identities. Sharing these aspects encourages others to open up, fostering trust and understanding.
-4. **Match the Conversation Style**: Align your communication style with that of the person you are speaking to. If they are emotional, reflect that emotion; if they are focused on making a decision, concentrate on practicalities.
-5. **Create a Learning Conversation**: Aim for discussions where both parties are learning about each other’s perspectives. This involves being open to new ideas and willing to adjust your views based on what you learn during the conversation.
-
 ### The Four Rules for a Meaningful Conversation:
 
 1. **Understand the Type of Conversation**:
@@ -48,3 +40,14 @@ My take and some ideas from the book [Supercommunicators](https://www.google.ch/
 4. **Focus on Creating a Learning Conversation**:
     - Align Goals: Clarify what you want to achieve from the conversation and what the other person might want. This helps in steering the discussion towards a common understanding or agreement.
     - Encourage Mutual Understanding: Aim to learn from the conversation, not just to express your own viewpoint. Encourage the other person to share their perspective, and be open to adjusting your own based on what you learn.
+
+### Some Tips
+- Share your goals and intentions of the conversation and ask what others are seeking
+- Ask questions to trigger emotional responses and self reflection
+    - Why did you do this?
+    - What was your idea behind this action?
+- Ask the other how they feel about a something.
+- Listen and repeat respectively summarize in own words until everyone agrees to the meaning.
+- Try to find a common ground, an argument that both parties can agree on.
+- Soften your own statements
+- Find a common identity or goal to connect with the other person. It helps to avoid stereotypes and prejudices. and to feel closer to the other person.
