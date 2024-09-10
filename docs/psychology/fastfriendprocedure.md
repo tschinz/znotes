@@ -6,6 +6,9 @@ tags:
 ---
 
 # Fast Friends Procedure
+
+![](img/fastfriendprocedure.svg){.center width="20%"}
+
 This was developed by psychologist Arthur Aron and his colleagues in 1997. The procedure consists of 36 questions divided into three sets, each set designed to increase the level of vulnerability and intimacy between two people. The questions are meant to be asked in a specific order, with each set building on the previous one.
 
 See [GGIA Berkley](https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness) for more information.
