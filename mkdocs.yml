@@ -460,7 +460,11 @@ nav:
       - Datascience:
           - computerscience/datascience/index.md
           - Statistics: computerscience/datascience/statistic.md
-          - Algorithms: https://tschinz.github.io/days-of-algo
+          - Days of Algo: https://tschinz.github.io/days-of-algo
+      - Algorithms:
+          - computerscience/algorithms/index.md
+          - Types: computerscience/algorithms/types.md
+          - Big O Notation: computerscience/algorithms/bigO.md
       - SDR: computerscience/sdr/index.md
   - Hardware:
       - hw/index.md
