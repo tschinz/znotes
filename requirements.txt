@@ -35,6 +35,7 @@ mkdocs-rss-plugin==1.12.0
 mkdocs-toggle-sidebar-plugin==0.0.3
 mkdocs-wavedrom-plugin==0.1.1
 mkdocs-with-pdf==0.9.3
+mkdocs-jupyter==0.25.0
 natsort==8.4.0
 packaging==23.2
 paginate==0.5.6
