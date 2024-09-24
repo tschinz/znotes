@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="112.27086mm"
+   height="37.622456mm"
+   viewBox="0 0 112.27086 37.622456"
+   version="1.1"
+   id="svg23235"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="graph-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview23237"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-160.51324"
+     inkscape:cy="-178.89802"
+     inkscape:window-width="1720"
+     inkscape:window-height="1359"
+     inkscape:window-x="1673"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g40473-3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23964"
+       units="px"
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       empspacing="4"
+       originx="-9.5020104"
+       originy="0.064532686" />
+  </sodipodi:namedview>
+  <defs
+     id="defs23232">
+    <rect
+       x="10"
+       y="-35"
+       width="310"
+       height="205.00002"
+       id="rect85855" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.5020104,0.06453269)">
+    <g
+       id="g40465"
+       transform="translate(3.307292,-1.9843748)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.9218748,9.921875 H 41.671874"
+         id="path42743" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.9218748,9.921875 41.671876,31.088542"
+         id="path42858"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.921875,31.088542 H 41.671876"
+         id="path42879"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.921875,31.088542 41.671876,9.921875"
+         id="path42938"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.921875,31.088542 V 9.921875"
+         id="path42940"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 41.671876,31.088542 V 9.921875"
+         id="path42942"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 57.546876,20.505209 41.671876,9.921875"
+         id="path42944"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 57.546876,20.505209 -15.875,10.583333"
+         id="path42946"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="fill:#f4d7d7;fill-opacity:0.994264;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path40023"
+         cx="9.921875"
+         cy="9.921875"
+         r="3.3072915" />
+      <g
+         id="g39705"
+         transform="translate(1.9843736,1.984375)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+           x="9.2872887"
+           y="9.4784899"
+           id="text37550"><tspan
+             sodipodi:role="line"
+             id="tspan37548"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="9.2872887"
+             y="9.4784899">0</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40475"
+       transform="translate(35.057293,-1.9843748)">
+      <circle
+         style="fill:#d7f4d7;fill-opacity:0.994264;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle40467"
+         cx="9.921875"
+         cy="9.921875"
+         r="3.3072915" />
+      <g
+         id="g40473"
+         transform="translate(1.9843736,1.984375)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+           x="9.2872887"
+           y="9.4784899"
+           id="text40471"><tspan
+             sodipodi:role="line"
+             id="tspan40469"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="9.2872887"
+             y="9.4784899">3</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40485"
+       transform="translate(3.307292,19.182292)">
+      <circle
+         style="fill:#d7f4d7;fill-opacity:0.994264;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle40477"
+         cx="9.921875"
+         cy="9.921875"
+         r="3.3072915" />
+      <g
+         id="g40483"
+         transform="translate(1.9843736,1.984375)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+           x="9.2872887"
+           y="9.4784899"
+           id="text40481"><tspan
+             sodipodi:role="line"
+             id="tspan40479"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="9.2872887"
+             y="9.4784899">1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40495"
+       transform="translate(19.182292,8.5989588)">
+      <circle
+         style="fill:#d7f4d7;fill-opacity:0.994264;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle40487"
+         cx="9.921875"
+         cy="9.921875"
+         r="3.3072915" />
+      <g
+         id="g40493"
+         transform="translate(1.9843736,1.984375)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+           x="9.2872887"
+           y="9.4784899"
+           id="text40491"><tspan
+             sodipodi:role="line"
+             id="tspan40489"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="9.2872887"
+             y="9.4784899">2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40505"
+       transform="translate(35.030422,18.964219)">
+      <circle
+         style="fill:#d7f4d7;fill-opacity:0.994264;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle40497"
+         cx="9.921875"
+         cy="9.921875"
+         r="3.3072915" />
+      <g
+         id="g40503"
+         transform="translate(1.9843736,1.984375)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+           x="9.2872887"
+           y="9.4784899"
+           id="text40501"><tspan
+             sodipodi:role="line"
+             id="tspan40499"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="9.2872887"
+             y="9.4784899">4</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40531"
+       transform="translate(50.932293,8.5989588)">
+      <circle
+         style="fill:#d7f4d7;fill-opacity:0.994264;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle40523"
+         cx="9.921875"
+         cy="9.921875"
+         r="3.3072915" />
+      <g
+         id="g40529"
+         transform="translate(1.9843736,1.984375)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+           x="9.2872887"
+           y="9.4784899"
+           id="text40527"><tspan
+             sodipodi:role="line"
+             id="tspan40525"
+             style="font-size:4.23333px;stroke-width:0.264583"
+             x="9.2872887"
+             y="9.4784899">5</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+       x="59.531254"
+       y="18.520834"
+       id="text49931"><tspan
+         sodipodi:role="line"
+         id="tspan49929"
+         style="stroke-width:0.264583"
+         x="59.531254"
+         y="18.520834" /></text>
+    <g
+       id="g40473-3"
+       transform="translate(19.84375,-6.6145832)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="9.260417"
+         y="13.229167"
+         id="text40471-3"><tspan
+           sodipodi:role="line"
+           id="tspan40469-7"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="9.260417"
+           y="13.229167">4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="3.9687505"
+         y="19.84375"
+         id="text52050"><tspan
+           sodipodi:role="line"
+           id="tspan52048"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="3.9687505"
+           y="19.84375">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="14.552084"
+         y="19.84375"
+         id="text52054"><tspan
+           sodipodi:role="line"
+           id="tspan52052"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="14.552084"
+           y="19.84375">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="17.197918"
+         y="29.104168"
+         id="text52058"><tspan
+           sodipodi:role="line"
+           id="tspan52056"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="17.197918"
+           y="29.104168">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="1.3229171"
+         y="29.104168"
+         id="text52062"><tspan
+           sodipodi:role="line"
+           id="tspan52060"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="1.3229171"
+           y="29.104168">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="9.260417"
+         y="34.395832"
+         id="text52066"><tspan
+           sodipodi:role="line"
+           id="tspan52064"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="9.260417"
+           y="34.395832">8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="-5.2916665"
+         y="26.458334"
+         id="text52070"><tspan
+           sodipodi:role="line"
+           id="tspan52068"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="-5.2916665"
+           y="26.458334">5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="23.812502"
+         y="26.458334"
+         id="text52074"><tspan
+           sodipodi:role="line"
+           id="tspan52072"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="23.812502"
+           y="26.458334">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="34.395836"
+         y="19.84375"
+         id="text52078"><tspan
+           sodipodi:role="line"
+           id="tspan52076"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="34.395836"
+           y="19.84375">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="34.395836"
+         y="34.395832"
+         id="text52082"><tspan
+           sodipodi:role="line"
+           id="tspan52080"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="34.395836"
+           y="34.395832">3</tspan></text>
+      <rect
+         style="fill:#f4eed7;fill-opacity:0.996078;stroke:none;stroke-width:0.362295;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect60106"
+         width="6.614584"
+         height="3.9687507"
+         x="-9.260417"
+         y="6.614583"
+         ry="2.768372e-07" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="-5.9345217"
+         y="9.7826071"
+         id="text60355"><tspan
+           sodipodi:role="line"
+           id="tspan60353"
+           style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="-5.9345217"
+           y="9.7826071">d=0</tspan></text>
+      <g
+         id="g79024"
+         transform="translate(-1.5644979)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-6.614583"
+           y="42.333336"
+           id="text72517"><tspan
+             sodipodi:role="line"
+             id="tspan72515"
+             style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="-6.614583"
+             y="42.333336">d=</tspan></text>
+        <g
+           id="g75839"
+           transform="matrix(0.00107058,0,0,0.00107058,-4.1396283,40.655577)">
+	<g
+   id="g75837">
+		<path
+   d="M 72.373,651.52 C 62.109,212.429 541.276,-95.972 961.842,145.033 c 138.551,79.397 256.167,196.988 382.632,325.418 5.749,5.839 8.404,5.236 13.785,-0.188 197.808,-199.402 484.222,-503.454 885.399,-385.157 168.833,49.784 286.15,159.321 346.255,324.377 201.16,552.413 -375.869,1009.769 -870.693,706.588 -124.801,-76.466 -232.581,-181.978 -359.98,-311.726 -6.801,-6.927 -9.868,-5.946 -16.086,0.324 -144.739,145.956 -300.538,304.607 -492.977,371.024 C 458.575,1310.846 83.17,1077.492 72.373,651.52 Z m 245.045,-8.512 c 12.485,253.639 207.59,371.88 415.468,326.918 179.653,-38.857 330.36,-196.86 458.721,-328.811 4.325,-4.446 1.9,-6.251 -1.072,-9.025 C 1079.047,528.024 970.17,400.906 832.954,335.49 567.01,208.705 316.523,394.639 317.418,643.008 Z m 2067.847,-10.72 c -7.903,-245.124 -201.289,-378.703 -424.132,-326.433 -175.334,41.126 -325.161,198.381 -449.641,326.279 -4.318,4.437 -2.66,6.509 0.879,9.811 155.637,145.245 339.3,374.567 587.443,332.772 165.289,-27.84 285.82,-171.807 285.451,-342.429 z"
+   id="path75835" />
+
+	</g>
+
+</g>
+      </g>
+      <g
+         id="g79036"
+         transform="translate(30.158632)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-6.614583"
+           y="42.333336"
+           id="text79028"><tspan
+             sodipodi:role="line"
+             id="tspan79026"
+             style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="-6.614583"
+             y="42.333336">d=</tspan></text>
+        <g
+           id="g79034"
+           transform="matrix(0.00107058,0,0,0.00107058,-4.1396283,40.655577)">
+	<g
+   id="g79032">
+		<path
+   d="M 72.373,651.52 C 62.109,212.429 541.276,-95.972 961.842,145.033 c 138.551,79.397 256.167,196.988 382.632,325.418 5.749,5.839 8.404,5.236 13.785,-0.188 197.808,-199.402 484.222,-503.454 885.399,-385.157 168.833,49.784 286.15,159.321 346.255,324.377 201.16,552.413 -375.869,1009.769 -870.693,706.588 -124.801,-76.466 -232.581,-181.978 -359.98,-311.726 -6.801,-6.927 -9.868,-5.946 -16.086,0.324 -144.739,145.956 -300.538,304.607 -492.977,371.024 C 458.575,1310.846 83.17,1077.492 72.373,651.52 Z m 245.045,-8.512 c 12.485,253.639 207.59,371.88 415.468,326.918 179.653,-38.857 330.36,-196.86 458.721,-328.811 4.325,-4.446 1.9,-6.251 -1.072,-9.025 C 1079.047,528.024 970.17,400.906 832.954,335.49 567.01,208.705 316.523,394.639 317.418,643.008 Z m 2067.847,-10.72 c -7.903,-245.124 -201.289,-378.703 -424.132,-326.433 -175.334,41.126 -325.161,198.381 -449.641,326.279 -4.318,4.437 -2.66,6.509 0.879,9.811 155.637,145.245 339.3,374.567 587.443,332.772 165.289,-27.84 285.82,-171.807 285.451,-342.429 z"
+   id="path79030" />
+
+	</g>
+
+</g>
+      </g>
+      <g
+         id="g79048"
+         transform="translate(30.158632)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-6.614583"
+           y="42.333336"
+           id="text79040"><tspan
+             sodipodi:role="line"
+             id="tspan79038"
+             style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="-6.614583"
+             y="42.333336">d=</tspan></text>
+        <g
+           id="g79046"
+           transform="matrix(0.00107058,0,0,0.00107058,-4.1396283,40.655577)">
+	<g
+   id="g79044">
+		<path
+   d="M 72.373,651.52 C 62.109,212.429 541.276,-95.972 961.842,145.033 c 138.551,79.397 256.167,196.988 382.632,325.418 5.749,5.839 8.404,5.236 13.785,-0.188 197.808,-199.402 484.222,-503.454 885.399,-385.157 168.833,49.784 286.15,159.321 346.255,324.377 201.16,552.413 -375.869,1009.769 -870.693,706.588 -124.801,-76.466 -232.581,-181.978 -359.98,-311.726 -6.801,-6.927 -9.868,-5.946 -16.086,0.324 -144.739,145.956 -300.538,304.607 -492.977,371.024 C 458.575,1310.846 83.17,1077.492 72.373,651.52 Z m 245.045,-8.512 c 12.485,253.639 207.59,371.88 415.468,326.918 179.653,-38.857 330.36,-196.86 458.721,-328.811 4.325,-4.446 1.9,-6.251 -1.072,-9.025 C 1079.047,528.024 970.17,400.906 832.954,335.49 567.01,208.705 316.523,394.639 317.418,643.008 Z m 2067.847,-10.72 c -7.903,-245.124 -201.289,-378.703 -424.132,-326.433 -175.334,41.126 -325.161,198.381 -449.641,326.279 -4.318,4.437 -2.66,6.509 0.879,9.811 155.637,145.245 339.3,374.567 587.443,332.772 165.289,-27.84 285.82,-171.807 285.451,-342.429 z"
+   id="path79042" />
+
+	</g>
+
+</g>
+      </g>
+      <g
+         id="g79156"
+         transform="translate(30.185503,-32.550729)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-6.614583"
+           y="42.333336"
+           id="text79148"><tspan
+             sodipodi:role="line"
+             id="tspan79146"
+             style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="-6.614583"
+             y="42.333336">d=</tspan></text>
+        <g
+           id="g79154"
+           transform="matrix(0.00107058,0,0,0.00107058,-4.1396283,40.655577)">
+	<g
+   id="g79152">
+		<path
+   d="M 72.373,651.52 C 62.109,212.429 541.276,-95.972 961.842,145.033 c 138.551,79.397 256.167,196.988 382.632,325.418 5.749,5.839 8.404,5.236 13.785,-0.188 197.808,-199.402 484.222,-503.454 885.399,-385.157 168.833,49.784 286.15,159.321 346.255,324.377 201.16,552.413 -375.869,1009.769 -870.693,706.588 -124.801,-76.466 -232.581,-181.978 -359.98,-311.726 -6.801,-6.927 -9.868,-5.946 -16.086,0.324 -144.739,145.956 -300.538,304.607 -492.977,371.024 C 458.575,1310.846 83.17,1077.492 72.373,651.52 Z m 245.045,-8.512 c 12.485,253.639 207.59,371.88 415.468,326.918 179.653,-38.857 330.36,-196.86 458.721,-328.811 4.325,-4.446 1.9,-6.251 -1.072,-9.025 C 1079.047,528.024 970.17,400.906 832.954,335.49 567.01,208.705 316.523,394.639 317.418,643.008 Z m 2067.847,-10.72 c -7.903,-245.124 -201.289,-378.703 -424.132,-326.433 -175.334,41.126 -325.161,198.381 -449.641,326.279 -4.318,4.437 -2.66,6.509 0.879,9.811 155.637,145.245 339.3,374.567 587.443,332.772 165.289,-27.84 285.82,-171.807 285.451,-342.429 z"
+   id="path79150" />
+
+	</g>
+
+</g>
+      </g>
+      <g
+         id="g79168"
+         transform="translate(14.310502,-11.455164)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-6.614583"
+           y="42.333336"
+           id="text79160"><tspan
+             sodipodi:role="line"
+             id="tspan79158"
+             style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="-6.614583"
+             y="42.333336">d=</tspan></text>
+        <g
+           id="g79166"
+           transform="matrix(0.00107058,0,0,0.00107058,-4.1396283,40.655577)">
+	<g
+   id="g79164">
+		<path
+   d="M 72.373,651.52 C 62.109,212.429 541.276,-95.972 961.842,145.033 c 138.551,79.397 256.167,196.988 382.632,325.418 5.749,5.839 8.404,5.236 13.785,-0.188 197.808,-199.402 484.222,-503.454 885.399,-385.157 168.833,49.784 286.15,159.321 346.255,324.377 201.16,552.413 -375.869,1009.769 -870.693,706.588 -124.801,-76.466 -232.581,-181.978 -359.98,-311.726 -6.801,-6.927 -9.868,-5.946 -16.086,0.324 -144.739,145.956 -300.538,304.607 -492.977,371.024 C 458.575,1310.846 83.17,1077.492 72.373,651.52 Z m 245.045,-8.512 c 12.485,253.639 207.59,371.88 415.468,326.918 179.653,-38.857 330.36,-196.86 458.721,-328.811 4.325,-4.446 1.9,-6.251 -1.072,-9.025 C 1079.047,528.024 970.17,400.906 832.954,335.49 567.01,208.705 316.523,394.639 317.418,643.008 Z m 2067.847,-10.72 c -7.903,-245.124 -201.289,-378.703 -424.132,-326.433 -175.334,41.126 -325.161,198.381 -449.641,326.279 -4.318,4.437 -2.66,6.509 0.879,9.811 155.637,145.245 339.3,374.567 587.443,332.772 165.289,-27.84 285.82,-171.807 285.451,-342.429 z"
+   id="path79162" />
+
+	</g>
+
+</g>
+      </g>
+      <g
+         id="g79180"
+         transform="translate(46.060503,-11.455164)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-6.614583"
+           y="42.333336"
+           id="text79172"><tspan
+             sodipodi:role="line"
+             id="tspan79170"
+             style="font-size:3.175px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="-6.614583"
+             y="42.333336">d=</tspan></text>
+        <g
+           id="g79178"
+           transform="matrix(0.00107058,0,0,0.00107058,-4.1396283,40.655577)">
+	<g
+   id="g79176">
+		<path
+   d="M 72.373,651.52 C 62.109,212.429 541.276,-95.972 961.842,145.033 c 138.551,79.397 256.167,196.988 382.632,325.418 5.749,5.839 8.404,5.236 13.785,-0.188 197.808,-199.402 484.222,-503.454 885.399,-385.157 168.833,49.784 286.15,159.321 346.255,324.377 201.16,552.413 -375.869,1009.769 -870.693,706.588 -124.801,-76.466 -232.581,-181.978 -359.98,-311.726 -6.801,-6.927 -9.868,-5.946 -16.086,0.324 -144.739,145.956 -300.538,304.607 -492.977,371.024 C 458.575,1310.846 83.17,1077.492 72.373,651.52 Z m 245.045,-8.512 c 12.485,253.639 207.59,371.88 415.468,326.918 179.653,-38.857 330.36,-196.86 458.721,-328.811 4.325,-4.446 1.9,-6.251 -1.072,-9.025 C 1079.047,528.024 970.17,400.906 832.954,335.49 567.01,208.705 316.523,394.639 317.418,643.008 Z m 2067.847,-10.72 c -7.903,-245.124 -201.289,-378.703 -424.132,-326.433 -175.334,41.126 -325.161,198.381 -449.641,326.279 -4.318,4.437 -2.66,6.509 0.879,9.811 155.637,145.245 339.3,374.567 587.443,332.772 165.289,-27.84 285.82,-171.807 285.451,-342.429 z"
+   id="path79174" />
+
+	</g>
+
+</g>
+      </g>
+      <rect
+         x="48.947918"
+         y="6.614583"
+         width="15.487804"
+         height="6.4532514"
+         fill="url(#mx-gradient-cccccc-1-ffffff-1-s-0)"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect979"
+         style="fill:#e6e6e6;stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,5.5175303)"
+         id="g985">
+        <switch
+           id="switch983">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 25px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Source<xhtml:br
+   style="font-size: 18px" />
+
+
+
+
+Node</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="30"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"><tspan
+               sodipodi:role="line"
+               id="tspan5399"
+               x="499"
+               y="30">Source</tspan><tspan
+               sodipodi:role="line"
+               id="tspan5401"
+               x="499"
+               y="52.5">Node</tspan></text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="6.614583"
+         width="15.487804"
+         height="6.4532514"
+         fill="url(#mx-gradient-cccccc-1-ffffff-1-s-0)"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect987"
+         style="fill:#e6e6e6;stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,5.5175303)"
+         id="g993">
+        <switch
+           id="switch991">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 25px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Destination<xhtml:br
+   style="font-size: 18px" />
+
+
+
+
+Node</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="30"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text989"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"><tspan
+               sodipodi:role="line"
+               id="tspan6173"
+               x="619"
+               y="30">Destination</tspan><tspan
+               sodipodi:role="line"
+               x="619"
+               y="52.5"
+               id="tspan6177">Node</tspan></text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="6.614583"
+         width="21.941057"
+         height="6.4532514"
+         fill="url(#mx-gradient-cccccc-1-ffffff-1-s-0)"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect995"
+         style="fill:#e6e6e6;stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,5.5175303)"
+         id="g1001">
+        <switch
+           id="switch999">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 25px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Distance from single source (Node 0)</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="30"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text997"
+             rotate="0 0 0 0 0 0 0 0 0 0 0 0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sa;-inkscape-font-specification:sa"><tspan
+               sodipodi:role="line"
+               id="tspan8129"
+               x="764"
+               y="30">Distance from</tspan><tspan
+               sodipodi:role="line"
+               id="tspan8131"
+               x="764"
+               y="52.5">SourceNode</tspan></text>
+        </switch>
+      </g>
+      <rect
+         x="48.947918"
+         y="13.132367"
+         width="15.487804"
+         height="5.162601"
+         fill="url(#mx-gradient-ffb366-1-ffffff-1-s-0)"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1003"
+         style="fill:#ffd5d5;fill-opacity:1;stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1009">
+        <switch
+           id="switch1007">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 71px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="76"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1005">0</text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="13.132367"
+         width="15.487804"
+         height="5.162601"
+         fill="url(#mx-gradient-ccffcc-1-ffffff-1-s-0)"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1011"
+         style="fill:#e3f4d7;stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1017">
+        <switch
+           id="switch1015">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 71px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="76"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1013">0</text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="13.132367"
+         width="21.941057"
+         height="5.162601"
+         fill="url(#mx-gradient-ffff66-1-ffffff-1-s-0)"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1019"
+         style="fill:#fff6d5;stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1025">
+        <switch
+           id="switch1023">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 71px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="76"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1021">0</text>
+        </switch>
+      </g>
+      <rect
+         x="48.947918"
+         y="18.294968"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1027"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1033">
+        <switch
+           id="switch1031">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 111px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="116"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1029">0</text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="18.294968"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1035"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1041">
+        <switch
+           id="switch1039">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 111px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">1</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="116"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1037">1</text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="18.294968"
+         width="21.941057"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1043"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1049">
+        <switch
+           id="switch1047">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 111px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 28px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:span
+                     style="font-size: 28px ; text-align: left ; white-space: nowrap">∞</xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="119"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="28px"
+             text-anchor="middle"
+             id="text1045">∞</text>
+        </switch>
+      </g>
+      <rect
+         x="48.947918"
+         y="23.457569"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1051"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1057">
+        <switch
+           id="switch1055">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 151px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="156"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1053">0</text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="23.457569"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1059"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1065">
+        <switch
+           id="switch1063">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 151px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">2</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="156"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1061">2</text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="23.457569"
+         width="21.941057"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1067"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1073">
+        <switch
+           id="switch1071">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 151px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 28px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:span
+                     style="font-size: 28px ; text-align: left ; white-space: nowrap">∞</xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="159"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="28px"
+             text-anchor="middle"
+             id="text1069">∞</text>
+        </switch>
+      </g>
+      <rect
+         x="48.947918"
+         y="28.620173"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1075"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1081">
+        <switch
+           id="switch1079">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 191px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="196"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1077">0</text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="28.620173"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1083"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1089">
+        <switch
+           id="switch1087">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 191px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">3</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="196"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1085">3</text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="28.620173"
+         width="21.941057"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1091"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1097">
+        <switch
+           id="switch1095">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 191px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 28px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:span
+                     style="font-size: 28px ; text-align: left ; white-space: nowrap">∞</xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="199"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="28px"
+             text-anchor="middle"
+             id="text1093">∞</text>
+        </switch>
+      </g>
+      <rect
+         x="48.947918"
+         y="33.782772"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1099"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1105">
+        <switch
+           id="switch1103">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 231px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="236"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1101">0</text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="33.782772"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1107"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1113">
+        <switch
+           id="switch1111">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 231px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">4</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="236"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1109">4</text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="33.782772"
+         width="21.941057"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1115"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1121">
+        <switch
+           id="switch1119">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 231px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 28px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:span
+                     style="font-size: 28px ; text-align: left ; white-space: nowrap">∞</xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="239"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="28px"
+             text-anchor="middle"
+             id="text1117">∞</text>
+        </switch>
+      </g>
+      <rect
+         x="48.947918"
+         y="38.945374"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1123"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1129">
+        <switch
+           id="switch1127">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 271px; margin-left: 440px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">0</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="499"
+             y="276"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1125">0</text>
+        </switch>
+      </g>
+      <rect
+         x="64.435722"
+         y="38.945374"
+         width="15.487804"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1131"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1137">
+        <switch
+           id="switch1135">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 271px; margin-left: 560px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 18px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">5</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="619"
+             y="276"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="18px"
+             text-anchor="middle"
+             id="text1133">5</text>
+        </switch>
+      </g>
+      <rect
+         x="79.923531"
+         y="38.945374"
+         width="21.941057"
+         height="5.162601"
+         fill="none"
+         stroke="#1a1a1a"
+         pointer-events="all"
+         id="rect1139"
+         style="stroke-width:0.129065" />
+      <g
+         transform="matrix(0.12906503,0,0,0.12906503,-7.7761642,6.5500505)"
+         id="g1145">
+        <switch
+           id="switch1143">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 271px; margin-left: 680px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 28px; font-family: Helvetica; color: #1A1A1A; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:span
+                     style="font-size: 28px ; text-align: left ; white-space: nowrap">∞</xhtml:span>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="764"
+             y="279"
+             fill="#1a1a1a"
+             font-family="Helvetica"
+             font-size="28px"
+             text-anchor="middle"
+             id="text1141">∞</text>
+        </switch>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-19.84375,6.6145832)"
+         id="text85853"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;word-spacing:0px;white-space:pre;shape-inside:url(#rect85855)" />
+    </g>
+  </g>
+</svg>
