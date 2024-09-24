@@ -122,6 +122,11 @@ plugins:
   - offline
   - toggle-sidebar
   - pagenav-generator
+  - mkdocs-jupyter:
+      execute: false
+      include_requirejs: true
+      include: ["*.ipynb"] # Default: ["*.py", "*.ipynb"]
+      #ignore: ["*.ipynb"] # ignore all for test case
   #- markdownwavedrom
 
 markdown_extensions:
@@ -158,7 +163,6 @@ markdown_extensions:
   #- plantuml_markdown
 
 extra_javascript:
-  - _extra/js/mathjax.js # mathjax
   - https://polyfill.io/v3/polyfill.min.js?features=es6 # polyfill for mathjax
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # mathjax
   #- _extra/js/wavedrom.unpkg.js
@@ -460,11 +464,27 @@ nav:
       - Datascience:
           - computerscience/datascience/index.md
           - Statistics: computerscience/datascience/statistic.md
-          - Days of Algo: https://tschinz.github.io/days-of-algo
       - Algorithms:
           - computerscience/algorithms/index.md
           - Types: computerscience/algorithms/types.md
           - Big O Notation: computerscience/algorithms/bigO.md
+          - Days of Algo:
+              - computerscience/algorithms/daysofalgo/index.md
+              - computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb
+              - computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.ipynb
+              - computerscience/algorithms/daysofalgo/002-permutations.ipynb
+              - computerscience/algorithms/daysofalgo/003-counting-1bits.ipynb
+              - computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.ipynb
+              - computerscience/algorithms/daysofalgo/005-binary-addition-fsm.ipynb
+              - computerscience/algorithms/daysofalgo/006-binary-search.ipynb
+              - computerscience/algorithms/daysofalgo/007-union-find.ipynb
+              - computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.ipynb
+              - computerscience/algorithms/daysofalgo/009-maze-solver-lee.ipynb
+              - computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.ipynb
+              - computerscience/algorithms/daysofalgo/011-maze-solver-astar.ipynb
+              - computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.ipynb
+              - computerscience/algorithms/daysofalgo/013-enigma-machine.ipynb
+              - computerscience/algorithms/daysofalgo/014-sorting-algorithms.ipynb
       - SDR: computerscience/sdr/index.md
   - Hardware:
       - hw/index.md

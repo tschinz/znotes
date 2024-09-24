@@ -371,12 +371,21 @@ All image from [Fontawesome](https://fontawesome.com/) are possible
 ## Math
 Block math
 
+```md
+$$
+\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
+$$
+```
+
 $$
 \operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
 $$
 
+```md
 Inline math is with $\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}$
+```
 
+Inline math is with $\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}$
 
 ## Tables
 
