@@ -1,0 +1,125 @@
+{
+  "config": {
+    "hscale": 1,
+    "skin": "narrow"
+  },
+
+  "head": {
+    "tock": 0
+  },
+  "signal": [
+    [
+      "Protocol I2C",
+      {
+        "name": "SCL",
+        "wave": "hpP.................h",
+        "period": 2,
+        "phase": -0.2
+      },
+      {
+        "name": "SDA",
+        "wave": "1..03.............5.7.4...............9.01.",
+        "data": [
+          "Address [6:0]",
+          "Rd/<o>Wr</o>",
+          "<o>Ack</o>",
+          "Data[7:0]",
+          "<o>Ack</o>"
+        ],
+        "phase": 0.5
+      },
+      {
+        "name": "Sender",
+        "wave": "2.2.................2.2.................2..",
+        "data": ["", "Master", "Slave", "Slave or Master", "Master"],
+        "phase": 0.5
+      },
+      {
+        "name": "Action",
+        "node": "..A.B.............C.D.E...............F.G.H",
+        "phase": 0.5
+      }
+    ],
+    {},
+    [
+      "Examples",
+      {
+        "name": "SDA-Read",
+        "wave": "1..03.3.3.3.3.3.3.1.0.4.4.4.4.4.4.4.4.0.01.",
+        "data": [
+          "A[6]",
+          "A[5]",
+          "A[4]",
+          "A[3]",
+          "A[2]",
+          "A[1]",
+          "A[0]",
+          "D[7]",
+          "D[6]",
+          "D[5]",
+          "D[4]",
+          "D[3]",
+          "D[2]",
+          "D[1]",
+          "D[0]"
+        ],
+        "phase": 0.5
+      },
+      {
+        "name": "Action",
+        "node": "..I.J.............K.L.M...............N.O.P",
+        "phase": 0.5
+      },
+      {
+        "name": "SDA-Write",
+        "wave": "1..03.3.3.3.3.3.3.0.0.4.4.4.4.4.4.4.4.0.01.",
+        "data": [
+          "A[6]",
+          "A[5]",
+          "A[4]",
+          "A[3]",
+          "A[2]",
+          "A[1]",
+          "A[0]",
+          "D[7]",
+          "D[6]",
+          "D[5]",
+          "D[4]",
+          "D[3]",
+          "D[2]",
+          "D[1]",
+          "D[0]"
+        ],
+        "phase": 0.5
+      },
+      {
+        "name": "Action",
+        "node": "..Q.R.............S.T.U...............V.W.X",
+        "phase": 0.5
+      }
+    ]
+  ],
+  "edge": [
+    "A+B Start",
+    "B+C Indicating which slave address",
+    "C+D ReadnWrite",
+    "D+E <o>Ack</o>",
+    "E+F Data from Master to Slave or from Slave to Master",
+    "F+G <o>Ack</o>",
+    "G+H Stop",
+    "I+J Start",
+    "J+K Slave address",
+    "K+L Read",
+    "L+M Ack",
+    "M+N Data from Slave to Master",
+    "N+O Ack",
+    "O+P Stop",
+    "Q+R Start",
+    "R+S Slave address",
+    "S+T Write",
+    "T+U Ack",
+    "U+V Data from Master to Slave",
+    "V+W Ack",
+    "W+X Stop"
+  ]
+}

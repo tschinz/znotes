@@ -488,6 +488,12 @@ nav:
       - SDR: computerscience/sdr/index.md
   - Hardware:
       - hw/index.md
+      - Communication:
+          - hw/communication/index.md
+          - I2C: hw/communication/i2c/index.md
+          - SPI: hw/communication/spi/index.md
+          - UART: hw/communication/uart/index.md
+          - Modbus: hw/communication/modbus/index.md
       - RTL-SDR:
           - hw/rtl-sdr/index.md
       - ESP32-C3:
