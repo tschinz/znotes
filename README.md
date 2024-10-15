@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-This is the static sphinx documentation for myself
+This is the static mkdocs documentation for myself
 
 ![Github Pages Deploy](https://github.com/tschinz/znotes/actions/workflows/action-mkdocs.yml/badge.svg)
 
