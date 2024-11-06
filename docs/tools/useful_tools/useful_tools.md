@@ -18,6 +18,7 @@ Quick unfinished List of useful tools
 - [Graphviz](https://graphviz.org/)
 - [Wavedrom Page](../../multimedia/pictures/wavedrom.md) and [Official Wavedrom](https://wavedrom.com/)
 - [Latex Page](../../multimedia/writing/latex/index.md)
+- [Typst]
 
 ## Internet
 
@@ -26,6 +27,7 @@ Quick unfinished List of useful tools
 
 ## Commandline
 
+- [Warp](https://warp.dev/)
 - [Yakuake](http://yakuake.kde.org/)
 - [Total Terminal](http://totalterminal.binaryage.com/)
 - [Cmder](https://cmder.net/)

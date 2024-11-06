@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="156.36501mm"
+   height="65.732475mm"
+   viewBox="0 0 156.36501 65.732474"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="array (Copy).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="248.88498"
+     inkscape:cy="217.35394"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid182"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       originx="-24.317502"
+       originy="-14.950038" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="2.5795238"
+       y="-53.19054"
+       width="699.21259"
+       height="94.48819"
+       id="rect631" />
+    <rect
+       x="75.590553"
+       y="132.28346"
+       width="94.48819"
+       height="94.48819"
+       id="rect582" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="5.5999999"
+       markerHeight="4"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.317498,-14.950044)">
+    <g
+       id="g455"
+       transform="translate(-0.11001724,0.49225235)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect236"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text292"><tspan
+           sodipodi:role="line"
+           id="tspan290"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">key_1</tspan></text>
+    </g>
+    <g
+       id="g463"
+       transform="translate(19.889984,0.49225235)">
+      <rect
+         style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect457"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text461"><tspan
+           sodipodi:role="line"
+           id="tspan459"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">A</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text580"
+       style="font-weight:500;font-size:11.7451px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect582);display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:9.73956px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.66406"
+       x="104.79431"
+       y="22.303411"
+       id="text292-8"><tspan
+         sodipodi:role="line"
+         id="tspan290-2"
+         style="font-size:9.73956px;stroke-width:0.66406"
+         x="104.79431"
+         y="22.303411">Hashtable</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,24.3175,14.073335)"
+       id="text629"
+       style="font-size:21.3333px;line-height:1.3;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect631);display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+       x="34.822277"
+       y="37.205944"
+       id="text292-2"><tspan
+         sodipodi:role="line"
+         id="tspan290-3"
+         style="font-size:5.64179px;stroke-width:0.384667"
+         x="34.822277"
+         y="37.205944">keys</tspan></text>
+    <g
+       id="g706"
+       transform="translate(-0.11001687,10.492257)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect700"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text704"><tspan
+           sodipodi:role="line"
+           id="tspan702"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">key_2</tspan></text>
+    </g>
+    <g
+       id="g714"
+       transform="translate(19.889983,10.492257)">
+      <rect
+         style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect708"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text712"><tspan
+           sodipodi:role="line"
+           id="tspan710"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">B</tspan></text>
+    </g>
+    <g
+       id="g724"
+       transform="translate(-0.11001687,20.492257)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect718"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text722"><tspan
+           sodipodi:role="line"
+           id="tspan720"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">key_3</tspan></text>
+    </g>
+    <g
+       id="g732"
+       transform="translate(19.889983,20.492257)">
+      <rect
+         style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect726"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text730"><tspan
+           sodipodi:role="line"
+           id="tspan728"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">C</tspan></text>
+    </g>
+    <g
+       id="g742"
+       transform="translate(-0.11001787,30.492262)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect736"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text740"><tspan
+           sodipodi:role="line"
+           id="tspan738"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">key_4</tspan></text>
+    </g>
+    <g
+       id="g750"
+       transform="translate(19.889982,30.492262)">
+      <rect
+         style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+         id="rect744"
+         width="20"
+         height="10"
+         x="25.110016"
+         y="39.507748" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+         x="35"
+         y="46"
+         id="text748"><tspan
+           sodipodi:role="line"
+           id="tspan746"
+           style="font-size:5.64179px;stroke-width:0.384667"
+           x="35"
+           y="46">D</tspan></text>
+    </g>
+    <g
+       id="g1191"
+       transform="translate(-2.998281e-6,70.00001)">
+      <g
+         id="g1189"
+         transform="translate(19.889984,0.49225235)" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 64.999994,44.000006 70.000006,10"
+       id="path2603"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+       x="149.82228"
+       y="37.205952"
+       id="text292-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan290-3-5"
+         style="font-size:5.64179px;stroke-width:0.384667"
+         x="149.82228"
+         y="37.205952">index</tspan></text>
+    <g
+       id="g11239">
+      <g
+         id="g785"
+         transform="translate(115)">
+        <g
+           id="g455-8"
+           transform="translate(-0.11001724,0.49225235)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect236-3"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text292-7"><tspan
+               sodipodi:role="line"
+               id="tspan290-1"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">0</tspan></text>
+        </g>
+        <g
+           id="g463-2"
+           transform="translate(19.889984,0.49225235)">
+          <rect
+             style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect457-6"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text461-1"><tspan
+               sodipodi:role="line"
+               id="tspan459-7"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g716"
+         transform="translate(115,10.000006)">
+        <g
+           id="g706-0"
+           transform="translate(-0.11001587,0.49225235)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect700-4"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text704-5"><tspan
+               sodipodi:role="line"
+               id="tspan702-1"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">1</tspan></text>
+        </g>
+        <g
+           id="g714-2"
+           transform="translate(19.889984,0.49225235)">
+          <rect
+             style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect708-3"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text712-7"><tspan
+               sodipodi:role="line"
+               id="tspan710-2"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">B</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g734"
+         transform="translate(115,20.000011)">
+        <g
+           id="g724-4"
+           transform="translate(-0.11001587,0.49225235)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect718-1"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text722-8"><tspan
+               sodipodi:role="line"
+               id="tspan720-2"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">2</tspan></text>
+        </g>
+        <g
+           id="g732-6"
+           transform="translate(19.889984,0.49225235)">
+          <rect
+             style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect726-0"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text730-3"><tspan
+               sodipodi:role="line"
+               id="tspan728-9"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">C</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g752"
+         transform="translate(115,30.000016)">
+        <g
+           id="g742-4"
+           transform="translate(-0.11001587,0.49225235)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect736-9"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text740-6"><tspan
+               sodipodi:role="line"
+               id="tspan738-5"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">3</tspan></text>
+        </g>
+        <g
+           id="g750-1"
+           transform="translate(19.889984,0.49225235)">
+          <rect
+             style="fill:#5f8dd3;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round"
+             id="rect744-3"
+             width="20"
+             height="10"
+             x="25.110016"
+             y="39.507748" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+             x="35"
+             y="46"
+             id="text748-2"><tspan
+               sodipodi:role="line"
+               id="tspan746-6"
+               style="font-size:5.64179px;stroke-width:0.384667"
+               x="35"
+               y="46">D</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 64.999997,55.000006 70.000003,19"
+       id="path11297"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="M 64.999997,65.000006 H 135"
+       id="path11299"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="M 64.999997,75.000006 135,47.000006"
+       id="path11301"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g10804"
+       transform="translate(74.889981,15.49226)">
+      <g
+         id="g10812"
+         transform="translate(-9.9999999,-9.9999997)">
+        <rect
+           style="fill:#5f8dd3;fill-opacity:0.5;stroke:#000000;stroke-width:1.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4.095, 4.095;stroke-dashoffset:0;stroke-opacity:0.502451"
+           id="rect10798"
+           width="30"
+           height="30"
+           x="25.110016"
+           y="39.507748"
+           ry="15" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:5.64179px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:0.384667"
+           x="40.084625"
+           y="53.06345"
+           id="text10802"><tspan
+             sodipodi:role="line"
+             id="tspan10800"
+             style="font-size:5.64179px;stroke-width:0.384667"
+             x="40.084625"
+             y="53.06345">Hash</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:5.64179px;stroke-width:0.384667"
+             x="40.084625"
+             y="60.115688"
+             id="tspan10806">Function</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

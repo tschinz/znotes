@@ -8,7 +8,128 @@ tags:
 
 List of common and idiomatic design patterns in Rust. These patterns could be found in mutliple books and articles and also in the [Unofficial Rust Book](https://rust-unofficial.github.io/patterns/)
 
+## Structures
+In every project there are two main files `main.rs` and `lib.rs`. For a binary project, the `main.rs` file is the entry point of the program. For a library project, the `lib.rs` file is the entry point of the library. If there are multiple source files in the project there are different ways to intregrate them into your project.
+
+### For a binary crate
+
+file structure:
+- `src/`
+    - `main.rs`
+    - `config.rs`
+    - `helpers.rs`
+
+```rust title="main.rs"
+mod config;
+mod helpers;
+
+fn main() {
+    config::read_config();
+}
+```
+
+```rust title="config.rs"
+crate::helpers::do_something();
+
+pub fn read_config() {
+    do_something();
+    println!("Reading config");
+}
+```
+
+```rust title="helpers.rs"
+pub fn do_something() {
+    println!("Doing something");
+}
+```
+
+### For a library crate
+including a `main.rs`
+
+file structure:
+- `rust_lib/src/`
+    - `main.rs`
+    - `lib.rs`
+    - `config.rs`
+    - `helpers.rs`
+
+```rust title="lib.rs"
+pub mod config;
+pub mod helpers;
+```
+
+```rust title="main.rs"
+user rust_lib::config;
+
+fn main() {
+    config::read_config();
+}
+```
+
+```rust title="config.rs"
+crate::helpers::do_something();
+
+pub fn read_config() {
+    do_something();
+    println!("Reading config");
+}
+```
+
+```rust title="helpers.rs"
+pub fn do_something() {
+    println!("Doing something");
+}
+```
+
 ## Idioms
+
+### Safely Unwrap `Option` and `Result`
+
+Use `unwrap_or` to provide a default value when unwrapping an `Option` or `Result`.
+
+```rust
+let x = Some("value");
+let y = x.unwrap_or("default");
+assert_eq!(y, "value");
+
+let x = None;
+let y = x.unwrap_or("default");
+assert_eq!(y, "default");
+```
+
+### Use `if let` to Unwrap `Option` and `Result`
+
+Use `if let` to unwrap an `Option` or `Result` and execute code if the value is `Some` or `Ok`.
+
+```rust
+let x = Some("value");
+if let Some(value) = x {
+    assert_eq!(value, "value");
+}
+
+let x = None;
+if let Some(value) = x {
+    assert_eq!(value, "value");
+}
+```
+
+### Use `match` to Unwrap `Option` and `Result`
+
+Use `match` to unwrap an `Option` or `Result` and execute code based on the value.
+
+```rust
+let x = Some("value");
+match x {
+    Some(value) => assert_eq!(value, "value"),
+    None => panic!("Expected Some"),
+}
+
+let x = None;
+match x {
+    Some(value) => assert_eq!(value, "value"),
+    None => assert!(true),
+}
+```
 
 ### Borrowed Types for Arguments
 

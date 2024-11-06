@@ -184,7 +184,8 @@ nav:
       - About: about/index.md
   - Coding:
       - coding/index.md
-      - General: coding/general/index.md
+      - General:
+          - coding/general/index.md
       - Licenses:
           - coding/licenses/index.md
           - All Rights Reserved: coding/licenses/all_rights_reserved.md
@@ -466,8 +467,10 @@ nav:
           - Statistics: computerscience/datascience/statistic.md
       - Algorithms:
           - computerscience/algorithms/index.md
-          - Types: computerscience/algorithms/types.md
+          - Types of Algorithms: computerscience/algorithms/types.md
           - Big O Notation: computerscience/algorithms/bigO.md
+          - Memory Types: computerscience/algorithms/memory-types.md
+          - Sorting: computerscience/algorithms/sorting.md
           - Days of Algo:
               - computerscience/algorithms/daysofalgo/index.md
               - computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb
