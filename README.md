@@ -10,12 +10,16 @@ This is the static mkdocs documentation for myself
 
 ![Github Pages Deploy](https://github.com/tschinz/znotes/actions/workflows/action-mkdocs.yml/badge.svg)
 
-# How to use the MKCods Materials Documentation Platform
+# How to use the MKDocs Materials Documentation Platform
 ## MKDocs Materials Requirements
 
 * just
     ``` bash
-    sudo apt-get install build-essential
+    cargo install just
+    conda install -c conda-forge just
+    brew install just
+    npm install -g rust-just
+    pipx install rust-just
     ```
 * Python 3
    * [Python](https://www.python.org/downloads/)
@@ -24,12 +28,6 @@ This is the static mkdocs documentation for myself
   ``` bash
   just venv-create
   ```
-* Inkscape (for `.svg` to `.pdf` and to `.png` conversion)
-   * Windows - [Inkscape](https://inkscape.org/release/)
-   * Linux
-     ``` bash
-     sudo apt-get install inkscape
-     ```
 
 ## Just file recipes
 
@@ -62,21 +60,5 @@ just serve
 
 all the outputs will be in `site` folder. Open the webpage[http://127.0.0.1:8000/tschinz/znotes/](http://127.0.0.1:8000/tschinz/znotes/)
 
-
-## With devcontainers
-
-* Start VS Code in project folder.
-  ```bash
-  code .
-  ```
-* Start Docker and open folder in devcontainers
-  ![open in devcontainers](./docs/img/start_in_devcontainers.png)
-
-## Deploy on github
-
-```bash
-just gh-deploy
-```
-
 ## Continuous Integration (CI)
-The CI is done with Github Actions with the file [action-sphinx.yml](./.github/workflows/action-mkdocs.yml) will run on each master commit and create a `site/` folder which will be pushed onto the branch `gh-pages` and consequently be used by github to displayed static html pages.
+The CI is done with Github Actions with the file [action-mkdocs.yml](./.github/workflows/action-mkdocs.yml) will run on each master commit and create a `site/` folder which will be pushed onto the branch `gh-pages` and consequently be used by github to displayed static html pages.

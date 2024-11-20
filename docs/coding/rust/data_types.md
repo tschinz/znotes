@@ -70,7 +70,7 @@ let heart_eyed_cat = '😻'; // utf-8 support
 ## Compound Types
 ### Type Tuple
 
-Grouping together different values of differnt types.
+Grouping together different values of different types.
 
 ``` rust
 // create a tuple
@@ -94,15 +94,15 @@ Arrays are fixed size and live in the stack
 Declaring arrays
 
 ``` rust
-# declare an array
+// declare an array
 let arr = [1, 2, 3, 4, 5];
 let arr = ["Monday", "Thuesday", "Wednesday", "Thursday", "Friday"];
 
-# declare an array with its type
+// declare an array with its type
 les arr : [<type>;<nbrElements>] = [1, 2, 3, 4, 5];
 les arr : [i32;5] = [1, 2, 3, 4, 5];
 
-# initialise array with same values
+// initialise array with same values
 let arr = [<initvalue>; <nbrElements>]
 let arr = [3; 5];  // equal to let arr = [3, 3, 3, 3, 3];
 ```
@@ -110,19 +110,19 @@ let arr = [3; 5];  // equal to let arr = [3, 3, 3, 3, 3];
 Accessing arrays
 
 ``` rust
-# unmutable array
+// unmutable array
 let arr = [1, 2, 3, 4, 5];
-let first = arr[0];          // 1
-let second = arr[1];         // 2
+let first = arr[0];            // 1
+let second = arr[1];           // 2
 let last = arr[arr.len(-1)];   // 5
 
-let slice = &arr[1..4]   // [2, 3, 4]
-let slice = &arr[1..=4]  // [2, 3, 4, 5]
+let slice = &arr[1..4]         // [2, 3, 4]
+let slice = &arr[1..=4]        // [2, 3, 4, 5]
 
-# mutable array
+// mutable array
 let mut arr = [1, 2, 3, 4, 5];
-let slice = &mut arr[1..4]   // [2 ,3 ,4]
-slice[0] = 6                 // [6, 3, 4]
+let slice = &mut arr[1..4]     // [2 ,3 ,4]
+slice[0] = 6                   // [6, 3, 4]
 ```
 
 Array functions

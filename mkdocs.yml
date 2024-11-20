@@ -112,6 +112,7 @@ plugins:
   - rss:
       enabled: !ENV [CI, false]
       match_path: blog/posts/.*
+      #match_path: ".*"
       date_from_meta:
         as_creation: date
       categories:
@@ -126,8 +127,10 @@ plugins:
       execute: false
       include_requirejs: true
       include: ["*.ipynb"] # Default: ["*.py", "*.ipynb"]
-      #ignore: ["*.ipynb"] # ignore all for test case
-  #- markdownwavedrom
+      ignore: ["*.ipynb"] # ignore all for test case
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
+  #- markdownwavedrom # very slow loading and doesn't work
 
 markdown_extensions:
   - admonition # admonition boxes
@@ -160,13 +163,15 @@ markdown_extensions:
   - pymdownx.arithmatex: # mathjax
       generic: true
   - abbr # tooltips
-  #- plantuml_markdown
 
 extra_javascript:
+  #- _extra/js/wavedrom.unpkg.js # wavedrom
+  #- _extra/js/skin-default.js # wavedrom skin
+  #- _extra/js/tex-mml-chtml.js # mathjax
+  #- _extra/js/polyfill.min.js # polyfill for mathjax
+  # from the internet
   - https://polyfill.io/v3/polyfill.min.js?features=es6 # polyfill for mathjax
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # mathjax
-  #- _extra/js/wavedrom.unpkg.js
-  #- _extra/js/skin-default.js
   - https://cdn.jsdelivr.net/npm/wavedrom@2.1.2/wavedrom.unpkg.js
   - https://wavedrom.com/skins/default.js
 extra_css:
@@ -196,25 +201,25 @@ nav:
           - Install: coding/rust/install.md
           - Toolchain: coding/rust/toolchain.md
           - Basic: coding/rust/basic.md
+          - rustfmt: coding/rust/rustfmt.md
+          - Workspaces: coding/rust/workspaces.md
+          - Package: coding/rust/package.md
+          - Modules: coding/rust/modules.md
+          - Testing: coding/rust/testing.md
           - Concepts: coding/rust/concepts.md
-          - Design Patterns: coding/rust/design_patterns.md
-          - Data-Types: coding/rust/data_types.md
+          - Memory Regions: coding/rust/memory_regions.md
           - Naming Conventions: coding/rust/naming-convention.md
+          - RustDoc: coding/rust/rustdoc.md
+          - Data-Types: coding/rust/data_types.md
           - Syntax: coding/rust/syntax.md
+          - Iterators: coding/rust/iterators.md
           - Traits: coding/rust/traits.md
           - Lifetimes: coding/rust/lifetimes.md
           - Generics: coding/rust/generics.md
-          - Iterators: coding/rust/iterators.md
-          - Testing: coding/rust/testing.md
-          - Libraries: coding/rust/libraries.md
-          - Package: coding/rust/package.md
           - Error Handling: coding/rust/error_handling.md
-          - Memory Regions: coding/rust/memory_regions.md
-          - Modules: coding/rust/modules.md
-          - Workspaces: coding/rust/workspaces.md
-          - RustDoc: coding/rust/rustdoc.md
+          - Design Patterns: coding/rust/design_patterns.md
           - Rust2Python: coding/rust/rust2python.md
-          - rustfmt: coding/rust/rustfmt.md
+          - Libraries: coding/rust/libraries.md
       - Rust-embedded:
           - coding/rust-embedded/index.md
           - Install: coding/rust-embedded/install.md

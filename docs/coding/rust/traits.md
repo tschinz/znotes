@@ -229,3 +229,93 @@ fn main() {
   println!("CustomSmartPointers created.");
 }
 ```
+
+## Conversion Traits
+
+Rust provides several traits for type conversions, allowing you to convert between types in a clean, idiomatic way. These include `From`, `Into`, `TryFrom`, `TryInto`, `AsRef`, and `AsMut`. Here's an overview:
+
+### `From` and `Into`
+
+#### `From`
+The `From` trait is used for infallible conversions between types. If you implement `From<T>` for a type `U`, you can create a `U` from a `T`.
+
+```rust
+impl From<i32> for String {
+    fn from(num: i32) -> Self {
+        num.to_string()
+    }
+}
+
+let num = 42;
+let num_string: String = String::from(num); // Converts i32 to String
+```
+
+### `TryFrom` and `TryInto`
+
+#### `TryFrom`
+The `TryFrom` trait is used for fallible conversions, where the conversion might fail and return an error. It returns a `Result.
+
+```rust
+use std::convert::TryFrom;
+
+impl TryFrom<&str> for i32 {
+    type Error = std::num::ParseIntError;
+
+    fn try_from(value: &str) -> Result<Self, Self::Error> {
+        value.parse::<i32>()
+    }
+}
+
+let parsed: Result<i32, _> = i32::try_from("42"); // Ok(42)
+let invalid: Result<i32, _> = i32::try_from("abc"); // Err(ParseIntError)
+```
+
+#### `TryInto`
+
+The `TryInto` trait is the reciprocal of `TryFrom`. If you implement `TryFrom<T>` for a type `U`, `TryInto<U>` is automatically implemented for `T`.
+
+```rust
+let parsed: Result<i32, _> = "42".try_into(); // Ok(42)
+let invalid: Result<i32, _> = "abc".try_into(); // Err(ParseIntError)
+```
+
+### `AsRef` and `AsMut`
+
+#### `AsRef`
+The `AsRef` trait is used for creating immutable references of one type from another. It’s primarily used for borrowing and works with types like `String`, `Vec<T>`, etc.
+
+```rust
+impl AsRef<str> for String {
+    fn as_ref(&self) -> &str {
+        self
+    }
+}
+
+let my_string = String::from("hello");
+let my_str: &str = my_string.as_ref(); // Borrow a &str from a String
+```
+
+#### `AsMut`
+The `AsMut` trait is similar to `AsRef`, but it creates mutable references.
+
+```rust
+impl AsMut<str> for String {
+    fn as_mut(&mut self) -> &mut str {
+        self
+    }
+}
+
+let mut my_string = String::from("hello");
+let my_str: &mut str = my_string.as_mut(); // Borrow a &mut str from a String
+```
+
+### Summary Table
+
+| Trait   | Direction  | Use Case |
+|---------|------------|----------|
+| `From`  | T -> U     | Infallible conversion from T to U |
+| `Into`  | T -> U     | Reciprocal of `From` |
+| `TryFrom` | T -> U   | Fallible conversion from T to U |
+| `TryInto` | T -> U   | Reciprocal of `TryFrom` |
+| `AsRef` | T -> &U    | Borrow an immutable reference to U from T |
+| `AsMut` | T -> &mut U | Borrow a mutable reference to U from T |

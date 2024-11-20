@@ -10,7 +10,7 @@ Nice to know functions and libraries in Rust.
 
 ## `std::env`
 
-### Get current directory and executable location
+### Get current directory and executable location
 
 ```rust
 use std::env;

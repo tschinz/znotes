@@ -18,35 +18,33 @@ type        ::=  "b" | "c" | "d" | "e" | "E" | "f" | "F" | "g" | "G" | "n" | "o"
 
 ```
 "{" [field_name] ["!" conversion] [":" format_spec] "}"
-   /                  "r"|"s"                   \
-  /               (r)epr   (s)tr                 \
-arg_name                                                 \
-| ("." attribute_name | "[" element_index "]")*           \
-|        |                       |                         \
-|     identifier         integer | index_string            |
-|                                   (quotes                |
-[identifier                          not required)         |
-|integer]                                                 |
-                                                    |
-_________________________________________________________/ \________
-/                                                                    \
-":"
-  [[fill]align][sign][#][0][width][,][.precision][type]
-[default]--> < left    +   |  |  (int)       (int)    b base 2
-[default --> > right  [-]  |  |                       c character
-for         ^ center " "  |  \                       d base 10
-numbers]    =             |   `zero padding          e exponent (e)
-                      |                          E exponent (E)
-                     use 0b,0o,0x                f fixed point
-                      for 2  8 16                F ^^(same)^^
-b base 2     c character                 [default]--> g general (???)
-o base 8     s string                                 G general 2 (?)
-d base 10                                             n number (general 3)
-x base 16                                             o base 8
-X base 16                                             s string
-e, E    exponent                         (lower case) x base 16
-f, F, % fixed point                      (upper case) X base 16
-g, G, n (general numbers)                   (x100, f) % percentage
+   /                  "r"|"s"                     \
+  /                   (r)epr                       \
+arg_name              (s)tr                         \
+| ("." attribute_name | "[" element_index "]")*      \
+|        |                       |                    \
+|     identifier         integer | index_string        |
+|                                   (quotes            |
+[identifier integer]                 not required)     |
+                                                       |
+ _____________________________________________________/ \________
+/                                                                \
+    ":" [[fill]align][sign][#][0][width][,][.precision][type]
+ [default]--> < left    +   |  |  (int)       (int)      b base 2
+ [default --> > right  [-]  |  |                         c character
+ for         ^ center " "   |  \                         d base 10
+ numbers]    =              |   `zero padding            e exponent (e)
+                            |                            E exponent (E)
+                           use 0b,0o,0x                  f fixed point
+                            for 2  8 16                  F ^^(same)^^
+                                            [default]--> g general (???)
+                                                         G general 2 (?)
+                                                         n number (general 3)
+                                                         o base 8
+                                                         s string
+                                            (lower case) x base 16
+                                            (upper case) X base 16
+                                               (x100, f) % percentage
 ```
 
 ``` python

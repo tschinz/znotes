@@ -164,7 +164,7 @@ fn main() {
 ## HashTable or Hashmap
 A hash table is a data structure that stores key-value pairs, also called an *unordered* collection. It uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found. The hash function maps keys to indices in the array, allowing for efficient lookup, insertion, and deletion of key-value pairs. A good hash function is essential for hash table performance.
 
-![](img/memory-types/hashmap.svg){.center width=40%}
+![](img/memory-types/hashtable.svg){.center width=80%}
 
 ### Operations
 - **Insertion** – Insertion is efficient because it only requires computing the hash value and inserting the key-value pair into the correct bucket.

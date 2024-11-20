@@ -5,146 +5,193 @@ tags:
 - error handling
 ---
 # Error Handling
-## `panic!()` macro
 
-The panic marco allows to quit the program and give an error message
+Rust provides robust mechanisms for handling errors through enums like `Result` and `Option`, emphasizing safety and clarity.
 
-``` rust
+---
+
+## `panic!()` Macro
+
+The `panic!()` macro immediately terminates the program and outputs an error message. Use it sparingly, only in unrecoverable scenarios or during prototyping.
+
+```rust
 panic!("crash and burn");
 ```
 
-With the environment variable set `RUST_BACKTRACE=1` a backtrace can be displayed upon exiting.
+### Debugging with Backtrace
 
-## `Result` enum
+Set the environment variable `RUST_BACKTRACE=1` to display a backtrace when a `panic!` occurs.
 
-Like the `Option` enum the `Result` enum contains two variants, no error `Ok()` or an error `Err(E)`.
+## Result Enum
 
-``` rust
+The Result enum is used for functions that can succeed or fail. It has two variants:
+- `Ok(T)` — success, containing a value.
+- `Err(E)` — error, containing an error value.
+
+
+```rust
 enum Result<T, E> {
-  Ok(T),
-  Err(E),
+    Ok(T),
+    Err(E),
 }
 ```
 
-Example with `match`
+### Handling Result with match
 
-``` rust
+Use match to explicitly handle both `Ok` and `Err`.
+
+```rust
 use std::fs::File;
-use std::io:ErrorKind;
+use std::io::ErrorKind;
 
 fn main() {
-  let f = File::open("hello.txt");
+    let f = File::open("hello.txt");
 
-  let f = match f {
-    Ok(file) => file,
-    Err(error) => match error.kind() {
-      ErrorKind::NotFound => match File::create("hello.txt") {
-        Ok(fc) => fc,
-        Err(e) => panic!("Problem creating the file: {:?}", e),
-      },
-      other_error => {
-        panic!("Problem opening the file {:?}", other_error)
-      }
-    }
-  };
-}
-```
-
-``` rust
-use std::fs::File;
-
-fn main() {
-  let f = File::open("hello.txt").unwrap("Failed to open hello.txt");
+    let f = match f {
+        Ok(file) => file,
+        Err(error) => match error.kind() {
+            ErrorKind::NotFound => match File::create("hello.txt") {
+                Ok(fc) => fc,
+                Err(e) => panic!("Problem creating the file: {:?}", e),
+            },
+            other_error => panic!("Problem opening the file: {:?}", other_error),
+        },
+    };
 }
 ```
 
 ## Error Propagation
 
-``` rust
+Error propagation allows errors to bubble up to the caller. You can manually propagate errors using match:
+
+```rust
 use std::fs::File;
-use std::io;
-use std::io::Read;
+use std::io::{self, Read};
 
-fn read_username_from_file() -> Result<String, io:Error> {
-  let f = File::open("hello.txt");
+fn read_username_from_file() -> Result<String, io::Error> {
+    let f = File::open("hello.txt");
 
-  let mut f = match f {
-    Ok(file) => file,
-    Err(e) => return Err(e),
-  };
+    let mut f = match f {
+        Ok(file) => file,
+        Err(e) => return Err(e),
+    };
 
-  let mut s = String::new();
+    let mut s = String::new();
 
-  match f.read_to_string(&mus s) {
-    Ok(_) => Ok(s),
-    Err(e) => Err(e),
-  }
+    match f.read_to_string(&mut s) {
+        Ok(_) => Ok(s),
+        Err(e) => Err(e),
+    }
 }
 ```
 
-## `?` operator
+## The `?` Operator
 
-optimized with `?`. The questionmark allows to end the function early and end the error if unsuccessful otherwise continue.
+The `?` operator simplifies error propagation by automatically returning errors. It works only in functions that return `Result` or `Option`.
 
-The `?` operator can only be used on function returning an error.
-
-``` rust
+```rust
 use std::fs::File;
-use std::io;
-use std::io::Read;
+use std::io::{self, Read};
 
-fn read_username_from_file() -> Result<String, io:Error> {
-  let mut f = File::open("hello.txt")?;
-  let mut s = String::new();
-  f.read_to_string(&mut s)?;
-  Ok(s)
+fn read_username_from_file() -> Result<String, io::Error> {
+    let mut f = File::open("hello.txt")?;
+    let mut s = String::new();
+    f.read_to_string(&mut s)?;
+    Ok(s)
 }
 ```
 
-optimized with `?` and chained method calls
+### Chaining with ?
 
-``` rust
-use std::fs::File;
-use std::io;
-use std::io::Read;
-
-fn read_username_from_file() -> Result<String, io:Error> {
-  let mut s = String::new();
-  File::open("hello.txt")?.read_to_string(&mut s)?;
-  Ok(s)
+You can further simplify the code by chaining method calls.
+```rust
+fn read_username_from_file() -> Result<String, io::Error> {
+    let mut s = String::new();
+    File::open("hello.txt")?.read_to_string(&mut s)?;
+    Ok(s)
 }
 ```
 
-## `unwrap`
+## `unwrap` and `expect`
 
-``` rust
-// returns inner value of an Option Some, otherwise if panics if its None
-Option::unwrap()
+These methods are convenient but should be used sparingly, as they cause the program to panic on errors.
 
-// returns inner value of an Result Ok, otherwise if panics if its Err
-Result::unwrap()
+### Examples
+```rust
+// Returns the inner value if Some, panics if None
+Option::unwrap();
 
-// returns inner value of an Result Err, otherwise if panics if its Ok
-Result::unwrap_err()
+// Returns the inner value if Ok, panics if Err
+Result::unwrap();
 
-//returns the inner value of an Option if its Some, or returns a default value if its None
-Option::unwrap_or()
+// Returns the inner value if Some, or a default if None
+Option::unwrap_or(default);
 
-//returns the inner value of an Result if its Ok, or returns a default value if its Err
-Result::unwrap_or()
+// Returns the inner value if Ok, or a default if Err
+Result::unwrap_or(default);
 
-//returns the inner value of an Result if its Ok, or returns the result of a closure if its Err
-Result::unwrap_or_else()
+// Returns the inner value if Ok, or computes a value from a closure if Err
+Result::unwrap_or_else(|err| handle_err(err));
 
-.unwrap_none()    //
+// Returns the inner value if Some, panics with a custom error message if None
+Option::expect("Custom panic message");
 
-// return the inner value of an Option if its Some, or panics if its None
-Option::expect()
-
-// return the inner value of an Result if its Some, or panics if its None
-Result::expect()
+// Returns the inner value if Ok, panics with a custom error message if Err
+Result::expect("Custom panic message");
 ```
 
-## `eprint()`
+### Best Practice
 
-print error message directly to the standard error `io::stderr` instead of `io::stdout`
+Avoid using `unwrap` and `expect` in production code. Prefer safer alternatives like `unwrap_or`, `unwrap_or_else`, or proper error handling with `match`.
+
+## Conversion Between Result and Option
+
+### `ok() (Result → Option)`
+
+Converts a `Result<T, E>` into an `Option<T>`, discarding the error.
+
+```rust
+let opt: Option<i32> = Result::Ok(10).ok(); // Some(10)
+```
+
+### `ok_or(err) (Option → Result)`
+
+Converts an `Option<T>` into a `Result<T, E>`, using a provided error.
+
+```rust
+let res: Result<i32, &str> = Some(10).ok_or("Missing value"); // Ok(10)
+```
+
+### Transforming Errors with `map_err`
+
+The `map_err` method transforms the error `(E)` in a `Result` into another type while retaining the `Err` variant.
+
+Using `match`
+
+```rust
+let res: Result<i32, &str> = Ok(10);
+
+match res {
+    Ok(val) => println!("Value: {}", val),
+    Err(e) => println!("Error: {}", e),
+}
+```
+
+Using `if let`
+
+```rust
+let res: Result<i32, &str> = Ok(10);
+
+if let Ok(val) = res {
+    println!("Value: {}", val);
+}
+```
+
+## Printing Errors with eprint!
+
+Use `eprint!` or `eprintln!` to print error messages directly to standard error (stderr).
+
+```rust
+eprint!("An error occurred: {}", error);
+eprintln!("An error occurred: {}", error);
+```

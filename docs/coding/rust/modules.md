@@ -9,17 +9,16 @@ tags:
 Split code in logical units and manage visibility (public/private) between them. Modules can contain, constants, structs, enums functions and other modules. A crate is also a modules which is created by default.
 
 ## Module tree
-
 ```
 crate
-+-- front_of_house
-    +-- hosting
-    |   +-- add_to_whaitlist
-    |   +-- seat_at_table
-    +-- serving
-        +-- take_order
-        +-- serve_order
-        +-- take_payment
+└── front_of_house
+    ├── hosting
+    │   ├── add_to_whaitlist
+    │   └── seat_at_table
+    └── serving
+        ├── take_order
+        ├── serve_order
+        └── take_payment
 ```
 
 ## Module Paths

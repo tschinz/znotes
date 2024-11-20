@@ -203,7 +203,7 @@ opt-level = 3  # default
 # ...
 ```
 
-## Publishing Crate at cratess.io
+## Publishing Crate at crates.io
 
 Unter [crates.io](https://crates.io) generate a accesstoken for your
 device and enter it via the command line
