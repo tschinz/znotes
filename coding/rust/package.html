@@ -15,10 +15,10 @@
         <link rel="canonical" href="https://github.com/tschinz/znotes/coding/rust/package.html">
       
       
-        <link rel="prev" href="libraries.html">
+        <link rel="prev" href="workspaces.html">
       
       
-        <link rel="next" href="error_handling.html">
+        <link rel="next" href="modules.html">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
@@ -58,6 +58,10 @@
     
     
       <link rel="stylesheet" href="../../_extra/css/extra.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/puml.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/interaction.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1217,6 +1221,223 @@
   
   
     <li class="md-nav__item">
+      <a href="rustfmt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    rustfmt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="workspaces.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Workspaces
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Package
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="package.html" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Package
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#crates" class="md-nav__link">
+    <span class="md-ellipsis">
+      Crates
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Crates">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#binary-crate" class="md-nav__link">
+    <span class="md-ellipsis">
+      Binary crate
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Binary crate">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#library-crate" class="md-nav__link">
+    <span class="md-ellipsis">
+      Library crate
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Library crate">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#structure_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rules
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="modules.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="testing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="concepts.html" class="md-nav__link">
         
   
@@ -1238,32 +1459,11 @@
   
   
     <li class="md-nav__item">
-      <a href="design_patterns.html" class="md-nav__link">
+      <a href="memory_regions.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Design Patterns
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="data_types.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Data-Types
+    Memory Regions
   </span>
   
 
@@ -1301,11 +1501,74 @@
   
   
     <li class="md-nav__item">
+      <a href="rustdoc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RustDoc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="data_types.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data-Types
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="syntax.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Syntax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="iterators.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iterators
   </span>
   
 
@@ -1385,172 +1648,6 @@
   
   
     <li class="md-nav__item">
-      <a href="iterators.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Iterators
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="testing.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Testing
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="libraries.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Libraries
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-    
-  
-  
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Package
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="package.html" class="md-nav__link md-nav__link--active">
-        
-  
-  <span class="md-ellipsis">
-    Package
-  </span>
-  
-
-      </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#crates" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crates
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Crates">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#binary-crate" class="md-nav__link">
-    <span class="md-ellipsis">
-      Binary crate
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#library-crate" class="md-nav__link">
-    <span class="md-ellipsis">
-      Library crate
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rules" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rules
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="error_handling.html" class="md-nav__link">
         
   
@@ -1572,74 +1669,11 @@
   
   
     <li class="md-nav__item">
-      <a href="memory_regions.html" class="md-nav__link">
+      <a href="design_patterns.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Memory Regions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="modules.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Modules
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="workspaces.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Workspaces
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="rustdoc.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    RustDoc
+    Design Patterns
   </span>
   
 
@@ -1677,11 +1711,11 @@
   
   
     <li class="md-nav__item">
-      <a href="rustfmt.html" class="md-nav__link">
+      <a href="libraries.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    rustfmt
+    Libraries
   </span>
   
 
@@ -8420,11 +8454,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Hanoi tower
+    None
   </span>
   
 
@@ -8441,11 +8475,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Matrix Chain Multiplication
+    None
   </span>
   
 
@@ -8462,11 +8496,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    All permutations and next permutation
+    None
   </span>
   
 
@@ -8483,11 +8517,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Counting 1 Bits
+    None
   </span>
   
 
@@ -8504,11 +8538,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Prime numbers with Eratosthenes sieve
+    None
   </span>
   
 
@@ -8525,11 +8559,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary addition FSM
+    None
   </span>
   
 
@@ -8546,11 +8580,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary Search
+    None
   </span>
   
 
@@ -8567,11 +8601,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Union-find
+    None
   </span>
   
 
@@ -8588,11 +8622,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Generation (Kruskal's Algorithm)
+    None
   </span>
   
 
@@ -8609,11 +8643,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Lee's Algorithm
+    None
   </span>
   
 
@@ -8630,11 +8664,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Dijkstra's Algorithm
+    None
   </span>
   
 
@@ -8651,11 +8685,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with A* Algorithm
+    None
   </span>
   
 
@@ -8672,11 +8706,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Diffie Hellman (DH) Key Exchange
+    None
   </span>
   
 
@@ -8693,11 +8727,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Enigma Virtual Machine
+    None
   </span>
   
 
@@ -8714,11 +8748,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Sorting Algorithms
+    None
   </span>
   
 
@@ -11501,6 +11535,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Binary crate">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -11509,6 +11558,21 @@
       Library crate
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Library crate">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#structure_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -11574,25 +11638,85 @@
 
 <h1 id="package-structure">Package Structure</h1>
 <ul>
-<li>package - is the projects which happens when performing <code>cargo new</code> command.</li>
+<li>package - is the projects which happens when performing <code>cargo new</code> command.<ul>
 <li>crates - every package contains<ul>
-<li>crate types</li>
-<li>binary crate - code to execute</li>
-<li>library crate - code to be use by others</li>
+<li>crate types<ul>
+<li><em>binary crate</em> - code to execute</li>
+<li><em>library crate</em> - code to be use by others</li>
+</ul>
+</li>
 <li>modules - crates contains modules with privacy rules</li>
 <li>workspaces - for big projects ans allows to store interrelated packages</li>
 </ul>
 </li>
 </ul>
+</li>
+</ul>
 <h2 id="crates">Crates</h2>
+<p>In every project there are two main files <code>main.rs</code> and <code>lib.rs</code>. For a binary project, the <code>main.rs</code> file is the entry point of the program. For a library project, the <code>lib.rs</code> file is the entry point of the library. If there are multiple source files in the project there are different ways to intregrate them into your project.</p>
 <h3 id="binary-crate">Binary crate</h3>
 <p>A project containing <code>main.rs</code> file in the root of the project <code>scr/</code> directory. Cargo creates a binary crate with the binary name the same as the package name defined in <code>Cargo.toml</code>.</p>
 <p>To create more binary crates. Add files with the crate name in a new subfolder <code>src/bin/</code></p>
 <div class="highlight"><pre><span></span><code><span class="n">cargo</span><span class="w"> </span><span class="n">new</span><span class="w"> </span><span class="o">&lt;</span><span class="n">packagename</span><span class="o">&gt;</span>
 </code></pre></div>
+<h4 id="structure">Structure</h4>
+<p>file structure:</p>
+<div class="highlight"><pre><span></span><code>└── src/
+   ├── main.rs
+   ├── config.rs
+   └── helpers.rs
+</code></pre></div>
+<div class="highlight"><span class="filename">main.rs</span><pre><span></span><code><span class="k">mod</span> <span class="nn">config</span><span class="p">;</span>
+<span class="k">mod</span> <span class="nn">helpers</span><span class="p">;</span>
+
+<span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">config</span>::<span class="n">read_config</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
+<div class="highlight"><span class="filename">config.rs</span><pre><span></span><code><span class="k">crate</span>::<span class="n">helpers</span>::<span class="n">do_something</span><span class="p">();</span>
+
+<span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">read_config</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">do_something</span><span class="p">();</span>
+<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Reading config"</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+<div class="highlight"><span class="filename">helpers.rs</span><pre><span></span><code><span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">do_something</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Doing something"</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
 <h3 id="library-crate">Library crate</h3>
 <p>A project containing <code>lib.rs</code> file in the root of the project <code>scr/</code> directory. Cargo creates a library crate with the library name the same as the package name defined in `Cargo.toml``.</p>
 <div class="highlight"><pre><span></span><code><span class="n">cargo</span><span class="w"> </span><span class="n">new</span><span class="w"> </span><span class="o">--</span><span class="n">lib</span><span class="w"> </span><span class="o">&lt;</span><span class="n">packagename</span><span class="o">&gt;</span>
+</code></pre></div>
+<h4 id="structure_1">Structure</h4>
+<p>including a <code>main.rs</code></p>
+<p>file structure:</p>
+<div class="highlight"><pre><span></span><code>rustlib/
+└── src/
+   ├── main.rs
+   ├── lib.rs
+   ├── config.rs
+   └── helpers.rs
+</code></pre></div>
+<div class="highlight"><span class="filename">lib.rs</span><pre><span></span><code><span class="k">pub</span><span class="w"> </span><span class="k">mod</span> <span class="nn">config</span><span class="p">;</span>
+<span class="k">pub</span><span class="w"> </span><span class="k">mod</span> <span class="nn">helpers</span><span class="p">;</span>
+</code></pre></div>
+<div class="highlight"><span class="filename">main.rs</span><pre><span></span><code><span class="n">user</span><span class="w"> </span><span class="n">rust_lib</span>::<span class="n">config</span><span class="p">;</span>
+
+<span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">config</span>::<span class="n">read_config</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
+<div class="highlight"><span class="filename">config.rs</span><pre><span></span><code><span class="k">crate</span>::<span class="n">helpers</span>::<span class="n">do_something</span><span class="p">();</span>
+
+<span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">read_config</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">do_something</span><span class="p">();</span>
+<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Reading config"</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+<div class="highlight"><span class="filename">helpers.rs</span><pre><span></span><code><span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">do_something</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Doing something"</span><span class="p">);</span>
+<span class="p">}</span>
 </code></pre></div>
 <h3 id="rules">Rules</h3>
 <ol>
@@ -11716,6 +11840,12 @@
         <script src="https://wavedrom.com/skins/default.js"></script>
       
         <script src="../../assets/javascripts/toggle-sidebar.js" async></script>
+      
+        <script src="../../assets/mkdocs_puml/puml.js"></script>
+      
+        <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+      
+        <script src="../../assets/mkdocs_puml/interaction.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>

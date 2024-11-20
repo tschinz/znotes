@@ -18,7 +18,7 @@
         <link rel="prev" href="toolchain.html">
       
       
-        <link rel="next" href="concepts.html">
+        <link rel="next" href="rustfmt.html">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
@@ -58,6 +58,10 @@
     
     
       <link rel="stylesheet" href="../../_extra/css/extra.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/puml.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/interaction.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1283,10 +1287,133 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#crates" class="md-nav__link">
+    <span class="md-ellipsis">
+      crates
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#statements-vs-expression" class="md-nav__link">
+    <span class="md-ellipsis">
+      Statements vs Expression
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="rustfmt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    rustfmt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="workspaces.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Workspaces
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="package.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Package
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="modules.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="testing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -1320,32 +1447,11 @@
   
   
     <li class="md-nav__item">
-      <a href="design_patterns.html" class="md-nav__link">
+      <a href="memory_regions.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Design Patterns
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="data_types.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Data-Types
+    Memory Regions
   </span>
   
 
@@ -1383,11 +1489,74 @@
   
   
     <li class="md-nav__item">
+      <a href="rustdoc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RustDoc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="data_types.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data-Types
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="syntax.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Syntax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="iterators.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iterators
   </span>
   
 
@@ -1467,90 +1636,6 @@
   
   
     <li class="md-nav__item">
-      <a href="iterators.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Iterators
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="testing.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Testing
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="libraries.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Libraries
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="package.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Package
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="error_handling.html" class="md-nav__link">
         
   
@@ -1572,74 +1657,11 @@
   
   
     <li class="md-nav__item">
-      <a href="memory_regions.html" class="md-nav__link">
+      <a href="design_patterns.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Memory Regions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="modules.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Modules
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="workspaces.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Workspaces
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="rustdoc.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    RustDoc
+    Design Patterns
   </span>
   
 
@@ -1677,11 +1699,11 @@
   
   
     <li class="md-nav__item">
-      <a href="rustfmt.html" class="md-nav__link">
+      <a href="libraries.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    rustfmt
+    Libraries
   </span>
   
 
@@ -8420,11 +8442,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Hanoi tower
+    None
   </span>
   
 
@@ -8441,11 +8463,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Matrix Chain Multiplication
+    None
   </span>
   
 
@@ -8462,11 +8484,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    All permutations and next permutation
+    None
   </span>
   
 
@@ -8483,11 +8505,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Counting 1 Bits
+    None
   </span>
   
 
@@ -8504,11 +8526,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Prime numbers with Eratosthenes sieve
+    None
   </span>
   
 
@@ -8525,11 +8547,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary addition FSM
+    None
   </span>
   
 
@@ -8546,11 +8568,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary Search
+    None
   </span>
   
 
@@ -8567,11 +8589,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Union-find
+    None
   </span>
   
 
@@ -8588,11 +8610,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Generation (Kruskal's Algorithm)
+    None
   </span>
   
 
@@ -8609,11 +8631,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Lee's Algorithm
+    None
   </span>
   
 
@@ -8630,11 +8652,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Dijkstra's Algorithm
+    None
   </span>
   
 
@@ -8651,11 +8673,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with A* Algorithm
+    None
   </span>
   
 
@@ -8672,11 +8694,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Diffie Hellman (DH) Key Exchange
+    None
   </span>
   
 
@@ -8693,11 +8715,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Enigma Virtual Machine
+    None
   </span>
   
 
@@ -8714,11 +8736,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Sorting Algorithms
+    None
   </span>
   
 
@@ -11526,6 +11548,24 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#crates" class="md-nav__link">
+    <span class="md-ellipsis">
+      crates
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#statements-vs-expression" class="md-nav__link">
+    <span class="md-ellipsis">
+      Statements vs Expression
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -11552,6 +11592,24 @@
     
     
       <a href="../../about/tags.html#rust" class="md-tag">rust</a>
+    
+  
+    
+    
+    
+      <a href="../../about/tags.html#cargo" class="md-tag">cargo</a>
+    
+  
+    
+    
+    
+      <a href="../../about/tags.html#cargo-add" class="md-tag">cargo add</a>
+    
+  
+    
+    
+    
+      <a href="../../about/tags.html#cargo-bundle" class="md-tag">cargo bundle</a>
     
   
 </nav>
@@ -11642,15 +11700,19 @@
 <h2 id="install-crate">Install crate</h2>
 <div class="highlight"><pre><span></span><code>cargo<span class="w"> </span>add<span class="w"> </span>&lt;cratename&gt;
 </code></pre></div>
-<h1 id="crates">crates</h1>
+<div class="highlight"><pre><span></span><code>to use `cargo add` you need to install it first with: `cargo install cargo-edit`
+</code></pre></div>
+<h2 id="crates">crates</h2>
 <p>A crate is a collection of Rust source files.</p>
 <ul>
 <li><em>binary crate</em> - is an executable</li>
-<li><em>libaray crate</em> - code intended to use by other programs</li>
+<li><em>library crate</em> - code intended to use by other programs</li>
 </ul>
-<h1 id="statements-vs-expression">Statements vs Expression</h1>
-<p>Rust is an expression-based language. - Expression evaluate to a result value. - Statements are instructions that perform some action and do not return a value</p>
+<h2 id="statements-vs-expression">Statements vs Expression</h2>
+<p>Rust is an expression-based language.</p>
 <ul>
+<li>Expression evaluate to a result value.</li>
+<li>Statements are instructions that perform some action and do not return a value</li>
 <li>Expression delimiter by the <code>;</code> - Called expression statement</li>
 <li>Binding a name to a value with the <code>=</code> - Called declaration statement</li>
 <li>Type declarations, which include the <code>fn</code>, <code>struct</code> and <code>enum</code> keywords - Called declaration statement</li>
@@ -11666,132 +11728,6 @@
 <span class="w">  </span><span class="n">x</span>
 <span class="p">}</span>
 </code></pre></div>
-<h2 id="ownership">Ownership</h2>
-<h3 id="ownership-rules">Ownership Rules</h3>
-<ul>
-<li>Each value in Rust has an <em>owner</em></li>
-<li>There can only be <em>one owner</em> at a time</li>
-<li>When the owner goes out of scope, the value will be dropped</li>
-</ul>
-<h4 id="examples">Examples</h4>
-<div class="highlight"><pre><span></span><code><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"hello"</span>
-<span class="p">}</span>
-<span class="c1">// s no longer in scope</span>
-</code></pre></div>
-<p>Multiple variables interact differently. <strong>Static</strong> types the assignation copies the value. They have a fixed size and live therefore on the Stack memory.</p>
-<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">5</span><span class="p">;</span><span class="w">   </span><span class="c1">// binds 5 to x</span>
-<span class="kd">let</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">;</span><span class="w">   </span><span class="c1">// copies the values</span>
-
-<span class="c1">// both contain the value 5</span>
-</code></pre></div>
-<p>With <strong>dynamic</strong> types the assignation moves the ownership.</p>
-<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">s1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
-<span class="kd">let</span><span class="w"> </span><span class="n">s2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">s1</span><span class="p">;</span>
-</code></pre></div>
-<p>This is represented in the picture below:</p>
-<p><figure id="_figure-1"><a class="glightbox" href="img/ownership_string.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Ownership on String types" class="center" src="img/ownership_string.svg"></a><figcaption>Figure 1: Ownership on String types</figcaption></figure></p>
-<h3 id="ownership-and-functions">Ownership and Functions</h3>
-<div class="highlight"><pre><span></span><code><span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span><span class="w"> </span><span class="c1">// s comes into scope</span>
-<span class="w">  </span><span class="n">takes_ownership</span><span class="p">(</span><span class="n">s</span><span class="p">);</span><span class="w">            </span><span class="c1">// s value moves into the function</span>
-<span class="w">                                 </span><span class="c1">// s is no longer valid here</span>
-
-<span class="w"> </span><span class="kd">let</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">5</span><span class="p">;</span><span class="w">                      </span><span class="c1">// x comes into scope</span>
-<span class="w"> </span><span class="n">makes_copy</span><span class="p">(</span><span class="n">x</span><span class="p">);</span><span class="w">                  </span><span class="c1">// x would move into the function</span>
-<span class="w">                                 </span><span class="c1">// x is i32 and is copied,</span>
-<span class="w">                                 </span><span class="c1">// x and can further be used</span>
-<span class="p">}</span><span class="w"> </span><span class="c1">// Here, x goes out of scope, then s.</span>
-<span class="w">  </span><span class="c1">// However, because s value was moved, nothing special happens.</span>
-
-<span class="k">fn</span> <span class="nf">takes_ownership</span><span class="p">(</span><span class="n">some_string</span>: <span class="nb">String</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="c1">// some_string comes into scope</span>
-<span class="w">  </span><span class="fm">println!</span><span class="p">(</span><span class="s">"{some_string}"</span><span class="p">);</span>
-<span class="p">}</span><span class="w"> </span><span class="c1">// Here, some_string goes out of scope and `drop` is called.</span>
-<span class="w">  </span><span class="c1">// The backing memory is freed.</span>
-
-<span class="k">fn</span> <span class="nf">makes_copy</span><span class="p">(</span><span class="n">some_integer</span>: <span class="kt">i32</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="c1">// some_integer comes into scope</span>
-<span class="w">  </span><span class="fm">println!</span><span class="p">(</span><span class="s">"{some_integer}"</span><span class="p">);</span>
-<span class="p">}</span><span class="w"> </span><span class="c1">// Here, some_integer goes out of scope. Nothing special happens.</span>
-</code></pre></div>
-<h3 id="return-values-and-scope">Return Values and Scope</h3>
-<div class="highlight"><pre><span></span><code><span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gives_ownership</span><span class="p">();</span><span class="w"> </span><span class="c1">// gives_ownership moves its return value into s1</span>
-
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span><span class="w">    </span><span class="c1">// s2 comes into scope</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">takes_and_gives_back</span><span class="p">(</span><span class="n">s2</span><span class="p">);</span><span class="w"> </span><span class="c1">// s2 is moved into takes_and_gives_back</span>
-<span class="w">                                     </span><span class="c1">// takes_and_gives_back moves its return value into s3</span>
-<span class="p">}</span><span class="w"> </span><span class="c1">// s3 goes out of scope and is dropped.</span>
-<span class="w">  </span><span class="c1">// s2 was moved, so nothing happens.</span>
-<span class="w">  </span><span class="c1">// s1 goes out of scope and is dropped.</span>
-
-<span class="c1">// gives_ownership will move its return value into the function that calls it</span>
-<span class="k">fn</span> <span class="nf">gives_ownership</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">String</span> <span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">some_string</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"yours"</span><span class="p">);</span><span class="w"> </span><span class="c1">// some_string comes into scope</span>
-<span class="w">  </span><span class="n">some_string</span><span class="w">                              </span><span class="c1">// some_string is returned and</span>
-<span class="p">}</span><span class="w">                                          </span><span class="c1">// moves out to the calling function</span>
-
-<span class="c1">// This function takes a String and returns a String.</span>
-<span class="k">fn</span> <span class="nf">takes_and_gives_back</span><span class="p">(</span><span class="n">a_string</span>: <span class="nb">String</span><span class="p">)</span><span class="w"> </span>-&gt; <span class="nb">String</span> <span class="p">{</span><span class="w"> </span><span class="c1">// a_string comes into scope</span>
-<span class="w">  </span><span class="n">a_string</span><span class="w">  </span><span class="c1">// a_string is returned and moves out to the calling function</span>
-<span class="p">}</span>
-</code></pre></div>
-<p>Returning ownership of parameters</p>
-<div class="highlight"><pre><span></span><code><span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="p">(</span><span class="n">s2</span><span class="p">,</span><span class="w"> </span><span class="n">len</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">calculate_length</span><span class="p">(</span><span class="n">s1</span><span class="p">);</span>
-<span class="w">  </span><span class="fm">println!</span><span class="p">(</span><span class="s">"The length of '{s2}' is {len}."</span><span class="p">);</span>
-<span class="p">}</span>
-
-<span class="k">fn</span> <span class="nf">calculate_length</span><span class="p">(</span><span class="n">s</span>: <span class="nb">String</span><span class="p">)</span><span class="w"> </span>-&gt; <span class="p">(</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="kt">usize</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">length</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="n">len</span><span class="p">();</span><span class="w"> </span><span class="c1">// len() returns the length of a String</span>
-<span class="w">  </span><span class="p">(</span><span class="n">s</span><span class="p">,</span><span class="w"> </span><span class="n">length</span><span class="p">)</span><span class="w">           </span><span class="c1">// return parameters ownership and length</span>
-<span class="p">}</span>
-</code></pre></div>
-<h3 id="references-and-borrowing">References and Borrowing</h3>
-<p>A <em>reference</em> is like an pointer to the pointer of the data. The data is still owned by some other variable. Unlike a pointer a reference points always to a valid value for the life of that reference.</p>
-<div class="highlight"><pre><span></span><code><span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">s1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">len</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">calculate_length</span><span class="p">(</span><span class="o">&amp;</span><span class="n">s1</span><span class="p">);</span>
-<span class="w">  </span><span class="fm">println!</span><span class="p">(</span><span class="s">"The length of '{s1}' is {len}."</span><span class="p">);</span>
-<span class="p">}</span>
-
-<span class="c1">// s doesn't have ownership, therefore the variable is not dropped.</span>
-<span class="k">fn</span> <span class="nf">calculate_length</span><span class="p">(</span><span class="n">s</span>: <span class="kp">&amp;</span><span class="nb">String</span><span class="p">)</span><span class="w"> </span>-&gt; <span class="kt">usize</span> <span class="p">{</span>
-<span class="w">  </span><span class="n">s</span><span class="p">.</span><span class="n">len</span><span class="p">()</span>
-<span class="p">}</span>
-</code></pre></div>
-<p><figure id="_figure-2"><a class="glightbox" href="img/reference_string.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Reference on a string" class="center" src="img/reference_string.svg"></a><figcaption>Figure 2: Reference on a string</figcaption></figure></p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p><code>&amp;</code> is referencing and <code>*</code> is dereferencing. The action of creating a <em>reference</em> is called <em>borrowing</em>.</p>
-</div>
-<h4 id="mutable-references">Mutable References</h4>
-<p>A <em>mutable reference</em> allows to modify a borrowed value</p>
-<div class="highlight"><pre><span></span><code><span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
-<span class="w">  </span><span class="n">change</span><span class="p">(</span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">);</span>
-<span class="p">}</span>
-
-<span class="k">fn</span> <span class="nf">change</span><span class="p">(</span><span class="n">some_string</span>: <span class="kp">&amp;</span><span class="nc">mut</span><span class="w"> </span><span class="nb">String</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="n">some_string</span><span class="p">.</span><span class="n">push_str</span><span class="p">(</span><span class="s">", world"</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>A <em>mutable reference</em> cannot have another reference to that value.</p>
-</div>
-<p>The first <em>mutable reference</em> need to go out of scope in order to create a new ones</p>
-<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">from</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
-<span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">r1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">;</span><span class="w">     </span><span class="c1">// r1 is a mutable reference to s</span>
-<span class="p">}</span><span class="w">                      </span><span class="c1">// r1 goes out of scope here</span>
-<span class="kd">let</span><span class="w"> </span><span class="n">r2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">;</span><span class="w">        </span><span class="c1">// r2 is a new mutable reference to s</span>
-</code></pre></div>
-<h4 id="reference-rules">Reference Rules</h4>
-<ul>
-<li>At any given time, <em>either</em> <strong>one mutable reference</strong> <em>or</em> <strong>any number of immutable references</strong>.</li>
-<li>References must always be valid.</li>
-</ul>
 
 
 
@@ -11908,6 +11844,12 @@
         <script src="https://wavedrom.com/skins/default.js"></script>
       
         <script src="../../assets/javascripts/toggle-sidebar.js" async></script>
+      
+        <script src="../../assets/mkdocs_puml/puml.js"></script>
+      
+        <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+      
+        <script src="../../assets/mkdocs_puml/interaction.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>

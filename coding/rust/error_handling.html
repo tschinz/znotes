@@ -15,10 +15,10 @@
         <link rel="canonical" href="https://github.com/tschinz/znotes/coding/rust/error_handling.html">
       
       
-        <link rel="prev" href="package.html">
+        <link rel="prev" href="generics.html">
       
       
-        <link rel="next" href="memory_regions.html">
+        <link rel="next" href="design_patterns.html">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
@@ -58,6 +58,10 @@
     
     
       <link rel="stylesheet" href="../../_extra/css/extra.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/puml.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/interaction.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1217,6 +1221,111 @@
   
   
     <li class="md-nav__item">
+      <a href="rustfmt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    rustfmt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="workspaces.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Workspaces
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="package.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Package
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="modules.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="testing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="concepts.html" class="md-nav__link">
         
   
@@ -1238,32 +1347,11 @@
   
   
     <li class="md-nav__item">
-      <a href="design_patterns.html" class="md-nav__link">
+      <a href="memory_regions.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Design Patterns
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="data_types.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Data-Types
+    Memory Regions
   </span>
   
 
@@ -1301,11 +1389,74 @@
   
   
     <li class="md-nav__item">
+      <a href="rustdoc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RustDoc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="data_types.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data-Types
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="syntax.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Syntax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="iterators.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iterators
   </span>
   
 
@@ -1382,90 +1533,6 @@
                 
   
   
-  
-  
-    <li class="md-nav__item">
-      <a href="iterators.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Iterators
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="testing.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Testing
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="libraries.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Libraries
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="package.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Package
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
     
   
   
@@ -1517,18 +1584,48 @@
         <li class="md-nav__item">
   <a href="#panic-macro" class="md-nav__link">
     <span class="md-ellipsis">
-      panic!() macro
+      panic!() Macro
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="panic!() Macro">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#debugging-with-backtrace" class="md-nav__link">
+    <span class="md-ellipsis">
+      Debugging with Backtrace
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#result-enum" class="md-nav__link">
     <span class="md-ellipsis">
-      Result enum
+      Result Enum
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Result Enum">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#handling-result-with-match" class="md-nav__link">
+    <span class="md-ellipsis">
+      Handling Result with match
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1542,27 +1639,108 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#operator" class="md-nav__link">
+  <a href="#the-operator" class="md-nav__link">
     <span class="md-ellipsis">
-      ? operator
+      The ? Operator
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The ? Operator">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#chaining-with" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chaining with ?
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#unwrap" class="md-nav__link">
-    <span class="md-ellipsis">
-      unwrap
-    </span>
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#eprint" class="md-nav__link">
+  <a href="#unwrap-and-expect" class="md-nav__link">
     <span class="md-ellipsis">
-      eprint()
+      unwrap and expect
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="unwrap and expect">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#best-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      Best Practice
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conversion-between-result-and-option" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conversion Between Result and Option
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Conversion Between Result and Option">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ok-result-option" class="md-nav__link">
+    <span class="md-ellipsis">
+      ok() (Result → Option)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ok_orerr-option-result" class="md-nav__link">
+    <span class="md-ellipsis">
+      ok_or(err) (Option → Result)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transforming-errors-with-map_err" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transforming Errors with map_err
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#printing-errors-with-eprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      Printing Errors with eprint!
     </span>
   </a>
   
@@ -1584,74 +1762,11 @@
   
   
     <li class="md-nav__item">
-      <a href="memory_regions.html" class="md-nav__link">
+      <a href="design_patterns.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Memory Regions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="modules.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Modules
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="workspaces.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Workspaces
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="rustdoc.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    RustDoc
+    Design Patterns
   </span>
   
 
@@ -1689,11 +1804,11 @@
   
   
     <li class="md-nav__item">
-      <a href="rustfmt.html" class="md-nav__link">
+      <a href="libraries.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    rustfmt
+    Libraries
   </span>
   
 
@@ -8432,11 +8547,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Hanoi tower
+    None
   </span>
   
 
@@ -8453,11 +8568,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Matrix Chain Multiplication
+    None
   </span>
   
 
@@ -8474,11 +8589,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    All permutations and next permutation
+    None
   </span>
   
 
@@ -8495,11 +8610,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Counting 1 Bits
+    None
   </span>
   
 
@@ -8516,11 +8631,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Prime numbers with Eratosthenes sieve
+    None
   </span>
   
 
@@ -8537,11 +8652,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary addition FSM
+    None
   </span>
   
 
@@ -8558,11 +8673,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary Search
+    None
   </span>
   
 
@@ -8579,11 +8694,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Union-find
+    None
   </span>
   
 
@@ -8600,11 +8715,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Generation (Kruskal's Algorithm)
+    None
   </span>
   
 
@@ -8621,11 +8736,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Lee's Algorithm
+    None
   </span>
   
 
@@ -8642,11 +8757,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Dijkstra's Algorithm
+    None
   </span>
   
 
@@ -8663,11 +8778,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with A* Algorithm
+    None
   </span>
   
 
@@ -8684,11 +8799,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Diffie Hellman (DH) Key Exchange
+    None
   </span>
   
 
@@ -8705,11 +8820,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Enigma Virtual Machine
+    None
   </span>
   
 
@@ -8726,11 +8841,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Sorting Algorithms
+    None
   </span>
   
 
@@ -11499,18 +11614,48 @@
         <li class="md-nav__item">
   <a href="#panic-macro" class="md-nav__link">
     <span class="md-ellipsis">
-      panic!() macro
+      panic!() Macro
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="panic!() Macro">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#debugging-with-backtrace" class="md-nav__link">
+    <span class="md-ellipsis">
+      Debugging with Backtrace
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#result-enum" class="md-nav__link">
     <span class="md-ellipsis">
-      Result enum
+      Result Enum
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Result Enum">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#handling-result-with-match" class="md-nav__link">
+    <span class="md-ellipsis">
+      Handling Result with match
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -11524,27 +11669,108 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#operator" class="md-nav__link">
+  <a href="#the-operator" class="md-nav__link">
     <span class="md-ellipsis">
-      ? operator
+      The ? Operator
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The ? Operator">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#chaining-with" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chaining with ?
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#unwrap" class="md-nav__link">
-    <span class="md-ellipsis">
-      unwrap
-    </span>
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#eprint" class="md-nav__link">
+  <a href="#unwrap-and-expect" class="md-nav__link">
     <span class="md-ellipsis">
-      eprint()
+      unwrap and expect
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="unwrap and expect">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#best-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      Best Practice
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conversion-between-result-and-option" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conversion Between Result and Option
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Conversion Between Result and Option">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ok-result-option" class="md-nav__link">
+    <span class="md-ellipsis">
+      ok() (Result → Option)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ok_orerr-option-result" class="md-nav__link">
+    <span class="md-ellipsis">
+      ok_or(err) (Option → Result)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transforming-errors-with-map_err" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transforming Errors with map_err
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#printing-errors-with-eprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      Printing Errors with eprint!
     </span>
   </a>
   
@@ -11597,120 +11823,141 @@
 
 
 <h1 id="error-handling">Error Handling</h1>
-<h2 id="panic-macro"><code>panic!()</code> macro</h2>
-<p>The panic marco allows to quit the program and give an error message</p>
+<p>Rust provides robust mechanisms for handling errors through enums like <code>Result</code> and <code>Option</code>, emphasizing safety and clarity.</p>
+<hr>
+<h2 id="panic-macro"><code>panic!()</code> Macro</h2>
+<p>The <code>panic!()</code> macro immediately terminates the program and outputs an error message. Use it sparingly, only in unrecoverable scenarios or during prototyping.</p>
 <div class="highlight"><pre><span></span><code><span class="fm">panic!</span><span class="p">(</span><span class="s">"crash and burn"</span><span class="p">);</span>
 </code></pre></div>
-<p>With the environment variable set <code>RUST_BACKTRACE=1</code> a backtrace can be displayed upon exiting.</p>
-<h2 id="result-enum"><code>Result</code> enum</h2>
-<p>Like the <code>Option</code> enum the <code>Result</code> enum contains two variants, no error <code>Ok()</code> or an error <code>Err(E)</code>.</p>
+<h3 id="debugging-with-backtrace">Debugging with Backtrace</h3>
+<p>Set the environment variable <code>RUST_BACKTRACE=1</code> to display a backtrace when a <code>panic!</code> occurs.</p>
+<h2 id="result-enum">Result Enum</h2>
+<p>The Result enum is used for functions that can succeed or fail. It has two variants:
+- <code>Ok(T)</code> — success, containing a value.
+- <code>Err(E)</code> — error, containing an error value.</p>
 <div class="highlight"><pre><span></span><code><span class="k">enum</span> <span class="nb">Result</span><span class="o">&lt;</span><span class="n">T</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="nb">Ok</span><span class="p">(</span><span class="n">T</span><span class="p">),</span>
-<span class="w">  </span><span class="nb">Err</span><span class="p">(</span><span class="n">E</span><span class="p">),</span>
+<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">T</span><span class="p">),</span>
+<span class="w">    </span><span class="nb">Err</span><span class="p">(</span><span class="n">E</span><span class="p">),</span>
 <span class="p">}</span>
 </code></pre></div>
-<p>Example with <code>match</code></p>
+<h3 id="handling-result-with-match">Handling Result with match</h3>
+<p>Use match to explicitly handle both <code>Ok</code> and <code>Err</code>.</p>
 <div class="highlight"><pre><span></span><code><span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">fs</span>::<span class="n">File</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>:<span class="nc">ErrorKind</span><span class="p">;</span>
+<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>::<span class="n">ErrorKind</span><span class="p">;</span>
 
 <span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">);</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">);</span>
 
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">file</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">file</span><span class="p">,</span>
-<span class="w">    </span><span class="nb">Err</span><span class="p">(</span><span class="n">error</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">error</span><span class="p">.</span><span class="n">kind</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">      </span><span class="n">ErrorKind</span>::<span class="n">NotFound</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">File</span>::<span class="n">create</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
-<span class="w">        </span><span class="nb">Ok</span><span class="p">(</span><span class="n">fc</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">fc</span><span class="p">,</span>
-<span class="w">        </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="fm">panic!</span><span class="p">(</span><span class="s">"Problem creating the file: {:?}"</span><span class="p">,</span><span class="w"> </span><span class="n">e</span><span class="p">),</span>
-<span class="w">      </span><span class="p">},</span>
-<span class="w">      </span><span class="n">other_error</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="p">{</span>
-<span class="w">        </span><span class="fm">panic!</span><span class="p">(</span><span class="s">"Problem opening the file {:?}"</span><span class="p">,</span><span class="w"> </span><span class="n">other_error</span><span class="p">)</span>
-<span class="w">      </span><span class="p">}</span>
-<span class="w">    </span><span class="p">}</span>
-<span class="w">  </span><span class="p">};</span>
-<span class="p">}</span>
-</code></pre></div>
-<div class="highlight"><pre><span></span><code><span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">fs</span>::<span class="n">File</span><span class="p">;</span>
-
-<span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">).</span><span class="n">unwrap</span><span class="p">(</span><span class="s">"Failed to open hello.txt"</span><span class="p">);</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nb">Ok</span><span class="p">(</span><span class="n">file</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">file</span><span class="p">,</span>
+<span class="w">        </span><span class="nb">Err</span><span class="p">(</span><span class="n">error</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">error</span><span class="p">.</span><span class="n">kind</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">ErrorKind</span>::<span class="n">NotFound</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">File</span>::<span class="n">create</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="nb">Ok</span><span class="p">(</span><span class="n">fc</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">fc</span><span class="p">,</span>
+<span class="w">                </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="fm">panic!</span><span class="p">(</span><span class="s">"Problem creating the file: {:?}"</span><span class="p">,</span><span class="w"> </span><span class="n">e</span><span class="p">),</span>
+<span class="w">            </span><span class="p">},</span>
+<span class="w">            </span><span class="n">other_error</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="fm">panic!</span><span class="p">(</span><span class="s">"Problem opening the file: {:?}"</span><span class="p">,</span><span class="w"> </span><span class="n">other_error</span><span class="p">),</span>
+<span class="w">        </span><span class="p">},</span>
+<span class="w">    </span><span class="p">};</span>
 <span class="p">}</span>
 </code></pre></div>
 <h2 id="error-propagation">Error Propagation</h2>
+<p>Error propagation allows errors to bubble up to the caller. You can manually propagate errors using match:</p>
 <div class="highlight"><pre><span></span><code><span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">fs</span>::<span class="n">File</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>::<span class="n">Read</span><span class="p">;</span>
+<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>::<span class="p">{</span><span class="bp">self</span><span class="p">,</span><span class="w"> </span><span class="n">Read</span><span class="p">};</span>
 
-<span class="k">fn</span> <span class="nf">read_username_from_file</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">Result</span><span class="o">&lt;</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="n">io</span>:<span class="nc">Error</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">);</span>
+<span class="k">fn</span> <span class="nf">read_username_from_file</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">Result</span><span class="o">&lt;</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="n">io</span>::<span class="n">Error</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">);</span>
 
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">file</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">file</span><span class="p">,</span>
-<span class="w">    </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">),</span>
-<span class="w">  </span><span class="p">};</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nb">Ok</span><span class="p">(</span><span class="n">file</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">file</span><span class="p">,</span>
+<span class="w">        </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">),</span>
+<span class="w">    </span><span class="p">};</span>
 
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">();</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">();</span>
 
-<span class="w">  </span><span class="k">match</span><span class="w"> </span><span class="n">f</span><span class="p">.</span><span class="n">read_to_string</span><span class="p">(</span><span class="o">&amp;</span><span class="n">mus</span><span class="w"> </span><span class="n">s</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">_</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="nb">Ok</span><span class="p">(</span><span class="n">s</span><span class="p">),</span>
-<span class="w">    </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">),</span>
-<span class="w">  </span><span class="p">}</span>
+<span class="w">    </span><span class="k">match</span><span class="w"> </span><span class="n">f</span><span class="p">.</span><span class="n">read_to_string</span><span class="p">(</span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nb">Ok</span><span class="p">(</span><span class="n">_</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="nb">Ok</span><span class="p">(</span><span class="n">s</span><span class="p">),</span>
+<span class="w">        </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">),</span>
+<span class="w">    </span><span class="p">}</span>
 <span class="p">}</span>
 </code></pre></div>
-<h2 id="operator"><code>?</code> operator</h2>
-<p>optimized with <code>?</code>. The questionmark allows to end the function early and end the error if unsuccessful otherwise continue.</p>
-<p>The <code>?</code> operator can only be used on function returning an error.</p>
+<h2 id="the-operator">The <code>?</code> Operator</h2>
+<p>The <code>?</code> operator simplifies error propagation by automatically returning errors. It works only in functions that return <code>Result</code> or <code>Option</code>.</p>
 <div class="highlight"><pre><span></span><code><span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">fs</span>::<span class="n">File</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>::<span class="n">Read</span><span class="p">;</span>
+<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>::<span class="p">{</span><span class="bp">self</span><span class="p">,</span><span class="w"> </span><span class="n">Read</span><span class="p">};</span>
 
-<span class="k">fn</span> <span class="nf">read_username_from_file</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">Result</span><span class="o">&lt;</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="n">io</span>:<span class="nc">Error</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">)</span><span class="o">?</span><span class="p">;</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">();</span>
-<span class="w">  </span><span class="n">f</span><span class="p">.</span><span class="n">read_to_string</span><span class="p">(</span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">)</span><span class="o">?</span><span class="p">;</span>
-<span class="w">  </span><span class="nb">Ok</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+<span class="k">fn</span> <span class="nf">read_username_from_file</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">Result</span><span class="o">&lt;</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="n">io</span>::<span class="n">Error</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">)</span><span class="o">?</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">();</span>
+<span class="w">    </span><span class="n">f</span><span class="p">.</span><span class="n">read_to_string</span><span class="p">(</span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">)</span><span class="o">?</span><span class="p">;</span>
+<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
 <span class="p">}</span>
 </code></pre></div>
-<p>optimized with <code>?</code> and chained method calls</p>
-<div class="highlight"><pre><span></span><code><span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">fs</span>::<span class="n">File</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span><span class="p">;</span>
-<span class="k">use</span><span class="w"> </span><span class="n">std</span>::<span class="n">io</span>::<span class="n">Read</span><span class="p">;</span>
-
-<span class="k">fn</span> <span class="nf">read_username_from_file</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">Result</span><span class="o">&lt;</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="n">io</span>:<span class="nc">Error</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">();</span>
-<span class="w">  </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">)</span><span class="o">?</span><span class="p">.</span><span class="n">read_to_string</span><span class="p">(</span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">)</span><span class="o">?</span><span class="p">;</span>
-<span class="w">  </span><span class="nb">Ok</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+<h3 id="chaining-with">Chaining with ?</h3>
+<p>You can further simplify the code by chaining method calls.
+</p><div class="highlight"><pre><span></span><code><span class="k">fn</span> <span class="nf">read_username_from_file</span><span class="p">()</span><span class="w"> </span>-&gt; <span class="nb">Result</span><span class="o">&lt;</span><span class="nb">String</span><span class="p">,</span><span class="w"> </span><span class="n">io</span>::<span class="n">Error</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">let</span><span class="w"> </span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">String</span>::<span class="n">new</span><span class="p">();</span>
+<span class="w">    </span><span class="n">File</span>::<span class="n">open</span><span class="p">(</span><span class="s">"hello.txt"</span><span class="p">)</span><span class="o">?</span><span class="p">.</span><span class="n">read_to_string</span><span class="p">(</span><span class="o">&amp;</span><span class="k">mut</span><span class="w"> </span><span class="n">s</span><span class="p">)</span><span class="o">?</span><span class="p">;</span>
+<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
 <span class="p">}</span>
 </code></pre></div>
-<h2 id="unwrap"><code>unwrap</code></h2>
-<div class="highlight"><pre><span></span><code><span class="c1">// returns inner value of an Option Some, otherwise if panics if its None</span>
-<span class="nb">Option</span>::<span class="n">unwrap</span><span class="p">()</span>
+<h2 id="unwrap-and-expect"><code>unwrap</code> and <code>expect</code></h2>
+<p>These methods are convenient but should be used sparingly, as they cause the program to panic on errors.</p>
+<h3 id="examples">Examples</h3>
+<div class="highlight"><pre><span></span><code><span class="c1">// Returns the inner value if Some, panics if None</span>
+<span class="nb">Option</span>::<span class="n">unwrap</span><span class="p">();</span>
 
-<span class="c1">// returns inner value of an Result Ok, otherwise if panics if its Err</span>
-<span class="nb">Result</span>::<span class="n">unwrap</span><span class="p">()</span>
+<span class="c1">// Returns the inner value if Ok, panics if Err</span>
+<span class="nb">Result</span>::<span class="n">unwrap</span><span class="p">();</span>
 
-<span class="c1">// returns inner value of an Result Err, otherwise if panics if its Ok</span>
-<span class="nb">Result</span>::<span class="n">unwrap_err</span><span class="p">()</span>
+<span class="c1">// Returns the inner value if Some, or a default if None</span>
+<span class="nb">Option</span>::<span class="n">unwrap_or</span><span class="p">(</span><span class="n">default</span><span class="p">);</span>
 
-<span class="c1">//returns the inner value of an Option if its Some, or returns a default value if its None</span>
-<span class="nb">Option</span>::<span class="n">unwrap_or</span><span class="p">()</span>
+<span class="c1">// Returns the inner value if Ok, or a default if Err</span>
+<span class="nb">Result</span>::<span class="n">unwrap_or</span><span class="p">(</span><span class="n">default</span><span class="p">);</span>
 
-<span class="c1">//returns the inner value of an Result if its Ok, or returns a default value if its Err</span>
-<span class="nb">Result</span>::<span class="n">unwrap_or</span><span class="p">()</span>
+<span class="c1">// Returns the inner value if Ok, or computes a value from a closure if Err</span>
+<span class="nb">Result</span>::<span class="n">unwrap_or_else</span><span class="p">(</span><span class="o">|</span><span class="n">err</span><span class="o">|</span><span class="w"> </span><span class="n">handle_err</span><span class="p">(</span><span class="n">err</span><span class="p">));</span>
 
-<span class="c1">//returns the inner value of an Result if its Ok, or returns the result of a closure if its Err</span>
-<span class="nb">Result</span>::<span class="n">unwrap_or_else</span><span class="p">()</span>
+<span class="c1">// Returns the inner value if Some, panics with a custom error message if None</span>
+<span class="nb">Option</span>::<span class="n">expect</span><span class="p">(</span><span class="s">"Custom panic message"</span><span class="p">);</span>
 
-<span class="p">.</span><span class="n">unwrap_none</span><span class="p">()</span><span class="w">    </span><span class="c1">//</span>
-
-<span class="c1">// return the inner value of an Option if its Some, or panics if its None</span>
-<span class="nb">Option</span>::<span class="n">expect</span><span class="p">()</span>
-
-<span class="c1">// return the inner value of an Result if its Some, or panics if its None</span>
-<span class="nb">Result</span>::<span class="n">expect</span><span class="p">()</span>
+<span class="c1">// Returns the inner value if Ok, panics with a custom error message if Err</span>
+<span class="nb">Result</span>::<span class="n">expect</span><span class="p">(</span><span class="s">"Custom panic message"</span><span class="p">);</span>
 </code></pre></div>
-<h2 id="eprint"><code>eprint()</code></h2>
-<p>print error message directly to the standard error <code>io::stderr</code> instead of <code>io::stdout</code></p>
+<h3 id="best-practice">Best Practice</h3>
+<p>Avoid using <code>unwrap</code> and <code>expect</code> in production code. Prefer safer alternatives like <code>unwrap_or</code>, <code>unwrap_or_else</code>, or proper error handling with <code>match</code>.</p>
+<h2 id="conversion-between-result-and-option">Conversion Between Result and Option</h2>
+<h3 id="ok-result-option"><code>ok() (Result → Option)</code></h3>
+<p>Converts a <code>Result&lt;T, E&gt;</code> into an <code>Option&lt;T&gt;</code>, discarding the error.</p>
+<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">opt</span>: <span class="nb">Option</span><span class="o">&lt;</span><span class="kt">i32</span><span class="o">&gt;</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">Result</span>::<span class="nb">Ok</span><span class="p">(</span><span class="mi">10</span><span class="p">).</span><span class="n">ok</span><span class="p">();</span><span class="w"> </span><span class="c1">// Some(10)</span>
+</code></pre></div>
+<h3 id="ok_orerr-option-result"><code>ok_or(err) (Option → Result)</code></h3>
+<p>Converts an <code>Option&lt;T&gt;</code> into a <code>Result&lt;T, E&gt;</code>, using a provided error.</p>
+<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">res</span>: <span class="nb">Result</span><span class="o">&lt;</span><span class="kt">i32</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="kt">str</span><span class="o">&gt;</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">Some</span><span class="p">(</span><span class="mi">10</span><span class="p">).</span><span class="n">ok_or</span><span class="p">(</span><span class="s">"Missing value"</span><span class="p">);</span><span class="w"> </span><span class="c1">// Ok(10)</span>
+</code></pre></div>
+<h3 id="transforming-errors-with-map_err">Transforming Errors with <code>map_err</code></h3>
+<p>The <code>map_err</code> method transforms the error <code>(E)</code> in a <code>Result</code> into another type while retaining the <code>Err</code> variant.</p>
+<p>Using <code>match</code></p>
+<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">res</span>: <span class="nb">Result</span><span class="o">&lt;</span><span class="kt">i32</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="kt">str</span><span class="o">&gt;</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">Ok</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>
+
+<span class="k">match</span><span class="w"> </span><span class="n">res</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nb">Ok</span><span class="p">(</span><span class="n">val</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Value: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">val</span><span class="p">),</span>
+<span class="w">    </span><span class="nb">Err</span><span class="p">(</span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Error: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">e</span><span class="p">),</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>Using <code>if let</code></p>
+<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">res</span>: <span class="nb">Result</span><span class="o">&lt;</span><span class="kt">i32</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="kt">str</span><span class="o">&gt;</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">Ok</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>
+
+<span class="k">if</span><span class="w"> </span><span class="kd">let</span><span class="w"> </span><span class="nb">Ok</span><span class="p">(</span><span class="n">val</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">res</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Value: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">val</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+<h2 id="printing-errors-with-eprint">Printing Errors with eprint!</h2>
+<p>Use <code>eprint!</code> or <code>eprintln!</code> to print error messages directly to standard error (stderr).</p>
+<div class="highlight"><pre><span></span><code><span class="fm">eprint!</span><span class="p">(</span><span class="s">"An error occurred: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">error</span><span class="p">);</span>
+<span class="fm">eprintln!</span><span class="p">(</span><span class="s">"An error occurred: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">error</span><span class="p">);</span>
+</code></pre></div>
 
 
 
@@ -11827,6 +12074,12 @@
         <script src="https://wavedrom.com/skins/default.js"></script>
       
         <script src="../../assets/javascripts/toggle-sidebar.js" async></script>
+      
+        <script src="../../assets/mkdocs_puml/puml.js"></script>
+      
+        <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+      
+        <script src="../../assets/mkdocs_puml/interaction.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>

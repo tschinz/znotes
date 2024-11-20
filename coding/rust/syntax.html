@@ -15,10 +15,10 @@
         <link rel="canonical" href="https://github.com/tschinz/znotes/coding/rust/syntax.html">
       
       
-        <link rel="prev" href="naming-convention.html">
+        <link rel="prev" href="data_types.html">
       
       
-        <link rel="next" href="traits.html">
+        <link rel="next" href="iterators.html">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
@@ -58,6 +58,10 @@
     
     
       <link rel="stylesheet" href="../../_extra/css/extra.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/puml.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/interaction.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1217,6 +1221,111 @@
   
   
     <li class="md-nav__item">
+      <a href="rustfmt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    rustfmt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="workspaces.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Workspaces
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="package.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Package
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="modules.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="testing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="concepts.html" class="md-nav__link">
         
   
@@ -1238,32 +1347,11 @@
   
   
     <li class="md-nav__item">
-      <a href="design_patterns.html" class="md-nav__link">
+      <a href="memory_regions.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Design Patterns
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="data_types.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Data-Types
+    Memory Regions
   </span>
   
 
@@ -1285,6 +1373,48 @@
   
   <span class="md-ellipsis">
     Naming Conventions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="rustdoc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RustDoc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="data_types.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data-Types
   </span>
   
 
@@ -1577,10 +1707,118 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#format-printlnand-print-macros" class="md-nav__link">
+    <span class="md-ellipsis">
+      format!(), println!()and print!() Macros
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="format!(), println!()and print!() Macros">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#formatting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formatting
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#arguments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Arguments
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#align" class="md-nav__link">
+    <span class="md-ellipsis">
+      Align
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#padding" class="md-nav__link">
+    <span class="md-ellipsis">
+      Padding
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sign" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sign
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precision" class="md-nav__link">
+    <span class="md-ellipsis">
+      Precision
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#type" class="md-nav__link">
+    <span class="md-ellipsis">
+      Type
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="iterators.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iterators
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -1656,90 +1894,6 @@
   
   
     <li class="md-nav__item">
-      <a href="iterators.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Iterators
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="testing.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Testing
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="libraries.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Libraries
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="package.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Package
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="error_handling.html" class="md-nav__link">
         
   
@@ -1761,74 +1915,11 @@
   
   
     <li class="md-nav__item">
-      <a href="memory_regions.html" class="md-nav__link">
+      <a href="design_patterns.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Memory Regions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="modules.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Modules
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="workspaces.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Workspaces
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="rustdoc.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    RustDoc
+    Design Patterns
   </span>
   
 
@@ -1866,11 +1957,11 @@
   
   
     <li class="md-nav__item">
-      <a href="rustfmt.html" class="md-nav__link">
+      <a href="libraries.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    rustfmt
+    Libraries
   </span>
   
 
@@ -8609,11 +8700,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Hanoi tower
+    None
   </span>
   
 
@@ -8630,11 +8721,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Matrix Chain Multiplication
+    None
   </span>
   
 
@@ -8651,11 +8742,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    All permutations and next permutation
+    None
   </span>
   
 
@@ -8672,11 +8763,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Counting 1 Bits
+    None
   </span>
   
 
@@ -8693,11 +8784,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Prime numbers with Eratosthenes sieve
+    None
   </span>
   
 
@@ -8714,11 +8805,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary addition FSM
+    None
   </span>
   
 
@@ -8735,11 +8826,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary Search
+    None
   </span>
   
 
@@ -8756,11 +8847,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Union-find
+    None
   </span>
   
 
@@ -8777,11 +8868,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Generation (Kruskal's Algorithm)
+    None
   </span>
   
 
@@ -8798,11 +8889,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Lee's Algorithm
+    None
   </span>
   
 
@@ -8819,11 +8910,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Dijkstra's Algorithm
+    None
   </span>
   
 
@@ -8840,11 +8931,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with A* Algorithm
+    None
   </span>
   
 
@@ -8861,11 +8952,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Diffie Hellman (DH) Key Exchange
+    None
   </span>
   
 
@@ -8882,11 +8973,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Enigma Virtual Machine
+    None
   </span>
   
 
@@ -8903,11 +8994,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Sorting Algorithms
+    None
   </span>
   
 
@@ -11904,6 +11995,93 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#format-printlnand-print-macros" class="md-nav__link">
+    <span class="md-ellipsis">
+      format!(), println!()and print!() Macros
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="format!(), println!()and print!() Macros">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#formatting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formatting
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#arguments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Arguments
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#align" class="md-nav__link">
+    <span class="md-ellipsis">
+      Align
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#padding" class="md-nav__link">
+    <span class="md-ellipsis">
+      Padding
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sign" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sign
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precision" class="md-nav__link">
+    <span class="md-ellipsis">
+      Precision
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#type" class="md-nav__link">
+    <span class="md-ellipsis">
+      Type
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -12416,6 +12594,114 @@ are ignored.</p>
 <span class="w">  </span><span class="p">}</span>
 <span class="p">}</span>
 </code></pre></div>
+<h2 id="format-printlnand-print-macros"><code>format!()</code>, <code>println!()</code>and <code>print!()</code> Macros</h2>
+<p>These marcos are a very powerful tool to format strings. <code>format!()</code> formats a string and returns it, <code>println!()</code> prints the formatted string to the console and <code>print!()</code> does the same but without a newline.</p>
+<p>The Rust documentation provides a good overview of the formatting syntax: <a href="https://doc.rust-lang.org/std/fmt/">std::fmt</a>.</p>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="n">format_string</span><span class="p">,</span><span class="w"> </span><span class="n">arguments</span><span class="o">..</span><span class="p">.)</span>
+</code></pre></div>
+<h3 id="formatting">Formatting</h3>
+<div class="highlight"><pre><span></span><code>formatting = [argument][:][[fill]align][sign][#][0][width][.precision][type]
+argument   = integer | identifier
+fill       = &lt;any character&gt;
+align      = "&lt;" | "&gt;" | "^"
+sign       = "+"
+"#"        = alternate formatting
+"0"        = zero-padding
+width      = integer
+precision  = integer
+type       = "b" | "o" | "x" | "X" | "e" | "E" | "p" | "?"
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>"{" [argument][":"][[fill]align][sign]["#"]["0"][width][.precision][type] "}"
+        /             /    /      /    /    /                \        \
+       /             /    /      /    /    |                  \        \
+      /             /    /      /    /     |- padding "0"      \        |
+     /             /    /      /    |                           \       |
+    /             /    /      |     |- alternate formatting      \      |
+   /             /    /       |     |- (human-reable)             \     |
+  /             /    /        |                                    |    |
+ |             /    /         |- "" - default                      |    |
+ |            /    /          |- + - + prefix        by tschinz    |    |
+ |           /    |                                                |    |
+ |          /     |                  nbr of descendants - integer -|    |
+ |         |      |                                                     |
+ |         |      |- &lt; - left (default)      "" - default follows type -|
+ |         |      |- &gt; - right              "b" - binary ---------------|
+ |         |      |- ^ - center             "o" - octal ----------------|
+ |         |                                "x" - hex ------------------|
+ |         |- any character for padding     "X" - Hex ------------------|
+ |                                          "e" - scientific -----------|
+ |- "" - follows arg sequence (default)     "E" - Scientific -----------|
+ |- integer - selects arg by position       "p" - pointer addr ---------|
+ |- identifier - selects arg by name        "?" - debug (trait req) ----|
+</code></pre></div>
+<h3 id="arguments">Arguments</h3>
+<div class="highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="fm">format!</span><span class="p">(</span><span class="s">"Hello, {}, the answer is {}"</span><span class="p">,</span><span class="w"> </span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="mi">42</span><span class="p">);</span><span class="w">                  </span><span class="c1">// Positional Arguments</span>
+<span class="kd">let</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="fm">format!</span><span class="p">(</span><span class="s">"Hello, {name}, the answer is {age}"</span><span class="p">,</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"Bob"</span><span class="p">,</span><span class="w"> </span><span class="n">age</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">7</span><span class="p">);</span><span class="w"> </span><span class="c1">// Named Arguments</span>
+<span class="kd">let</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="fm">format!</span><span class="p">(</span><span class="s">"{0} is {1} years old. {0} loves Rust!"</span><span class="p">,</span><span class="w"> </span><span class="s">"Carol"</span><span class="p">,</span><span class="w"> </span><span class="mi">25</span><span class="p">);</span><span class="w">      </span><span class="c1">// Reusing Arguments</span>
+</code></pre></div>
+<h3 id="align">Align</h3>
+<p>Align a text on a given width</p>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="s">"{:&lt;8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w">  </span><span class="c1">// 1....... - left   aligned</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w">  </span><span class="c1">// .......1 -  right aligned</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:^8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w">  </span><span class="c1">// ...1.... - center aligned</span>
+</code></pre></div>
+<h3 id="padding">Padding</h3>
+<p>For <code>0</code> there are tow padding possibilities. The  <code>0</code> and <code>0+</code>. The <code>0</code> padding is only allowed for numeric types and the <code>0+</code> padding is only allowed for signed numeric types.</p>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="s">"{:*&lt;8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">// 1******* - left  align, padding "*"</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:0&gt;8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">// 00000001 - right align, padding "0"</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;08}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">// 00000001 - right align, padding leading "0"</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{: &gt;8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">//        1 - right align, padding " "</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#^8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">// ###1#### - right align, padding "#"</span>
+</code></pre></div>
+<h3 id="sign">Sign</h3>
+<p>Only the "+" sign is allowed for the sign. For the "-" sign simply use a negative value</p>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;+8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w">   </span><span class="c1">//       +1 - right align, sign +</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8}"</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="p">);</span><span class="w">   </span><span class="c1">//       -1 - right align, sign -</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;+#08}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">// +0000001 - right align, sign +, padding leading "0"</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:0&gt;+#8}"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w"> </span><span class="c1">// 000000+1 - right align, padding "0", sign +</span>
+</code></pre></div>
+<h3 id="precision">Precision</h3>
+<p>Number of digits of floating point numbers</p>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.0}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">//        3  - right align, 0 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.1}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">//      2.7  - right align, 1 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.2}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">//     2.72  - right align, 2 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.3}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">//    2.718  - right align, 3 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.4}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">//   2.7183  - right align, 4 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.5}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">//  2.71828  - right align, 5 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.6}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">// 2.718282  - right align, 6 digit precision</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:&gt;8.7}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w"> </span><span class="c1">// 2.7182818 - right align, 7 digit precision</span>
+</code></pre></div>
+<h3 id="type">Type</h3>
+<p>Display a value in a specific format</p>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="s">"{:}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="kt">u32</span><span class="p">);</span><span class="w">        </span><span class="c1">// 2                     - Integer (follows type)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">);</span><span class="w">               </span><span class="c1">// 2.718281828459045     - Float (follows type)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:b}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">          </span><span class="c1">// 1100000011011110      - Binary</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#b}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">         </span><span class="c1">// 0b1100000011011110    - Binary alternative (adds "0b")</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#034b}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">      </span><span class="c1">// 0b00000000000000001100000011011110 - Binary 32bit (adds "0b" and 32 digits)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:o}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">          </span><span class="c1">// 140336                - Octal</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#o}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">         </span><span class="c1">// 0o140336              - Octal alternative (adds "0o")</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#018o}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">      </span><span class="c1">// 0o0000000000140336    - Octal 16 digits (adds "0o" and 16 digits)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:x}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">          </span><span class="c1">// c0de                  - Hex lower case</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#x}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">         </span><span class="c1">// 0xc0de                - Hex lower case alternative (adds "0x")</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#010x}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">      </span><span class="c1">// 0x0000c0de            - Hex 8 digits (adds "0x" and 8 digits)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:X}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">          </span><span class="c1">// C0DE                  - Hex upper case</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#X}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">         </span><span class="c1">// 0xC0DE                - Hex upper case alternative (adds "0X")</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#010X}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w">      </span><span class="c1">// 0x0000C0DE            - Hex 8 digits (adds "0X" and 8 digits)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:e}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">.</span><span class="n">powf</span><span class="p">(</span><span class="mf">123.0</span><span class="p">));</span><span class="w">  </span><span class="c1">// 2.6195173187490456e53 - Scientific notation lower case (adds "e")</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:E}"</span><span class="p">,</span><span class="w"> </span><span class="n">E</span><span class="p">.</span><span class="n">powf</span><span class="p">(</span><span class="mf">123.0</span><span class="p">));</span><span class="w">  </span><span class="c1">// 2.6195173187490456E53 - Scientific notation upper case (adds "E")</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:p}"</span><span class="p">,</span><span class="w"> </span><span class="o">&amp;</span><span class="mi">1</span><span class="p">);</span><span class="w">             </span><span class="c1">// 0x1021872c0           - Pointer address</span>
+<span class="c1">// ? requires the Debug trait to be implemented for the type</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:?}"</span><span class="p">,</span><span class="w"> </span><span class="fm">vec!</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">]);</span><span class="w">  </span><span class="c1">// [1, 2, 3]             - Compact Debug Format (single line)</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{:#?}"</span><span class="p">,</span><span class="w"> </span><span class="fm">vec!</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">]);</span><span class="w"> </span><span class="c1">// [                     - Pretty Debug Format (human-readable)</span>
+<span class="w">                                 </span><span class="c1">//     1,</span>
+<span class="w">                                 </span><span class="c1">//     2,</span>
+<span class="w">                                 </span><span class="c1">//     3,</span>
+<span class="w">                                 </span><span class="c1">// ]</span>
+</code></pre></div>
+<h3 id="examples">Examples</h3>
+<div class="highlight"><pre><span></span><code><span class="fm">format!</span><span class="p">(</span><span class="s">"{0:.&gt;+10.3e}"</span><span class="p">,</span><span class="n">E</span><span class="p">);</span><span class="w">   </span><span class="c1">// ..+2.718e0 - right align, padding ".", sign "+", 10 width, 3 digit precision, scientific notation</span>
+<span class="fm">format!</span><span class="p">(</span><span class="s">"{0:#010x}"</span><span class="p">,</span><span class="w"> </span><span class="mi">49374</span><span class="p">);</span><span class="w"> </span><span class="c1">// 0x0000c0de - padding leading "0", 8 digits, Hex lower case alternative (adds "0x")</span>
+</code></pre></div>
 
 
 
@@ -12532,6 +12818,12 @@ are ignored.</p>
         <script src="https://wavedrom.com/skins/default.js"></script>
       
         <script src="../../assets/javascripts/toggle-sidebar.js" async></script>
+      
+        <script src="../../assets/mkdocs_puml/puml.js"></script>
+      
+        <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+      
+        <script src="../../assets/mkdocs_puml/interaction.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>

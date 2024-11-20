@@ -15,10 +15,10 @@
         <link rel="canonical" href="https://github.com/tschinz/znotes/coding/rust/design_patterns.html">
       
       
-        <link rel="prev" href="concepts.html">
+        <link rel="prev" href="error_handling.html">
       
       
-        <link rel="next" href="data_types.html">
+        <link rel="next" href="rust2python.html">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
@@ -58,6 +58,10 @@
     
     
       <link rel="stylesheet" href="../../_extra/css/extra.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/puml.css">
+    
+      <link rel="stylesheet" href="../../assets/mkdocs_puml/interaction.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -1217,11 +1221,326 @@
   
   
     <li class="md-nav__item">
+      <a href="rustfmt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    rustfmt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="workspaces.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Workspaces
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="package.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Package
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="modules.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modules
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="testing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="concepts.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Concepts
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="memory_regions.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Memory Regions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="naming-convention.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Naming Conventions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="rustdoc.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RustDoc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="data_types.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data-Types
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="syntax.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Syntax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="iterators.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iterators
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="traits.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traits
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="lifetimes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lifetimes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="generics.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Generics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="error_handling.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Error Handling
   </span>
   
 
@@ -1282,39 +1601,6 @@
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#structures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Structures
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Structures">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#for-a-binary-crate" class="md-nav__link">
-    <span class="md-ellipsis">
-      For a binary crate
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#for-a-library-crate" class="md-nav__link">
-    <span class="md-ellipsis">
-      For a library crate
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
       
         <li class="md-nav__item">
   <a href="#idioms" class="md-nav__link">
@@ -1410,321 +1696,6 @@
   
   
     <li class="md-nav__item">
-      <a href="data_types.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Data-Types
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="naming-convention.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Naming Conventions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="syntax.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Syntax
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="traits.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Traits
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="lifetimes.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Lifetimes
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="generics.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Generics
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="iterators.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Iterators
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="testing.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Testing
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="libraries.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Libraries
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="package.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Package
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="error_handling.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Error Handling
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="memory_regions.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Memory Regions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="modules.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Modules
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="workspaces.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Workspaces
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="rustdoc.html" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    RustDoc
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="rust2python.html" class="md-nav__link">
         
   
@@ -1746,11 +1717,11 @@
   
   
     <li class="md-nav__item">
-      <a href="rustfmt.html" class="md-nav__link">
+      <a href="libraries.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    rustfmt
+    Libraries
   </span>
   
 
@@ -8489,11 +8460,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/000-hanoi-tower.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Hanoi tower
+    None
   </span>
   
 
@@ -8510,11 +8481,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/001-matrix-chain-multiplication.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Matrix Chain Multiplication
+    None
   </span>
   
 
@@ -8531,11 +8502,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/002-permutations.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    All permutations and next permutation
+    None
   </span>
   
 
@@ -8552,11 +8523,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/003-counting-1bits.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Counting 1 Bits
+    None
   </span>
   
 
@@ -8573,11 +8544,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/004-eratosthenes-sieve.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Prime numbers with Eratosthenes sieve
+    None
   </span>
   
 
@@ -8594,11 +8565,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/005-binary-addition-fsm.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary addition FSM
+    None
   </span>
   
 
@@ -8615,11 +8586,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/006-binary-search.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Binary Search
+    None
   </span>
   
 
@@ -8636,11 +8607,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/007-union-find.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Union-find
+    None
   </span>
   
 
@@ -8657,11 +8628,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/008-maze-generation-kruskal.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Generation (Kruskal's Algorithm)
+    None
   </span>
   
 
@@ -8678,11 +8649,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/009-maze-solver-lee.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Lee's Algorithm
+    None
   </span>
   
 
@@ -8699,11 +8670,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/010-maze-solver-dijkstra.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with Dijkstra's Algorithm
+    None
   </span>
   
 
@@ -8720,11 +8691,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/011-maze-solver-astar.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Maze Solver with A* Algorithm
+    None
   </span>
   
 
@@ -8741,11 +8712,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/012-diffie-hellman-key-exchange.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Diffie Hellman (DH) Key Exchange
+    None
   </span>
   
 
@@ -8762,11 +8733,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/013-enigma-machine.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Enigma Virtual Machine
+    None
   </span>
   
 
@@ -8783,11 +8754,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.html" class="md-nav__link">
+      <a href="../../computerscience/algorithms/daysofalgo/014-sorting-algorithms.ipynb" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Sorting Algorithms
+    None
   </span>
   
 
@@ -11554,39 +11525,6 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#structures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Structures
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Structures">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#for-a-binary-crate" class="md-nav__link">
-    <span class="md-ellipsis">
-      For a binary crate
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#for-a-library-crate" class="md-nav__link">
-    <span class="md-ellipsis">
-      For a library crate
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#idioms" class="md-nav__link">
     <span class="md-ellipsis">
       Idioms
@@ -11712,60 +11650,6 @@
 
 <h1 id="design-patterns">Design Patterns</h1>
 <p>List of common and idiomatic design patterns in Rust. These patterns could be found in mutliple books and articles and also in the <a href="https://rust-unofficial.github.io/patterns/">Unofficial Rust Book</a></p>
-<h2 id="structures">Structures</h2>
-<p>In every project there are two main files <code>main.rs</code> and <code>lib.rs</code>. For a binary project, the <code>main.rs</code> file is the entry point of the program. For a library project, the <code>lib.rs</code> file is the entry point of the library. If there are multiple source files in the project there are different ways to intregrate them into your project.</p>
-<h3 id="for-a-binary-crate">For a binary crate</h3>
-<p>file structure:
-- <code>src/</code>
-    - <code>main.rs</code>
-    - <code>config.rs</code>
-    - <code>helpers.rs</code></p>
-<div class="highlight"><span class="filename">main.rs</span><pre><span></span><code><span class="k">mod</span> <span class="nn">config</span><span class="p">;</span>
-<span class="k">mod</span> <span class="nn">helpers</span><span class="p">;</span>
-
-<span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="n">config</span>::<span class="n">read_config</span><span class="p">();</span>
-<span class="p">}</span>
-</code></pre></div>
-<div class="highlight"><span class="filename">config.rs</span><pre><span></span><code><span class="k">crate</span>::<span class="n">helpers</span>::<span class="n">do_something</span><span class="p">();</span>
-
-<span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">read_config</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="n">do_something</span><span class="p">();</span>
-<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Reading config"</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div>
-<div class="highlight"><span class="filename">helpers.rs</span><pre><span></span><code><span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">do_something</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Doing something"</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div>
-<h3 id="for-a-library-crate">For a library crate</h3>
-<p>including a <code>main.rs</code></p>
-<p>file structure:
-- <code>rust_lib/src/</code>
-    - <code>main.rs</code>
-    - <code>lib.rs</code>
-    - <code>config.rs</code>
-    - <code>helpers.rs</code></p>
-<div class="highlight"><span class="filename">lib.rs</span><pre><span></span><code><span class="k">pub</span><span class="w"> </span><span class="k">mod</span> <span class="nn">config</span><span class="p">;</span>
-<span class="k">pub</span><span class="w"> </span><span class="k">mod</span> <span class="nn">helpers</span><span class="p">;</span>
-</code></pre></div>
-<div class="highlight"><span class="filename">main.rs</span><pre><span></span><code><span class="n">user</span><span class="w"> </span><span class="n">rust_lib</span>::<span class="n">config</span><span class="p">;</span>
-
-<span class="k">fn</span> <span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="n">config</span>::<span class="n">read_config</span><span class="p">();</span>
-<span class="p">}</span>
-</code></pre></div>
-<div class="highlight"><span class="filename">config.rs</span><pre><span></span><code><span class="k">crate</span>::<span class="n">helpers</span>::<span class="n">do_something</span><span class="p">();</span>
-
-<span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">read_config</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="n">do_something</span><span class="p">();</span>
-<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Reading config"</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div>
-<div class="highlight"><span class="filename">helpers.rs</span><pre><span></span><code><span class="k">pub</span><span class="w"> </span><span class="k">fn</span> <span class="nf">do_something</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="fm">println!</span><span class="p">(</span><span class="s">"Doing something"</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div>
 <h2 id="idioms">Idioms</h2>
 <h3 id="safely-unwrap-option-and-result">Safely Unwrap <code>Option</code> and <code>Result</code></h3>
 <p>Use <code>unwrap_or</code> to provide a default value when unwrapping an <code>Option</code> or <code>Result</code>.</p>
@@ -12009,6 +11893,12 @@
         <script src="https://wavedrom.com/skins/default.js"></script>
       
         <script src="../../assets/javascripts/toggle-sidebar.js" async></script>
+      
+        <script src="../../assets/mkdocs_puml/puml.js"></script>
+      
+        <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+      
+        <script src="../../assets/mkdocs_puml/interaction.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
