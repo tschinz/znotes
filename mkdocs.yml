@@ -1,13 +1,13 @@
 # Project information
-site_name: Braindump
-site_url: https://github.com/tschinz/znotes
+site_name: Zentauri
+site_url: https://tschinz.github.com
 site_author: tschinz
 site_description: >-
   Personal Knowledge Base, for everything I want to remember.
 
 # Repository
-repo_name: tschinz/znotes
-repo_url: https://github.com/tschinz/znotes
+repo_name: tschinz
+repo_url: https://github.com/tschinz/tschinz
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -19,11 +19,10 @@ copyright: Copyright &copy; 2004 - 2024 tschinz
 # Configuration
 theme:
   name: material
-  logo: img/logo-dark.svg
+  logo: img/logo.svg
   icon:
     logo: logo
-  favicon: img/z-icon.svg
-  #favicon: img/favicon.png
+  favicon: img/favicon.svg
   font:
     text: Fira Sans
     code: Fira Code
@@ -75,10 +74,10 @@ extra:
   #  - name: Deutsch
   #    link: /de/
   #    lang: de
-  base_url: https://tschinz.github.io/znotes
-  base_repo: https://github.com/tschinz/znotes-mkdocs
-  base_repo_file: https://github.com/tschinz/znotes-mkdocs/blob/main
-  base_repo_folder: https://github.com/tschinz/znotes-mkdocs/tree/main
+  base_url: https://tschinz.github.io
+  base_repo: https://github.com/tschinz/tschinz
+  base_repo_file: https://github.com/tschinz/tschinz/blob/main
+  base_repo_folder: https://github.com/tschinz/tschinz/tree/main
   config_repo: https://github.com/tschinz/config
   config_repo_file: https://github.com/tschinz/config/blob/master
   config_repo_folder: https://github.com/tschinz/config/tree/master
@@ -111,8 +110,8 @@ plugins:
       authors_file: "{blog}/.authors.yml"
   - rss:
       enabled: !ENV [CI, false]
-      match_path: blog/posts/.*
-      #match_path: ".*"
+      #match_path: blog/posts/.*
+      match_path: ".*"
       date_from_meta:
         as_creation: date
       categories:

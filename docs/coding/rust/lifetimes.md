@@ -151,3 +151,56 @@ where                                   // Trait bound
   }
 }
 ```
+
+## Constant values
+Rust provides two ways to define constant values: `static` and `const`. While they may seem similar, they serve different purposes and have key differences.
+
+### `static`
+
+- Represents a globally allocated variable with a `'static` lifetime, meaning it lives for the entire duration of the program.
+- Stored in a specific memory location, and its address can be referenced.
+- Can be mutable (with unsafe), but it is typically immutable.
+
+
+#### `static` Constants
+
+A `static` constant is a globally allocated value that is stored in a fixed memory location and exists for the entire duration of the program. All `static` variables have the `'static` lifetime implicitly.
+
+```rust
+
+let GREETING: &str = "Hello, Rust!";
+
+fn main() {
+    println!("{}", GREETING); // "Hello, Rust!"
+}
+```
+
+#### `’'static` Lifetime
+
+The `'static` lifetime is a lifetime specifier that indicates the referenced data lives for the entire duration of the program. While all `static` constants have the `'static` lifetime, not all `'static` lifetimes refer to `static` constants.
+
+```rust
+fn get_greeting() -> &'static str {
+    "Hello, lifetime!" // This string literal has a 'static lifetime
+}
+
+fn main() {
+    let message: &'static str = get_greeting();
+    println!("{}", message); // "Hello, lifetime!"
+}
+```
+
+### `const`
+
+- Represents a compile-time constant, embedded directly into the code where it is used.
+- Not stored in memory, but computed at compile time.
+- Always immutable.
+
+```rust
+// A compile-time constant embedded directly into the code
+const PI: f64 = 3.141592653589793;
+
+fn main() {
+    println!("The value of PI is: {}", PI); // "The value of PI is: 3.141592653589793"
+}
+```

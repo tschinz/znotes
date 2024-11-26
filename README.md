@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="./docs/img/logo.svg" alt="Z-Notes Logo" width="250">
+  <img src="./docs/img/logo.svg" alt="Zentauri Logo" width="250">
   <br>
-  Z-Notes Knowledge Database
+  Zentauri Knowledge Database
   <br>
 </h1>
 

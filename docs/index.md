@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-![](img/logo-dark.svg){.center}
+![](img/logo.svg){.center width=500px}
 
 # Welcome to my (0,0,0)
 

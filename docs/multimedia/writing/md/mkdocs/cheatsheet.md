@@ -913,68 +913,175 @@ This documentation makes use of the [plantuml-markdown plugin](https://github.co
 
 For a small Cheatsheet for PlantUML see <https://ogom.github.io/draw_uml/plantuml/>
 
+```md
 ```plantuml
-title PlantUml Demo
-left to right direction
-skinparam packageStyle rectangle
-actor customer
-actor clerk
-rectangle checkout {
-  customer -- (checkout)
-  (checkout) .> (payment) : include
-  (help) .> (checkout) : extends
-  (checkout) -- clerk
-}
+@startmindmap
+* **Pillars of OOP**
+**: **Inheritance**
+(Sharing of information);
+**: **Encapsulation**
+(Grouping of information);
+**: **Abstraction**
+(Hiding of information);
+**: **Polymorphism**
+(Redefining of information;
+@endmindmap
+ ```
 ```
 
-```plantuml
-class Foo1 {
-  You can use
-  several lines
-  ..
-  as you want
-  and group
-  ==
-  things together.
-  __
-  You can have as many groups
-  as you want
-  --
-  End of class
-}
-
-class User {
-  .. Simple Getter ..
-  + getName()
-  + getAddress()
-  .. Some setter ..
-  + setName()
-  __ private data __
-  int age
-  -- encrypted --
-  String password
-}
+```puml
+@startmindmap
+* **Pillars of OOP**
+**: **Inheritance**
+(Sharing of information);
+**: **Encapsulation**
+(Grouping of information);
+**: **Abstraction**
+(Hiding of information);
+**: **Polymorphism**
+(Redefining of information;
+@endmindmap
 ```
 
+```md
 ```plantuml
-class Foo1 {
-
-:   You can use several lines .. as you want and group == things
-    together. \_\_ You can have as many groups as you want \--End of
-    class
-
+@startuml
+class Pokemon {
+  .. Attributes ..
+- name: str { name }
+- type: str { type }
+- health: int { health }
+- attack: int { attack }
+- defense: int { defense }
+- speed: int { speed }
+  .. Methods ..
+- speak(): Type {}
+- attack(): Type {}
+- dodge(): Type {}
+- evolve(): Type {}
 }
-
-class User {
-
-:   -   getName()
-
-    \+ getAddress() .. Some setter .. + setName() \_\_ private data \_\_
-    int age \-- encrypted \--String password
-
-}
+@enduml
+ ```
 ```
 
+```puml
+@startuml
+class Pokemon {
+  .. Attributes ..
+- name: str { name }
+- type: str { type }
+- health: int { health }
+- attack: int { attack }
+- defense: int { defense }
+- speed: int { speed }
+  .. Methods ..
+- speak(): Type {}
+- attack(): Type {}
+- dodge(): Type {}
+- evolve(): Type {}
+}
+@enduml
+```
+
+```md
+```plantuml
+@startuml
+class Pokemon {
+  .. Attributes ..
+- name: str { name }
+- type: str { type }
+- health: int { health }
+- attack: int { attack }
+- defense: int { defense }
+- speed: int { speed }
+  .. Methods ..
+- speak(): Type {}
+- attack(): Type {}
+- dodge(): Type {}
+- evolve(): Type {}
+}
+
+class ElectricPokemon {
+.. Attributes ..
+- special_attack: int {special_attack}
+.. Methods ..
+- speak(): Type {}
+- electricAttack(): Type {}
+}
+
+class FirePokemon {
+.. Attributes ..
+- special_attack: int {special_attack}
+.. Methods ..
+- speak(): Type {}
+- fireAttack(): Type {}
+}
+
+class WaterPokemon {
+.. Attributes ..
+- special_attack: int {special_attack}
+.. Methods ..
+- speak(): Type {}
+- waterAttack(): Type {}
+}
+
+Pokemon <|-- ElectricPokemon
+Pokemon <|-- FirePokemon
+Pokemon <|-- WaterPokemon
+
+@enduml
+ ```
+```
+
+```puml
+@startuml
+class Pokemon {
+  .. Attributes ..
+- name: str { name }
+- type: str { type }
+- health: int { health }
+- attack: int { attack }
+- defense: int { defense }
+- speed: int { speed }
+  .. Methods ..
+- speak(): Type {}
+- attack(): Type {}
+- dodge(): Type {}
+- evolve(): Type {}
+}
+
+class ElectricPokemon {
+.. Attributes ..
+- special_attack: int {special_attack}
+.. Methods ..
+- speak(): Type {}
+- electricAttack(): Type {}
+}
+
+class FirePokemon {
+.. Attributes ..
+- special_attack: int {special_attack}
+.. Methods ..
+- speak(): Type {}
+- fireAttack(): Type {}
+}
+
+class WaterPokemon {
+.. Attributes ..
+- special_attack: int {special_attack}
+.. Methods ..
+- speak(): Type {}
+- waterAttack(): Type {}
+}
+
+Pokemon <|-- ElectricPokemon
+Pokemon <|-- FirePokemon
+Pokemon <|-- WaterPokemon
+
+@enduml
+```
+
+```md
 ```plantuml
 @startuml
 title Authentication Sequence
@@ -982,21 +1089,14 @@ title Authentication Sequence
     note right of Bob: Bob thinks about it
     Bob->Alice: Authentication Response
 @enduml
+ ```
 ```
 
-```plantuml
-
-Alice -\> Bob: Authentication Request Bob \--\> Alice: Authentication
-Response
-
-Alice -\> Bob: Another authentication Request Alice \<\-- Bob: Another
-authentication Response
-```
-
-```plantuml
-actor actor agent agent artifact artifact boundary boundary card card
-cloud cloud component component control control database database entity
-entity file file folder folder frame frame interface interface node node
-package package queue queue stack stack rectangle rectangle storage
-storage usecase usecase
+```puml
+@startuml
+title Authentication Sequence
+    Alice->Bob: Authentication Request
+    note right of Bob: Bob thinks about it
+    Bob->Alice: Authentication Response
+@enduml
 ```
