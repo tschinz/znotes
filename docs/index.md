@@ -8,11 +8,17 @@ hide:
 
 # Welcome to my (0,0,0)
 
-This webpage is a compilation of information that I aimed to learn at various points in time. It is a work in progress and may not yet meet high-quality standards. Through years of experience, I've discovered that creating summaries and cheat sheets about a topic is the most effective way to learn and assimilate knowledge.
+This webpage is a compilation of knowledge I’ve pursued and documented over the years. It is a living project — a work in progress that does not need perfection, but reflects my passion for learning and sharing insights.
 
-This collection originated on paper around 1999 and transitioned into a webpage format in 2004. It has undergone significant transformations, initially using Dokuwiki, then Sphinx, and now MKDocs.
+Through experience, I’ve discovered that crafting summaries and cheat sheets is the most effective way to master and retain new knowledge. This approach forms the foundation of this knowledge base.
 
-Feel free to explore the content, if it proves beneficial to others, that's even better.
+The journey began on paper in 1999 and transitioned to a webpage in 2004. Over the years, it has transformed alongside my learning process:
+
+- ZWiki was its first iteration, embodying simplicity and collaboration.
+- Znotes came next, focusing on personal, well-organized knowledge.
+- Now, as Zentauri, it symbolizes a constellation of interconnected insights — a map of learning inspired by the stars.
+
+Feel free to explore the content. If it proves helpful to others, that’s an added bonus. Thank you for visiting my evolving archive of understanding.
 
 ## :heart: Favorites
 
