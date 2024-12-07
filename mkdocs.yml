@@ -350,6 +350,7 @@ nav:
           - Comands: tools/git/commands.md
           - Submodules: tools/git/submodules.md
           - .gitignore: tools/git/gitignore.md
+          - git-cliff: tools/git/git-cliff.md
           - Gitflow: tools/git/flow.md
           - Github: tools/git/github.md
       - Docker:

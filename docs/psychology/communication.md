@@ -73,3 +73,45 @@ Malcolm Gladwell’s [Talking to Strangers](https://www.google.ch/books/edition/
 
 - **Charisma and Deception** - Being charismatic and extroverted is not an indicator of truthfulness. Charismatic individuals can often be the most effective liars because they are skilled at manipulating others’ perceptions. In contrast, introverted or nervous people may struggle to convey the truth convincingly, causing others to doubt them unjustly.
 - **Complexity of Communication** - Gladwell argues that we should be more cautious in our judgments of strangers, as our instincts to rely on transparency and trust are often misleading. Rather than relying on superficial impressions, we should seek out objective facts to make more informed decisions.
+
+## How To Win Friends & Influence People
+
+![](img/how-to-win-friends_influence-people.jpg){.center width="20%"}
+
+### Fundamental Techniques in Handling People
++ **Don't criticize**.
++ **Give** honest and sincere **appreciation**.
++ Arouse in the other person an eager want.
+
+### Six ways to make people like you
++ **Become** genuinely **interested** in other people.
++ **Smile**.
++ Remember a person's **name**.
++ Be a **good listener**. Encourage others to talk about themselves.
++ **Talk** in terms of the **other person's interests**.
++ **Make** the other person feel **important** - and do it sincerely.
+
+### Win people to your way of thinking
++ The only way to get the best of an **argument** is to **avoid** it.
++ Show respect for the other person's opinions. **Never say, "You're wrong."**
++ **If you are wrong, admit it** quickly and emphatically.
++ **Begin** in a **friendly** way.
++ Get the **other person saying "yes, yes" immediately**.
++ Let the other person do a great deal of the talking.
++ Let the other person feel that the **idea** is **his** or **hers**.
++ Try honestly to **see things from the other person's point of view**.
++ Be sympathetic with the other person's ideas and desires.
++ Appeal to the nobler motives.
++ **Dramatize** your ideas.
++ Throw down a challenge.
+
+### Be a Leader
++ **Begin with** praise and honest **appreciation**.
++ Call attention to people's **mistakes indirectly**.
++ **Talk about your own mistakes before criticizing** the other person.
++ Ask questions instead of giving direct orders.
++ **Let** the other person **save face**.
++ **Praise the slightest improvement** and praise every improvement.
++ Give the other person a fine reputation to live up to.
++ Use encouragement. **Make the fault seem easy to correct**.
++ **Make** the other person **happy** about **doing** the **thing** you **suggest**.
