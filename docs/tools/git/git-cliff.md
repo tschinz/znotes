@@ -107,7 +107,8 @@ Existing users must update their access tokens.
 
 Here’s an example `.git-cliff.toml` configuration file to customize the changelog:
 
-[git-cliff-detailed.toml](docs/git-cliff-detailed.toml)
+- [git-cliff-default.toml](docs/git-cliff-default.toml)
+- [git-cliff-detailed.toml](docs/git-cliff-detailed.toml)
 
 ## Getting started
 

@@ -81,6 +81,10 @@ A list of my favorite books
 
 ## Psychology
 
-| Cover                                          | Book                                                                                                                                             | Year | Author         | Rating             |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | -------------- | ------------------ |
-| ![](img/supercommunicators.jpg){width="100px"} | [Supercommunicators](https://www.google.ch/books/edition/Supercommunicators/D9e_EAAAQBAJ?hl=de&gbpv=1&dq=supercommunicators&printsec=frontcover) | 2024 | Charles Duhigg | :star::star::star: |
+| Cover                                                                  | Book                                                                                                                                             | Year | Author           | Rating             |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ---------------- | ------------------ |
+| ![](img/supercommunicators.jpg){width="100px"}                         | [Supercommunicators](https://www.google.ch/books/edition/Supercommunicators/D9e_EAAAQBAJ?hl=de&gbpv=1&dq=supercommunicators&printsec=frontcover) | 2024 | Charles Duhigg   | :star::star::star: |
+| ![](img/atomic-habits.jpg){width="100px"}                              | [Atomic Habits](https://books.google.ch/books/about/Atomic_Habits.html?id=lFhbDwAAQBAJ)                                                          | 2018 | James Clear      | :star::star::star: |
+| ![](img/talking-to-strangers.jpg){width="100px"}                       | [Talking to Strangers](https://www.google.ch/books/edition/Talking_to_Strangers/DwaHDwAAQBAJ)                                                    | 2019 | Malcolm Gladwell | :star::star:       |
+| ![](img/how-to-win-friends_influence-people.jpg){width="100px"}        | [How to Win Friends and Influence People](https://www.google.ch/books/edition/How_To_Win_Friends_and_Influence_People/yxfJDVXClucC)              | 1937 | Dale Carnegie    | :star::star::star: |
+| ![](img/a-mind-for-numbers.png){width="100px"}                         | [A Mind for Numbers](https://www.google.ch/books/edition/A_Mind_For_Numbers/Sb1iAgAAQBAJ)                                                        | 2014 | Barbara Oakley   | :star: |

@@ -11,7 +11,7 @@ tags:
 
 ## Atomic Habits
 
-![](img/atomic-habits-1.jpg){.center width="20%"}
+![](img/book/atomic-habits.jpg){.center width="20%"}
 
 My take and some ideas from the book [Atomic Habits](https://books.google.ch/books/about/Atomic_Habits.html?id=lFhbDwAAQBAJ&redir_esc=y) by James Clear.
 
