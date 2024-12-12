@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-![](img/logo.svg){.center width=500px}
+![](img/logo.svg){.center width=50%}
 
 # Welcome to my (0,0,0)
 
@@ -30,3 +30,5 @@ Feel free to explore the content. If it proves helpful to others, that’s an ad
 - [Just Examples](tools/just/examples.md)
 - [Linux Commandline](os/linux/commandline/cheatsheet.md)
 - [Numbat](tools/numbat/cheatsheet.md)
+
+![](img/vulcan-sallute-constellation.svg){.center width=30%}
