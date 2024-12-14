@@ -19,13 +19,20 @@ Check out also [Rust Utils](https://rustutils.com/)
 | [dust](https://github.com/bootandy/dust)          | `du`       | Disk Usage      | `dust -n 10`                   | Visualize disk usage of the current directory            |
 | [duf](https://github.com/muesli/duf)              | `du`       | Disk Usage      | `duf -s`                       | Display disk usage with a simple and interactive interface |
 | [procs](https://github.com/dalance/procs)         | `ps`       | Process Viewer  | `procs -a`                     | List all processes with a concise and readable format    |
-| [skim](https://github.com/lotabout/skim)          | `fzf`      | Fuzzy Finder    | `ls | skim`                    | Fuzzy Finder, integrated with commands for interactive file selection  |
 | [ripgrep](https://github.com/BurntSushi/ripgrep)  | `grep`     | Search          | `rg -i TODO src/`              | Recursively searches directories for a regex pattern |
-| [fd](https://github.com/sharkdp/fd)               | `find`     | Search          | `fd '*.rs'`                    | Find files, user-friendlier than `find` |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | -          | Benchmark       | `hyperfine 'cargo build'`      | Measure the execution time of 'cargo build' command      |
 | [tokei](https://github.com/XAMPPRocky/tokei)      | -          | Code Statistics | `tokei src/`                   | Generate code statistics for the Rust source directory  |
 | [delta](https://github.com/dandavison/delta)      | `diff`     | Visual Diff     | `git diff | delta`             | Enhance the git diff output with improved layout and styling |
 | [zenith](https://github.com/bvaisvil/zenith)      | `top`      | Resource viewer | `zenith`                       | Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage. |
+
+**Finder tools**
+
+| Tool                                               | Replaces   | Type            | Example                        | Description                                            |
+|----------------------------------------------------|------------|-----------------|--------------------------------|--------------------------------------------------------|
+| [fd](https://github.com/sharkdp/fd)                | `find`     | Search          | `fd '*.rs'`                    | Find files, user-friendlier than `find` |
+| [skim](https://github.com/lotabout/skim)           | `fzf`      | Fuzzy Finder    | `skim`                         | Fuzzy Finder, integrated with commands for interactive file selection  |
+| [fzf](https://github.com/junegunn/fzf)             | -          | Fuzzy Finder    | `fzf`                          | Fuzzy Finder, integrated with commands for interactive file selection  |
+| [tv](https://github.com/alexpasmantier/television) | `fzf` `sk` s| Fuzzy Finder    | `tv`                           | Fuzzy Finder, with tui allow finding env vars, files, file content, git repos, alias |
 
 ## Commonly used commands
 
@@ -37,4 +44,3 @@ sk --ansi -i -c 'ag --color "{}"' --preview "./preview.sh {}" --bind 'f3:execute
 ```bash
 exa -la
 ```
-

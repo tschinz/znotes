@@ -29,6 +29,7 @@ Feel free to explore the content. If it proves helpful to others, that’s an ad
     - [Syntax](coding/rust/syntax.md)
 - [Just Examples](tools/just/examples.md)
 - [Linux Commandline](os/linux/commandline/cheatsheet.md)
+    - [Nice to know CLI tools](os/linux/commandline/nicetoknow.md)
 - [Numbat](tools/numbat/cheatsheet.md)
 
 ![](img/vulcan-sallute-constellation.svg){.center width=30%}

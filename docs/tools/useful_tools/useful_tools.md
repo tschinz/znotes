@@ -17,8 +17,7 @@ Quick unfinished List of useful tools
 - [Pantuml Page](../../multimedia/pictures/plantuml.md) and [Official Plantuml](https://plantuml.com/)
 - [Graphviz](https://graphviz.org/)
 - [Wavedrom Page](../../multimedia/pictures/wavedrom.md) and [Official Wavedrom](https://wavedrom.com/)
-- [Latex Page](../../multimedia/writing/latex/index.md)
-- [Typst]
+- [Typst](../../multimedia/writing/typst/index.md)
 
 ## Internet
 
@@ -35,6 +34,7 @@ Quick unfinished List of useful tools
 
 ## Management
 
+- [Marta](https://marta.sh)
 - [Total Commander](http://www.ghisler.com/)
 - [Krusader](http://www.krusader.org/)
 - [DCommander](https://devstorm-apps.com/dc/)
@@ -42,6 +42,7 @@ Quick unfinished List of useful tools
 - [iStat Menu](http://bjango.com/mac/istatmenus/)
 - [Virtualbox page](../../tools/virtualbox/index.md)
 - [Keepass](https://keepass.info/)
+- [MacPass](https://macpassapp.org/)
 
 ## Programming
 
