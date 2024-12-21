@@ -578,9 +578,10 @@ nav:
   - Psychology:
       - psychology/index.md
       - Communication: psychology/communication.md
-      - Fast Friend Procedure: psychology/fastfriendprocedure.md
-      - Habits: psychology/habits.md
       - Leadership: psychology/leadership.md
+      - Habits: psychology/habits.md
+      - Fast Friend Procedure: psychology/fastfriendprocedure.md
+      - Happiness: psychology/happiness.md
       - Learning: psychology/learning.md
   - Security:
       - security/index.md
